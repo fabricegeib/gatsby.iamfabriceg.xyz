@@ -8,8 +8,8 @@ export default ({ pageContext: { heroes } }) => (
       <p>{heroes.class}</p>
       <ul>
         {/* <li>{heroes.skills[0]}</li> */}
-        <li>{heroes.skills[1]}</li>
-        <li>{heroes.skills[2]}</li>
+        {/* <li>{heroes.skills[1]}</li> */}
+        {/* <li>{heroes.skills[2]}</li> */}
       </ul>
     </section>
 
