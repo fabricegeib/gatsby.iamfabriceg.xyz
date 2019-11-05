@@ -10,13 +10,17 @@ exports.createPages = ({ actions }) => {
     const fortniteSaveTheWorldHeroesData = [
       {
         name: "Ramirez, maître grenadier",
-        class: "Constructeur",
-        perk: "",
+        type: "Hero",
+        class: "Soldat",
+        rarity: "Mythic",
+        perk: "Bigger is better",
         skillsOne: "",
       },
       {
         name: "Kyle, constructeur méga",
+        type: "Hero",
         class: "Constructeur",
+        rarity: "Mythic",
         perk: "",
         skillsOne: "",
       },

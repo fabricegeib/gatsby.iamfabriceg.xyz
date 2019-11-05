@@ -1,6 +1,8 @@
 import React from "react"
 export default ({ pageContext: { heroes } }) => (
   <section>
-    {heroes.name} - {heroes.breed}
+    <p>{heroes.rarity} | {heroes.type}</p>
+    <p>{heroes.name}</p>
+    <p>{heroes.class}</p>
   </section>
 )
