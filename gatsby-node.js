@@ -14,7 +14,7 @@ exports.createPages = ({ actions }) => {
         class: "Soldat",
         rarity: "Mythic",
         perk: "Bigger is better",
-        skillsOne: "",
+        "skills" : [ "Frag grenade", "Goin' commando!!!", "Shockwave" ]
       },
       {
         name: "Kyle, constructeur méga",
