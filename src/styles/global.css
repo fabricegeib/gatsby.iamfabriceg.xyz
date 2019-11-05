@@ -22,7 +22,7 @@ ul {
 .header {
     /* background: rebeccapurple; */
     background: #333333;
-    marginBottom: 1.45rem;
+    margin-bottom: 1.45rem;
 }
 .header__container {
     margin: 0 auto;
@@ -44,9 +44,9 @@ ul {
     padding-top: 0;
 }
 
-.games {
+/* .games {
 
-}
+} */
 .games a {
     /* text-decoration: none; */
     color: #999999;
@@ -55,9 +55,23 @@ ul {
     color: #666666;
 }
 
-.playerTwitch {
+.card {
+    width: 180px;
+    height: 280px;
 
+    position: absolute;
+
+    border: 4px solid #333333;
+    background-color: #999999;
+
+    color: #ffffff;
+
+    padding: 12px;
 }
+
+/* .playerTwitch {
+
+} */
 
 footer {
     margin: 24px auto;

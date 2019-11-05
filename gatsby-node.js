@@ -31,10 +31,21 @@ exports.createPages = ({ actions }) => {
 
     const fortniteSaveTheWorldHeroesData = [
       {
-        name: "Ramirez, maître grenadier",
+        name: "Master grenadier Ramirez",
+        nameFR: "Ramirez, maître grenadier",
         type: "Hero",
         class: "Soldat",
         rarity: "Mythic",
+        perk: "Bigger is better",
+        "skills" : [ "Frag grenade", "Goin' commando!!!", "Shockwave" ]
+      },
+      {
+        name: "Rescue trooper Ramirez",
+        nameFr: "Ramirez, Soldat d'assistance",
+        type: "Hero",
+        class: "Soldat",
+        rarity: "Mythic",
+        "rarity" : [ "Uncommon", "Rare", "Epic", "Legendary" ],
         perk: "Bigger is better",
         "skills" : [ "Frag grenade", "Goin' commando!!!", "Shockwave" ]
       },
