@@ -14,7 +14,8 @@ const SaveTheWorldPage = () => (
 
     <div className="xxx">
         <ul>
-            <li><Link to="/fortnite/battle-royale/">Battle Royale</Link></li>
+        <li><Link to="/fortnite/armes-a-distances/fusils-d-assaut/">Fusils d'assaut</Link></li>
+          {/* <li><Link to="/fortnite/battle-royale/">Battle Royale</Link></li> */}
         </ul>
     </div>
   </Layout>

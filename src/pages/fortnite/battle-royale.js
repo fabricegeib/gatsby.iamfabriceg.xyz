@@ -14,7 +14,9 @@ const BattleRoyalePage = () => (
 
     <div className="xxx">
         <ul>
-          <li><Link to="/fortnite/save-the-world/">Save the World</Link></li>
+          {/* <li><Link to="/fortnite/save-the-world/">Save the World</Link></li> */}
+          <a class="link skidip" href="https://skidip.team" rel="noopener noreferrer"
+                    target="_blank">skidip.team</a>
         </ul>
     </div>
   </Layout>
