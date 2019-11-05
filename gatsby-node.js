@@ -7,6 +7,28 @@
 // You can delete this file if you're not using it
 exports.createPages = ({ actions }) => {
     const { createPage } = actions
+    const gamesData = [
+      {
+        name: "Fortnite",
+        type: "xxx",
+        dateRelease: "2017",
+        "platforms" : [ "Mac", "Mobile", "Playstation", "PC", "Switch", "Xbox" ],
+      },
+      {
+        name: "Red Dead Redemption 2",
+        type: "xxx",
+        dateRelease: "2018",
+        "platforms" : [ "Mac", "Mobile", "Playstation", "PC", "Xbox" ],
+      },
+    ]
+    gamesData.forEach(games => {
+      createPage({
+        path: `/games/${games.name}`,
+        component: require.resolve(`./src/templates/gamesData-template.js`),
+        context: { games },
+      })
+    })
+
     const fortniteSaveTheWorldHeroesData = [
       {
         name: "Ramirez, maître grenadier",
