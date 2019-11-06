@@ -37,7 +37,7 @@ exports.createPages = ({ actions }) => {
         class: "Soldat",
         rarity: "Mythic",
         perk: "Bigger is better",
-        "skills" : [ "Frag grenade", "Goin' commando!!!", "Shockwave" ]
+        skills : [ "Frag grenade", "Goin' commando!!!", "Shockwave" ]
       },
       {
         name: "Rescue trooper Ramirez",
