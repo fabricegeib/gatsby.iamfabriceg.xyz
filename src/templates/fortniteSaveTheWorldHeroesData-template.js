@@ -1,6 +1,7 @@
 import React from "react"
 
-export default ({ pageContext: { heroes } }) => (
+// export default ({ pageContext: { heroes } }) => (
+export default ({ pageContext: { heroes } }) =>console.log(heroes) || (
   <div className="container">
     <section>
       <p>{heroes.rarity} | {heroes.type}</p>
@@ -10,6 +11,8 @@ export default ({ pageContext: { heroes } }) => (
         {/* <li>{heroes.skills[0]}</li> */}
         {/* <li>{heroes.skills[1]}</li> */}
         {/* <li>{heroes.skills[2]}</li> */}
+        <li>{heroes && heroes.skills[0]}</li>
+        <li>{heroes && heroes.skills[1]}</li>
       </ul>
     </section>
 
