@@ -1,6 +1,5 @@
 import React from "react"
 
-// export default ({ pageContext: { heroes } }) => (
   export default ({ pageContext: { heroes } }) => heroes !== undefined && (
     <div className="container">
       <section>
@@ -8,9 +7,7 @@ import React from "react"
         <p>{heroes.name}</p>
         <p>{heroes.class}</p>
         <ul>
-          <li>{heroes.skills && heroes.skills[0]}</li>
-          <li>{heroes.skills && heroes.skills[1]}</li>
-          <li>{heroes.skills && heroes.skills[2]}</li>
+          {heroes.skills && heroes.skills.map(skill => <li key={skill}>{skill}</li>)}
         </ul>
       </section>
   
