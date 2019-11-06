@@ -11,42 +11,11 @@ class FusilDAssautComponent extends React.Component {
           <thead>
             <tr>
               <th>Fusil d'assault</th>
-              <th colspan="2">Typique</th>
-              <th colspan="2">Atypique</th>
-              <th colspan="2">Rare</th>
-              <th colspan="2">Épique</th>
-              <th colspan="2">Légendaire</th>
-            </tr>
-          </thead>
-          <tbody>
-            {data.map((row, i) => (
-              <tr key={`${row.node.value} ${i}`}>
-                <td>{row.node.Categories}</td>
-                <td>{row.node.Typique}</td>
-                <td>{row.node.field3}</td>
-                <td>{row.node.Atypique}</td>
-                <td>{row.node.field5}</td>
-                <td>{row.node.Rare}</td>
-                <td>{row.node.field7}</td>
-                <td>{row.node.Epique}</td>
-                <td>{row.node.field9}</td>
-                <td>{row.node.Legendaire}</td>
-                <td>{row.node.field11}</td>
-                {/* <td>{row.node.Fusils_d_assaut[3]}</td> */}
-              </tr>
-            ))}
-          </tbody>
-        </table>
-
-        <table>
-          <thead>
-            <tr>
-              <th>Fusil d'assault</th>
-              <th colspan="2">Typique</th>
-              <th colspan="2">Atypique</th>
-              <th colspan="2">Rare</th>
-              <th colspan="2">Épique</th>
-              <th colspan="2">Légendaire</th>
+              <th colSpan="2">Typique</th>
+              <th colSpan="2">Atypique</th>
+              <th colSpan="2">Rare</th>
+              <th colSpan="2">Épique</th>
+              <th colSpan="2">Légendaire</th>
             </tr>
           </thead>
           <tbody>
@@ -80,17 +49,17 @@ export const IndexQuery = graphql`
     allCollectionArmesADistanceFusilsDAssautCsv {
       edges {
         node {
-          Atypique
           Categories
-          Legendaire
-          Rare
           Typique
-          Epique
-          field11
           field3
+          Atypique
           field5
+          Rare
           field7
+          Epique
           field9
+          Legendaire
+          field11
           id
         }
       }
