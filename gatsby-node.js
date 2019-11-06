@@ -9,60 +9,40 @@ exports.createPages = ({ actions }) => {
     const { createPage } = actions
     const gamesData = [
       {
+        slug: "fortnite",
         name: "Fortnite",
         type: "xxx",
         dateRelease: "2017",
         "platforms" : [ "Mac", "Mobile", "Playstation", "PC", "Switch", "Xbox" ],
       },
       {
+        slug: "red-dead-redemption-2",
         name: "Red Dead Redemption 2",
         type: "xxx",
         dateRelease: "2018",
-        "platforms" : [ "Mac", "Mobile", "Playstation", "PC", "Xbox" ],
+        "platforms" : [ "Playstation", "PC", "Xbox" ],
       },
     ]
     gamesData.forEach(games => {
       createPage({
-        path: `/games/${games.name}`,
+        path: `/games/${games.slug}`,
         component: require.resolve(`./src/templates/gamesData-template.js`),
         context: { games },
       })
     })
 
-    const fortniteSaveTheWorldHeroesData = [
+    const fortniteSaveTheWorldHeroesClassData = [
       {
-        name: "Master grenadier Ramirez",
-        nameFR: "Ramirez, maître grenadier",
-        type: "Hero",
-        class: "Soldat",
-        rarity: "Mythic",
-        perk: "Bigger is better",
-        skills : [ "Frag grenade", "Goin' commando!!!", "Shockwave" ]
-      },
-      {
-        name: "Rescue trooper Ramirez",
-        nameFr: "Ramirez, Soldat d'assistance",
-        type: "Hero",
-        class: "Soldat",
-        rarity: "Mythic",
-        "rarity" : [ "Uncommon", "Rare", "Epic", "Legendary" ],
-        perk: "Bigger is better",
-        "skills" : [ "Frag grenade", "Goin' commando!!!", "Shockwave" ]
-      },
-      {
-        name: "Kyle, constructeur méga",
-        type: "Hero",
-        class: "Constructeur",
-        rarity: "Mythic",
-        perk: "",
-        skillsOne: "",
+        name: "soldats",
+        title: "Soldats",
+        date: "06/11/2019",
       },
     ]
-    fortniteSaveTheWorldHeroesData.forEach(heroes => {
+    fortniteSaveTheWorldHeroesClassData.forEach(heroesClass => {
       createPage({
-        path: `/fortnite/save-the-world/hereos/${heroes.name}`,
-        component: require.resolve(`./src/templates/fortniteSaveTheWorldHeroesData-template.js`),
-        context: { heroes },
+        path: `/fortnite/save-the-world/hereos/${heroesClass.name}`,
+        component: require.resolve(`./src/templates/fortniteSaveTheWorldHeroesClassData-template.js`),
+        context: { heroesClass },
       })
     })
   }

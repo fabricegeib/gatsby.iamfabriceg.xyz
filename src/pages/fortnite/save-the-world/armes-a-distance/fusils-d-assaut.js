@@ -1,5 +1,5 @@
-import { Link, graphql } from "gatsby"
 import React from "react"
+import { Link, graphql } from "gatsby"
 
 class FusilDAssautComponent extends React.Component {
   render() {
