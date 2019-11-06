@@ -1,18 +1,15 @@
-.color-one {
-    color: #333333;
-}
-.-bg-color-one {
-    background-color: #333333;
-}
-.color-two {
-    color: #d8d8d7;
-}
-.bg-color-two {
-    background-color: #d8d8d7;
-}
+$font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+$primary-color: #333;
+$secondary-color: #d8d8d7;
+$common-color: #bec0bf;
+$uncommon-color: #56ad02;
+$rare-color: #56ad02;
+$epic-color: #56ad02;
+$legendary-color: #56ad02;
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: $font;
 }
 ul {
     list-style: none;
@@ -42,12 +39,12 @@ ul {
     max-width: 1200px;
     padding: 0 1.0875rem 1.45rem;
     padding-top: 0;
-}
-.container--full {
-    margin: 24px auto;
-    /* max-width: 1200px; */
-    padding: 0 1.0875rem 1.45rem;
-    padding-top: 0;
+    &--full {
+        margin: 24px auto;
+        /* max-width: 1200px; */
+        padding: 0 1.0875rem 1.45rem;
+        padding-top: 0;
+    }
 }
 
 /* .games {
@@ -99,14 +96,18 @@ ul.links {
     display: flex;
 }
 
-ul.links li {
-    margin-right: 1.3rem;
-}
-ul.links li a {
-    color: #666666;
-}
-ul.links li a:hover {
-    color: #333333;
+ul {
+    &.links {
+        & li {
+            margin-right: 1.3rem;
+            & a {
+                color: #666666;
+                &:hover {
+                    color: #333333;
+                }
+            }
+        }
+    }
 }
 
 /* 
@@ -136,19 +137,19 @@ td, th {
     text-align: left; 
 }
 
-tr td:nth-child(2) {
-    background: #BEC0BF;
-    color: #ffffff;
-    font-weight: bold;
+tr td:nth-child(1) {
+    // background: #BEC0BF;
+    // color: #ffffff;
+    // font-weight: bold;
 }
 
 tr td:nth-child(2) {
-    background: #BEC0BF;
+    background: $uncommon-color;
     color: #ffffff;
     font-weight: bold;
 }
 tr td:nth-child(3) {
-    background: #BEC0BF;
+    background: $uncommon-color;
     color: #ffffff;
     font-weight: bold;
     text-align: center;
@@ -158,12 +159,6 @@ tr td:nth-child(4) {
     background: #56AD02;
     color: #ffffff;
     font-weight: bold;
-}
-tr td:nth-child(5) {
-    background: #56AD02;
-    color: #ffffff;
-    font-weight: bold;
-    text-align: center;
 }
 tr td:nth-child(5) {
     background: #56AD02;
