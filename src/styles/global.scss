@@ -2,11 +2,21 @@ $font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Ca
 
 $primary-color: #333;
 $secondary-color: #d8d8d7;
+$ternary-color: #666666;
+$quaternary-color: #999999;
+
+$quinquernary-color: #XXXXXX;
+$sexternary-color: #XXXXXX;
+$septernary-color: #XXXXXX;
+
+$black-color: #000000;
+$white-color: #ffffff;
+
 $common-color: #bec0bf;
 $uncommon-color: #56ad02;
-$rare-color: #56ad02;
-$epic-color: #56ad02;
-$legendary-color: #56ad02;
+$rare-color: #0B9DE0;
+$epic-color: #B056E9;
+$legendary-color: #E2854B;
 
 body {
     font-family: $font;
@@ -17,21 +27,20 @@ ul {
 }
 
 .header {
-    /* background: rebeccapurple; */
-    background: #333333;
+    background: $primary-color;
     margin-bottom: 1.45rem;
-}
-.header__container {
-    margin: 0 auto;
-    max-width: 1200px;
-    padding: 1.45rem 1.0875rem;
-}
-.header h1 {
-    margin: 0;
-}
-.header a {
-    color: #d8d8d7;
-    text-decoration: none;
+    &__container {
+        margin: 0 auto;
+        max-width: 1200px;
+        padding: 1.45rem 1.0875rem;
+    }
+    & h1 {
+        margin: 0;
+    }
+    & a {
+        color: $secondary-color;
+        text-decoration: none;
+    }
 }
 
 .container {
@@ -52,10 +61,10 @@ ul {
 } */
 .games a {
     /* text-decoration: none; */
-    color: #999999;
+    color: $quaternary-color;
 }
 .games a:hover {
-    color: #666666;
+    color: $ternary-color;
 }
 
 .card {
@@ -64,10 +73,10 @@ ul {
 
     position: absolute;
 
-    border: 4px solid #333333;
-    background-color: #999999;
+    border: 4px solid $ternary-color;
+    background-color: $quaternary-color;
 
-    color: #ffffff;
+    color: $white-color;
 
     padding: 12px;
 }
@@ -80,30 +89,26 @@ footer {
     margin: 24px auto;
     max-width: 1200px;
     padding: 0 1.0875rem 1.45rem;
-}
-
-footer a {
-    color: #333333;
-}
-footer a:hover {
-    color: #000000;
-}
-
-ul.links {
-    margin: 0;
-    padding: 0;
-
-    display: flex;
+    & a {
+        color: $primary-color;
+        &:hover {
+            color: $black-color;
+        }
+    }
 }
 
 ul {
     &.links {
+        margin: 0;
+        padding: 0;
+
+        display: flex;
         & li {
             margin-right: 1.3rem;
             & a {
-                color: #666666;
+                color: $ternary-color;
                 &:hover {
-                    color: #333333;
+                    color: $primary-color;
                 }
             }
         }
@@ -115,7 +120,7 @@ Table
 Generic Styling, for Desktops/Laptops 
 */
 table, th, td {
-    border: 1px solid black;
+    border: 1px solid $black-color;
     vertical-align: middle;
 }
 table { 
@@ -124,87 +129,87 @@ table {
 }
 /* Zebra striping */
 tr:nth-of-type(odd) { 
-    background: #eee; 
+    background: #eeeeee; 
 }
 th { 
-    background: #333; 
+    background: $primary-color; 
     color: white; 
     font-weight: bold; 
 }
 td, th { 
     padding: 3px; 
-    border: 1px solid #ccc; 
+    border: 1px solid #cccccc; 
     text-align: left; 
 }
 
 tr td:nth-child(1) {
     // background: #BEC0BF;
-    // color: #ffffff;
+    // color: $white-color;
     // font-weight: bold;
 }
 
 tr td:nth-child(2) {
-    background: $uncommon-color;
-    color: #ffffff;
+    background: $common-color;
+    color: $white-color;
     font-weight: bold;
 }
 tr td:nth-child(3) {
-    background: $uncommon-color;
-    color: #ffffff;
+    background: $common-color;
+    color: $white-color;
     font-weight: bold;
     text-align: center;
 }
 
 tr td:nth-child(4) {
-    background: #56AD02;
-    color: #ffffff;
+    background: $uncommon-color;
+    color: $white-color;
     font-weight: bold;
 }
 tr td:nth-child(5) {
-    background: #56AD02;
-    color: #ffffff;
+    background: $uncommon-color;
+    color: $white-color;
     font-weight: bold;
     text-align: center;
 }
 
 tr td:nth-child(6) {
-    background: #0B9DE0;
-    color: #ffffff;
+    background: $rare-color;
+    color: $white-color;
     font-weight: bold;
 }
 tr td:nth-child(7) {
-    background: #0B9DE0;
-    color: #ffffff;
+    background: $rare-color;
+    color: $white-color;
     font-weight: bold;
     text-align: center;
 }
 
 tr td:nth-child(8) {
-    background: #B056E9;
-    color: #ffffff;
+    background: $epic-color;
+    color: $white-color;
     font-weight: bold;
 }
 tr td:nth-child(9) {
-    background: #B056E9;
-    color: #ffffff;
+    background: $epic-color;
+    color: $white-color;
     font-weight: bold;
     text-align: center;
 }
 
 tr td:nth-child(10) {
-    background: #E2854B;
-    color: #ffffff;
+    background: $legendary-color;
+    color: $white-color;
     font-weight: bold;
 }
 tr td:nth-child(11) {
-    background: #E2854B;
-    color: #ffffff;
+    background: $legendary-color;
+    color: $white-color;
     font-weight: bold;
     text-align: center;
 }
 
 tr td:empty {
-    background: #ffffff;
+    background: $white-color;
 }
 
 .oT {
