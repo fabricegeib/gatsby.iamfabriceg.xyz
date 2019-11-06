@@ -43,6 +43,12 @@ ul {
     padding: 0 1.0875rem 1.45rem;
     padding-top: 0;
 }
+.container--full {
+    margin: 24px auto;
+    /* max-width: 1200px; */
+    padding: 0 1.0875rem 1.45rem;
+    padding-top: 0;
+}
 
 /* .games {
 
@@ -101,4 +107,97 @@ ul.links li a {
 }
 ul.links li a:hover {
     color: #333333;
+}
+
+/* 
+Table
+Generic Styling, for Desktops/Laptops 
+*/
+table, th, td {
+    border: 1px solid black;
+    vertical-align: middle;
+}
+table { 
+    width: 100%; 
+    border-collapse: collapse;
+}
+/* Zebra striping */
+tr:nth-of-type(odd) { 
+    background: #eee; 
+}
+th { 
+    background: #333; 
+    color: white; 
+    font-weight: bold; 
+}
+td, th { 
+    padding: 3px; 
+    border: 1px solid #ccc; 
+    text-align: left; 
+}
+
+tr td:nth-child(2) {
+    background: #BEC0BF;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+tr td:nth-child(2) {
+    background: #BEC0BF;
+    color: #ffffff;
+    font-weight: bold;
+}
+tr td:nth-child(3) {
+    background: #BEC0BF;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+}
+
+tr td:nth-child(4) {
+    background: #56AD02;
+    color: #ffffff;
+    font-weight: bold;
+}
+tr td:nth-child(5) {
+    background: #56AD02;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+}
+
+tr td:nth-child(6) {
+    background: #0B9DE0;
+    color: #ffffff;
+    font-weight: bold;
+}
+tr td:nth-child(7) {
+    background: #0B9DE0;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+}
+
+tr td:nth-child(8) {
+    background: #B056E9;
+    color: #ffffff;
+    font-weight: bold;
+}
+tr td:nth-child(9) {
+    background: #B056E9;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+}
+
+tr td:nth-child(10) {
+    background: #E2854B;
+    color: #ffffff;
+    font-weight: bold;
+}
+tr td:nth-child(11) {
+    background: #E2854B;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
 }

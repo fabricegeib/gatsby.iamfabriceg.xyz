@@ -14,7 +14,7 @@ const IndexPage = () => (
 
       <ul>
         <li><Link to="/fortnite/">Fortnite</Link></li>
-        <li><Link to="/red-dead-redemption-2/">Red Dead Redemption 2</Link></li>
+        {/* <li><Link to="/red-dead-redemption-2/">Red Dead Redemption 2</Link></li> */}
       </ul>
     </div>
   </Layout>

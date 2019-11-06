@@ -1,11 +1,11 @@
-import { Link } from "gatsby"
+// import { Link } from "gatsby"
 // import PropTypes from "prop-types"
 import React from "react"
 
 const Footer = ({ siteTitle }) => (
 <footer>
-    <p><Link to="/page-2/">Go to page 2</Link></p>
-    <p><Link to="/live/">Go to live</Link></p>
+    {/* <p><Link to="/page-2/">Go to page 2</Link></p> */}
+    {/* <p><Link to="/live/">Go to live</Link></p> */}
     <div id="about">
         <ul class="links">
             <li>
