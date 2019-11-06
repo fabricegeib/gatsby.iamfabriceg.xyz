@@ -207,3 +207,7 @@ tr td:nth-child(11) {
     font-weight: bold;
     text-align: center;
 }
+
+tr td:empty {
+    background: #ffffff;
+}
