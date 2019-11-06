@@ -8,66 +8,70 @@ class ArmesADistancePage extends React.Component {
     return (
       <div className="container--full">
         <p><Link to="/fortnite/save-the-world">Go back to Save The World</Link></p>
-        <table>
-          <thead>
-            <tr>
-              <th>Fusil d'assault</th>
-              <th colSpan="2">Typique</th>
-              <th colSpan="2">Atypique</th>
-              <th colSpan="2">Rare</th>
-              <th colSpan="2">Épique</th>
-              <th colSpan="2">Légendaire</th>
-            </tr>
-          </thead>
-          <tbody>
-            {dataFusilsDAssaut.map((row, i) => (
-              <tr key={`${row.node.value} ${i}`}>
-                <td>{row.node.Categories}</td>
-                <td>{row.node.Typique}</td>
-                <td>{row.node.field3}</td>
-                <td>{row.node.Atypique}</td>
-                <td>{row.node.field5}</td>
-                <td>{row.node.Rare}</td>
-                <td>{row.node.field7}</td>
-                <td>{row.node.Epique}</td>
-                <td>{row.node.field9}</td>
-                <td>{row.node.Legendaire}</td>
-                <td>{row.node.field11}</td>
-                {/* <td>{row.node.Fusils_d_assaut[3]}</td> */}
+        <div className="oT">
+          <table>
+            <thead>
+              <tr>
+                <th>Fusil d'assault</th>
+                <th colSpan="2">Typique</th>
+                <th colSpan="2">Atypique</th>
+                <th colSpan="2">Rare</th>
+                <th colSpan="2">Épique</th>
+                <th colSpan="2">Légendaire</th>
               </tr>
-            ))}
-          </tbody>
-        </table>
-        <table>
-          <thead>
-            <tr>
-              <th>Fusil à pompe</th>
-              <th colSpan="2">Typique</th>
-              <th colSpan="2">Atypique</th>
-              <th colSpan="2">Rare</th>
-              <th colSpan="2">Épique</th>
-              <th colSpan="2">Légendaire</th>
-            </tr>
-          </thead>
-          <tbody>
-            {dataFusilsAPompe.map((row, i) => (
-              <tr key={`${row.node.value} ${i}`}>
-                <td>{row.node.Categories}</td>
-                <td>{row.node.Typique}</td>
-                <td>{row.node.field3}</td>
-                <td>{row.node.Atypique}</td>
-                <td>{row.node.field5}</td>
-                <td>{row.node.Rare}</td>
-                <td>{row.node.field7}</td>
-                <td>{row.node.Epique}</td>
-                <td>{row.node.field9}</td>
-                <td>{row.node.Legendaire}</td>
-                <td>{row.node.field11}</td>
-                {/* <td>{row.node.Fusils_d_assaut[3]}</td> */}
+            </thead>
+            <tbody>
+              {dataFusilsDAssaut.map((row, i) => (
+                <tr key={`${row.node.value} ${i}`}>
+                  <td>{row.node.Categories}</td>
+                  <td>{row.node.Typique}</td>
+                  <td>{row.node.field3}</td>
+                  <td>{row.node.Atypique}</td>
+                  <td>{row.node.field5}</td>
+                  <td>{row.node.Rare}</td>
+                  <td>{row.node.field7}</td>
+                  <td>{row.node.Epique}</td>
+                  <td>{row.node.field9}</td>
+                  <td>{row.node.Legendaire}</td>
+                  <td>{row.node.field11}</td>
+                  {/* <td>{row.node.Fusils_d_assaut[3]}</td> */}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <div className='oT'>
+          <table>
+            <thead>
+              <tr>
+                <th>Fusil à pompe</th>
+                <th colSpan="2">Typique</th>
+                <th colSpan="2">Atypique</th>
+                <th colSpan="2">Rare</th>
+                <th colSpan="2">Épique</th>
+                <th colSpan="2">Légendaire</th>
               </tr>
-            ))}
-          </tbody>
-        </table>
+            </thead>
+            <tbody>
+              {dataFusilsAPompe.map((row, i) => (
+                <tr key={`${row.node.value} ${i}`}>
+                  <td>{row.node.Categories}</td>
+                  <td>{row.node.Typique}</td>
+                  <td>{row.node.field3}</td>
+                  <td>{row.node.Atypique}</td>
+                  <td>{row.node.field5}</td>
+                  <td>{row.node.Rare}</td>
+                  <td>{row.node.field7}</td>
+                  <td>{row.node.Epique}</td>
+                  <td>{row.node.field9}</td>
+                  <td>{row.node.Legendaire}</td>
+                  <td>{row.node.field11}</td>
+                  {/* <td>{row.node.Fusils_d_assaut[3]}</td> */}
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       </div>
     )
   }
