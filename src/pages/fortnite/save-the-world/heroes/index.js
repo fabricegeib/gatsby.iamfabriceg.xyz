@@ -3,7 +3,7 @@ import { Link, graphql } from "gatsby"
 // import Img from "gatsby-image"
 
 const ComponentName = ({ data }) => 
-  <div className="container--full">
+  <div>
     <p><Link to="/fortnite/save-the-world">Go back to Save The World</Link></p>
     <div className="cards">
       {data.allFile.edges.map(({ node }, index) => (
