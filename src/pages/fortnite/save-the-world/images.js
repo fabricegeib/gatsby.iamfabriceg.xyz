@@ -1,0 +1,44 @@
+import React from "react"
+import { Link, graphql } from "gatsby"
+import Img from "gatsby-image"
+
+const imgGridStyle = {
+  display: 'grid',
+  gridTemplateColumns: `repeat(auto-fill, 200px)`
+};
+
+const ComponentName = ({ data }) => 
+  <div className="container--full">
+    <p><Link to="/fortnite/save-the-world">Go back to Save The World</Link></p>
+
+    <div style={imgGridStyle}>
+      {data.allImageSharp.edges.map(edge => 
+        <div>
+          <Img fluid={edge.node.fluid} />
+          <p>{edge.node.id}</p>
+        </div>
+      )}
+    </div>
+  </div>
+
+export const query = graphql`
+  {
+    allImageSharp {
+      edges {
+        node {
+          id
+          fluid(maxHeight: 200, maxWidth: 200) {
+            src
+            srcSet
+            base64
+            aspectRatio
+            originalImg
+            sizes        
+          }
+        }
+      }
+    }
+  }
+`
+
+export default ComponentName

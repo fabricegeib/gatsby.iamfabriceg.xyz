@@ -1,5 +1,6 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+// graphql
 
   export default ({ pageContext: { heroesClass } }) => heroesClass !== undefined && (
     <div className="container--full">

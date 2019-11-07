@@ -1,5 +1,8 @@
 import React from "react"
 import { Link, graphql } from "gatsby"
+import Img from "gatsby-image"
+
+
 
 const ComponentName = ({ data }) => 
   <div className="container--full">
