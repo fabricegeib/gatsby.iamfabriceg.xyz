@@ -14,7 +14,7 @@ const ComponentName = ({ data }) =>
       ))}
     </div>
     
-    <h1>Heroes ({allFile.pageInfo.itemCount})</h1>
+    <h1>Heroes</h1>
 
     <div className="cards">
       {data.allFortniteSaveTheWorldHeroes.edges.map(({ node }, index) => (
