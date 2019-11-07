@@ -120,6 +120,9 @@ ul {
 Table
 Generic Styling, for Desktops/Laptops 
 */
+.oT {
+    overflow-x:auto;
+}
 table, th, td {
     border: 1px solid $black-color;
     vertical-align: middle;
@@ -143,76 +146,33 @@ td, th {
     text-align: left; 
 }
 
-tr td:nth-child(1) {
-    // background: #BEC0BF;
-    // color: $white-color;
-    // font-weight: bold;
-}
+tr {
+    td {
+        color: $white-color;
+        font-weight: bold;
 
-tr td:nth-child(2) {
-    background: $common-color;
-    color: $white-color;
-    font-weight: bold;
-}
-tr td:nth-child(3) {
-    background: $common-color;
-    color: $white-color;
-    font-weight: bold;
-    text-align: center;
-}
+        &:nth-child(1) {
+            color: $black-color;
+            font-weight: normal;
+        }
 
-tr td:nth-child(4) {
-    background: $uncommon-color;
-    color: $white-color;
-    font-weight: bold;
-}
-tr td:nth-child(5) {
-    background: $uncommon-color;
-    color: $white-color;
-    font-weight: bold;
-    text-align: center;
-}
-
-tr td:nth-child(6) {
-    background: $rare-color;
-    color: $white-color;
-    font-weight: bold;
-}
-tr td:nth-child(7) {
-    background: $rare-color;
-    color: $white-color;
-    font-weight: bold;
-    text-align: center;
-}
-
-tr td:nth-child(8) {
-    background: $epic-color;
-    color: $white-color;
-    font-weight: bold;
-}
-tr td:nth-child(9) {
-    background: $epic-color;
-    color: $white-color;
-    font-weight: bold;
-    text-align: center;
-}
-
-tr td:nth-child(10) {
-    background: $legendary-color;
-    color: $white-color;
-    font-weight: bold;
-}
-tr td:nth-child(11) {
-    background: $legendary-color;
-    color: $white-color;
-    font-weight: bold;
-    text-align: center;
-}
-
-tr td:empty {
-    background: $white-color;
-}
-
-.oT {
-    overflow-x:auto;
+        &:nth-child(2), &:nth-child(3) {
+            background: $common-color;
+        }
+        &:nth-child(4), &:nth-child(5) {
+            background: $uncommon-color;
+        }
+        &:nth-child(6), &:nth-child(7) {
+            background: $rare-color;
+        }
+        &:nth-child(8), &:nth-child(9) {
+            background: $epic-color;
+        }
+        &:nth-child(10), &:nth-child(11) {
+            background: $legendary-color;
+        }
+        &:empty {
+            background: $white-color;
+        }
+    }
 }

@@ -12,14 +12,14 @@ exports.createPages = ({ actions }) => {
     {
       slug: "fortnite",
       name: "Fortnite",
-      type: "xxx",
+      "type" : ["Battle Royale", "Open World"],
       dateRelease: "2017",
       "platforms" : [ "Android", "iOS", "Mac OS", "Microsoft Windows", "Nintendo Switch", "Playstation 4", "Xbox One" ],
     },
     {
       slug: "red-dead-redemption-2",
       name: "Red Dead Redemption 2",
-      type: "xxx",
+      "type" : ["Action-Adventure", "Open World", "Third-person shooter"],
       dateRelease: "2018",
       "platforms" : [ "Microsoft Windows", "Playstation 4", "Xbox One" ],
     },
@@ -45,5 +45,24 @@ exports.createPages = ({ actions }) => {
       component: require.resolve(`./src/templates/fortniteSaveTheWorldHeroesClassData-template.js`),
       context: { heroesClass },
     })
+  })
+}
+exports.sourceNodes = ({ actions, createNodeId, createContentDigest }) => {
+  const heroes = [
+    { name: "master grenadier ramirez", class: "soldier" },
+    { name: "rescue trooper ramirez", class: "soldier" },
+    { name: "fragment flurry jess", class: "outlander"},
+  ]
+  heroes.forEach(heroe => {
+    const node = {
+      name: heroe.name,
+      class: heroe.class,
+      id: createNodeId(`FortniteSaveTheWorldHeroes-${heroe.name}`),
+      internal: {
+        type: "FortniteSaveTheWorldHeroes",
+        contentDigest: createContentDigest(heroe),
+      },
+    }
+    actions.createNode(node)
   })
 }
