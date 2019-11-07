@@ -1,61 +1,42 @@
-import React from "react"
-import { Link, graphql } from "gatsby"
-// import Img from "gatsby-image"
+// import React from "react"
+// import { Link, graphql } from "gatsby"
+// import Image from "gatsby-image"
 
-const margin = {
-  margin: '24px auto',
-  width: '98%',
-}
+// const margin = {
+//   margin: '24px auto',
+//   width: '98%',
+// }
 
-const ComponentName = ({ data }) => 
-  <div style={margin}>
-    <p><Link to="/fortnite/save-the-world">Go back to Save The World</Link></p>
-    <div className="cards">
-      {data.allFile.edges.map(({ node }, index) => (
-        <div key={index} className="card">
-          <img src={node.publicURL} alt={node.name} />
-          <p>{node.name}</p>
-        </div>
-      ))}
-    </div>
-    
-    <h1>Heroes</h1>
+// export const query = graphql `
+//     query ($slug : String!) {
+//         heroesJson(slug: { eq: $slug}) {
+//             name
+//             class
+//             image {
+//                 childImageSharp {
+//                     fluid {
+//                         ...GatsbyImageSharpFluid
+//                     }
+//                 }
+//             }
+//         }
+//     }
+// `;
 
-    <div className="cards">
-      {data.allFortniteSaveTheWorldHeroes.edges.map(({ node }, index) => (
-        <div key={index} className="card">
-          <p>{node.name}</p>
-          <p>{node.class}</p>
-        </div>
-      ))}
-    </div>
-  </div>
+// const HeroesPage = ({ data }) => {
+//   const heroes = data.heroesJson;
 
-export const query = graphql`
-  {
-    allFortniteSaveTheWorldHeroes {
-      edges {
-        node {
-          id
-          class
-          name
-        }
-      }
-      pageInfo {
-        itemCount
-      }
-    }
-    allFile(filter: {relativeDirectory: {eq: "fortnite/save-the-world/heroes"}}) {
-      edges {
-        node {
-          base
-          name
-          publicURL
-          dir
-        }
-      }
-    }
-  }
-`
+//   return (
+//       <div className="card">
+//         {data.heroesJson.edges.map(({ node }, index) => (
+//           <div key={index} className="card">
+//             <Image fluid={heroesJson.image.childImageSharp.fluid} alt={heroesJson.name} />
+//             <p>{heroesJson.name}</p>
+//             <p>{heroesJson.class}</p>
+//           </div>
+//         ))}
+//       </div>
+//   )
+// };
 
-export default ComponentName
+// export default HeroesPage;

@@ -1,0 +1,38 @@
+[
+    {
+        "name": "master grenadier ramirez",
+        "slug": "master-grenadier-ramirez",
+        "class": "soldier",
+        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
+    },
+    {
+        "name": "rescue trooper ramirez",
+        "slug": "rescue-trooper-ramirez",
+        "class": "soldier",
+        "image": ""
+    },
+    {
+        "name": "fragment flurry jess",
+        "slug": "fragment-flurry-jess",
+        "class": "outlander",
+        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
+    },
+    {
+        "name": "8-bit demo",
+        "slug": "8-bit-demo",
+        "class": "constructor",
+        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
+    },
+    {
+        "name": "8-bit demoX",
+        "slug": "8-bit-demoX",
+        "class": "constructor",
+        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
+    },
+    {
+        "name": "8-bit demoXX",
+        "slug": "8-bit-demoXX",
+        "class": "constructor",
+        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
+    }
+]
