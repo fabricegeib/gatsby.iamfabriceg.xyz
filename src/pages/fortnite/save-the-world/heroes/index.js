@@ -2,8 +2,13 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 // import Img from "gatsby-image"
 
+const margin = {
+  margin: '24px auto',
+  width: '98%',
+}
+
 const ComponentName = ({ data }) => 
-  <div>
+  <div style={margin}>
     <p><Link to="/fortnite/save-the-world">Go back to Save The World</Link></p>
     <div className="cards">
       {data.allFile.edges.map(({ node }, index) => (
