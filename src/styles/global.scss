@@ -68,11 +68,17 @@ ul {
     color: $ternary-color;
 }
 
+.cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+}
 .card {
     width: 180px;
     height: 280px;
 
-    position: absolute;
+    position: relative;
 
     border: 4px solid $ternary-color;
     background-color: $quaternary-color;

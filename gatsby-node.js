@@ -52,6 +52,9 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest }) => {
     { name: "master grenadier ramirez", class: "soldier" },
     { name: "rescue trooper ramirez", class: "soldier" },
     { name: "fragment flurry jess", class: "outlander"},
+    { name: "8-bit demo", class: "constructor"},
+    { name: "8-bit demoX", class: "constructor"},
+    { name: "8-bit demoXX", class: "constructor"},
   ]
   heroes.forEach(heroe => {
     const node = {

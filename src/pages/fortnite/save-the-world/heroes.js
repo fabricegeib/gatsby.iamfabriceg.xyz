@@ -1,14 +1,15 @@
 import React from "react"
-import { graphql } from "gatsby"
+import { Link, graphql } from "gatsby"
 
 const ComponentName = ({ data }) => 
-  <div>
-    <div>
+  <div className="container--full">
+    <p><Link to="/fortnite/save-the-world">Go back to Save The World</Link></p>
+    <div className="cards">
       {data.allFortniteSaveTheWorldHeroes.edges.map(({ node }, index) => (
-        <ul key={index}>
-          <li>{node.name}</li>
-          <li>{node.class}</li>
-        </ul>
+        <div key={index} className="card">
+          <p>{node.name}</p>
+          <p>{node.class}</p>
+        </div>
       ))}
     </div>
   </div>
