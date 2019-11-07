@@ -2,14 +2,21 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import Img from "gatsby-image"
 
+const bgStyle = {
+  backgroundColor: '#333333',
+  color: '#ffffff',
+  margin: '0 auto',
+  paddingTop: '24px'
+}
+
 const imgGridStyle = {
   display: 'grid',
   gridTemplateColumns: `repeat(auto-fill, 200px)`
 };
 
 const ComponentName = ({ data }) => 
-  <div className="container--full">
-    <p><Link to="/fortnite/save-the-world">Go back to Save The World</Link></p>
+  <div className="container--full" style={bgStyle}>
+    <p><Link style={bgStyle} to="/fortnite/save-the-world">Go back to Save The World</Link></p>
 
     <div style={imgGridStyle}>
       {data.allImageSharp.edges.map(edge => 
