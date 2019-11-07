@@ -10,8 +10,7 @@ import { Link, graphql } from "gatsby"
         <p>{heroesClass.name}</p>
         <p>{heroesClass.class}</p>
         <ul>
-          {heroesClass.skills && 
-          heroesClass.skills.map(skill => <li key={skill}>{skill}</li>)}
+          {heroesClass.skills && heroesClass.skills.map(skill => <li key={skill}>{skill}</li>)}
         </ul>
       </section>
   
