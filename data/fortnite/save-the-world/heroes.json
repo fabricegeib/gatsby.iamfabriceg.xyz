@@ -62,6 +62,26 @@
         "perk": "1",
         "skills": [ "1", "2", "3" ]
     },
+    {
+        "name": "Athena-Commando-M-CuChulainn-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-100-Athena-Commando-M-CuChulainn-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-Raven-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-102-Athena-Commando-M-Raven-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+
+
     
 
 

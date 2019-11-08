@@ -33,6 +33,8 @@ const HeroesPage = ({ data }) => {
         <div className="container">
             <p><Link to="/fortnite/save-the-world">Go back to Save The World</Link></p>
 
+            <h3>Heroes</h3>
+            
             <div className="cards">
                 {data.allHeroesJson.edges.map(({ node }, index) => (   
                     <div>
