@@ -13,7 +13,7 @@
         "nom" : "xxx",
         "slug": "xxx",
         "class": "soldier",
-        "image": "./images/heroes/soldier/T-Soldier-HID-050-Athena-Commando-M-HolidayNutcracker-L.png",
+        "image": null,
         "perk": "1",
         "skills": [ "1", "2", "3" ]
     },
