@@ -98,6 +98,26 @@
         "perk": "1",
         "skills": [ "1", "2", "3" ]
     },
+    {
+        "name": "Athena-Commando-M-CarbideBlue-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-115-Athena-Commando-M-CarbideBlue-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-Metal-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-122-Athena-Commando-M-Metal-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+
+    
 
 
     
