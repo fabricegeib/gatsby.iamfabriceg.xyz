@@ -47,12 +47,12 @@ const HeroesPage = ({ data }) => {
                             />
 
                             <div className="card__overlay">
-                                <p>{node.class}</p>
+                                <p className="card__texte">{node.name}</p>
                             </div>
                             <div className="card__bottom">
+                                <p>{node.class}</p>
                             </div>
                         </div>
-                        <p className="card__name">{node.name}</p>
                         <Link className="link" to={node.slug}>link</Link>
                     </div>
                 ))}

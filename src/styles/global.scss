@@ -125,6 +125,11 @@ ul {
         // z-index: 10;
         padding: 6px;
     }
+    &__texte {
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+    }
     &__bottom {
         height: 40px;
         background: linear-gradient(#777c82, #a4abb2);
