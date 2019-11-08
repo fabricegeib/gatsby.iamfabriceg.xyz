@@ -1,42 +1,58 @@
-// import React from "react"
-// import { Link, graphql } from "gatsby"
-// import Image from "gatsby-image"
+import React from 'react';
+import { Link, graphql } from 'gatsby'
+import Image from 'gatsby-image'
 
-// const margin = {
-//   margin: '24px auto',
-//   width: '98%',
-// }
+export const query = graphql `
+    query {
+        allHeroesJson {
+            edges {
+                node {
+                    name
+                    slug
+                    id
+                    class
+                    image {
+                        childImageSharp {
+                            fluid {
+                                ...GatsbyImageSharpFluid
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+`;
 
-// export const query = graphql `
-//     query ($slug : String!) {
-//         heroesJson(slug: { eq: $slug}) {
-//             name
-//             class
-//             image {
-//                 childImageSharp {
-//                     fluid {
-//                         ...GatsbyImageSharpFluid
-//                     }
-//                 }
-//             }
-//         }
-//     }
-// `;
+const HeroesPage = ({ data }) => {
+    // const heroes = data.allHeroesJson;
 
-// const HeroesPage = ({ data }) => {
-//   const heroes = data.heroesJson;
+    console.log(data)
+    
+    return (
+        <div className="container--full">
+            <p><Link to="/fortnite/save-the-world">Go back to Save The World</Link></p>
 
-//   return (
-//       <div className="card">
-//         {data.heroesJson.edges.map(({ node }, index) => (
-//           <div key={index} className="card">
-//             <Image fluid={heroesJson.image.childImageSharp.fluid} alt={heroesJson.name} />
-//             <p>{heroesJson.name}</p>
-//             <p>{heroesJson.class}</p>
-//           </div>
-//         ))}
-//       </div>
-//   )
-// };
+            <div className="cards">
+                {data.allHeroesJson.edges.map(({ node }, index) => (
+                    
+                    <div className="card" key={index}>
+                        <p>{node.name}</p>
+                        
+                        <Image
+                            fluid={node.image.childImageSharp.fluid}
+                            alt={node.name}
+                        />
 
-// export default HeroesPage;
+                        <p>{node.class}</p>
+                    </div>
+                ))}
+            </div>
+
+
+            
+        </div>
+    )
+};
+
+export default HeroesPage;

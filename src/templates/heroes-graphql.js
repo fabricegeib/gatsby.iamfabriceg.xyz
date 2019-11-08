@@ -28,6 +28,7 @@ const Heroes = ({ data }) => {
             <p><Link to="/fortnite/save-the-world">Go back to Save The World</Link></p>
             <div className="card">
                 <p>{heroes.name}</p>
+                
                 <Image
                     fluid={heroes.image.childImageSharp.fluid}
                     alt={heroes.name}

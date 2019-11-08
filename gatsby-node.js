@@ -22,7 +22,7 @@ exports.createPages = async ({ actions: {createPage}, graphql }) => {
     const heroes = edge.node;
 
     createPage({
-      path: `/heroes/${heroes.class}/${heroes.slug}/`,
+      path: `/fortnite/save-the-world/heroes/${heroes.class}/${heroes.slug}/`,
       component: require.resolve("./src/templates/heroes-graphql.js"),
       context: {
         slug: heroes.slug,
@@ -30,3 +30,37 @@ exports.createPages = async ({ actions: {createPage}, graphql }) => {
     })
   })
 }
+
+// exports.createSchemaCustomization = ({ actions }) => {
+//   const { createTypes } = actions
+//   const typeDefs = `
+//     type AuthorJson implements Node {
+//       joinedAt: Date
+//       image: String!
+//     }
+//   `
+//   createTypes(typeDefs)
+// }
+
+exports.createSchemaCustomization = ({ actions }) => {
+  const { createTypes } = actions
+  const typeDefs = `
+    type heroesJson implements Node @dontInfer {
+      image: String!
+    }
+  `
+  createTypes(typeDefs)
+}
+
+// exports.sourceNodes = ({ actions }) => {
+//   const { createTypes } = actions
+//   const typeDefs = `
+//     # One must say that the type is a Node
+//     type AuthorJson implements Node {
+//       # However Node fields are optional and you don't have to add them
+//       name: String
+//       birthday: Date
+//     }
+//   `
+//   createTypes(typeDefs)
+// }

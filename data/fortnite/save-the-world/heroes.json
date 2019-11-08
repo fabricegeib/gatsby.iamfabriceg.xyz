@@ -1,9 +1,12 @@
 [
     {
         "name": "master grenadier ramirez",
+        "nom" : "ramirez maitre grenadier",
         "slug": "master-grenadier-ramirez",
         "class": "soldier",
-        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
+        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png",
+        "perk": "Bigger is better",
+        "skills": [ "Frag grenade", "Goin' commando!!!", "Shockwave" ]
     },
     {
         "name": "rescue trooper ramirez",
@@ -26,6 +29,42 @@
     {
         "name": "8-bit demoX",
         "slug": "8-bit-demoX",
+        "class": "constructor",
+        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
+    },
+    {
+        "name": "8-bit demoXX",
+        "slug": "8-bit-demoXX",
+        "class": "constructor",
+        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
+    },
+    {
+        "name": "8-bit demoXX",
+        "slug": "8-bit-demoXX",
+        "class": "constructor",
+        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
+    },
+    {
+        "name": "8-bit demoXX",
+        "slug": "8-bit-demoXX",
+        "class": "constructor",
+        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
+    },
+    {
+        "name": "8-bit demoXX",
+        "slug": "8-bit-demoXX",
+        "class": "constructor",
+        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
+    },
+    {
+        "name": "8-bit demoXX",
+        "slug": "8-bit-demoXX",
+        "class": "constructor",
+        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
+    },
+    {
+        "name": "8-bit demoXX",
+        "slug": "8-bit-demoXX",
         "class": "constructor",
         "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
     },
