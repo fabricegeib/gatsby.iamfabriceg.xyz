@@ -34,7 +34,7 @@ const HeroesPage = ({ data }) => {
             <p><Link to="/fortnite/save-the-world">Go back to Save The World</Link></p>
 
             <h3>Heroes</h3>
-            
+
             <div className="cards">
                 {data.allHeroesJson.edges.map(({ node }, index) => (   
                     <div>
@@ -46,7 +46,11 @@ const HeroesPage = ({ data }) => {
                                 alt={node.name}
                             />
 
-                            <p>{node.class}</p>
+                            <div className="card__overlay">
+                                <p>{node.class}</p>
+                            </div>
+                            <div className="card__bottom">
+                            </div>
                         </div>
                         <p className="card__name">{node.name}</p>
                         <Link className="link" to={node.slug}>link</Link>

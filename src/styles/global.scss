@@ -49,15 +49,18 @@ ul {
     max-width: 1200px;
     padding: 0 1.0875rem 1.45rem;
     padding-top: 0;
+    @media only screen and (max-width: 601px) {
+		// padding: 0 0.33rem 1.45rem;
+	}
     &--full {
         margin: 24px auto;
         /* max-width: 1200px; */
         padding: 0 1.0875rem 1.45rem;
         padding-top: 0;
+        @media only screen and (max-width: 601px) {
+            // padding: 0 0.33rem 1.45rem;
+        }
     }
-    @media only screen and (max-width: 601px) {
-		padding: 0 0.33rem 1.45rem;
-	}
 }
 
 /* .games {
@@ -84,9 +87,12 @@ ul {
     @media only screen and (max-width: 601px) {
         grid-template-columns: repeat(2, 180px);
         grid-gap: 12px 6px;
+        margin: 0 -0.8rem;
 	}
 }
 .card {
+    
+        
     width: 180px;
     height: 280px;
 
@@ -94,17 +100,38 @@ ul {
     position: relative;
 
     border: 4px solid $ternary-color;
+    // border: linear-gradient(33deg, #404651, #b7becc);
     background-color: $quaternary-color;
+    background: radial-gradient(#60626a, #3b3b40, #111111);
 
     color: $white-color;
 
-    padding: 12px;
+    // padding: 12px;
 
     div {
         // position: relative;
     }
     &__name {
         // text-overflow: clip;
+    }
+    .gatsby-image-wrapper {
+        // margin: -12px -12px 0;
+    }
+    &__overlay {
+        height: 60px;
+        background-color: rgba(0, 0, 0, 0.33);
+        // margin: -12px 0;
+        // position: relative;
+        // z-index: 10;
+        padding: 6px;
+    }
+    &__bottom {
+        height: 40px;
+        background: linear-gradient(#777c82, #a4abb2);
+        // margin: -12px 0;
+        // position: relative;
+        // z-index: 10;
+        padding: 6px;
     }
 }
 
