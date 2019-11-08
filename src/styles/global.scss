@@ -70,14 +70,16 @@ ul {
 
 .cards {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-gap: 10px;
-    grid-auto-rows: minmax(100px, auto);
-    @media only screen and (max-width: 799px) {
-		grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 180px);
+    grid-gap: 12px;
+    // grid-auto-rows: 180px;
+    align-content: space-between;
+    justify-content: space-between;
+    @media only screen and (max-width: 839px) {
+		grid-template-columns: repeat(3, 180px);
     }
-    @media only screen and (max-width: 641px) {
-		grid-template-columns: repeat(2, 1fr);
+    @media only screen and (max-width: 601px) {
+		grid-template-columns: repeat(2, 180px);
 	}
 }
 .card {
@@ -93,6 +95,19 @@ ul {
     color: $white-color;
 
     padding: 12px;
+
+    div {
+        // position: relative;
+    }
+    &__name {
+        // text-overflow: clip;
+    }
+}
+
+.link {
+    align-self: end;
+    // position: absolute;
+    // bottom: 0;
 }
 
 /* .playerTwitch {

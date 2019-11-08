@@ -30,21 +30,24 @@ const HeroesPage = ({ data }) => {
     console.log(data)
     
     return (
-        <div className="container--full">
+        <div className="container">
             <p><Link to="/fortnite/save-the-world">Go back to Save The World</Link></p>
 
             <div className="cards">
-                {data.allHeroesJson.edges.map(({ node }, index) => (
-                    
-                    <div className="card" key={index}>
-                        <p>{node.name}</p>
-                        
-                        <Image
-                            fluid={node.image.childImageSharp.fluid}
-                            alt={node.name}
-                        />
+                {data.allHeroesJson.edges.map(({ node }, index) => (   
+                    <div>
+                        <div className="card" key={index}>
+                            {/* <p className="card__name">{node.name}</p> */}
+                            
+                            <Image
+                                fluid={node.image.childImageSharp.fluid}
+                                alt={node.name}
+                            />
 
-                        <p>{node.class}</p>
+                            <p>{node.class}</p>
+                        </div>
+                        <p className="card__name">{node.name}</p>
+                        <Link className="link" to={node.slug}>link</Link>
                     </div>
                 ))}
             </div>

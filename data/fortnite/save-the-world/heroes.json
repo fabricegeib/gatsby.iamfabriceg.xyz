@@ -1,10 +1,92 @@
 [
     {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-042-Athena-Commando-M-Cyberpunk-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-HolidayNutcracker-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-050-Athena-Commando-M-HolidayNutcracker-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-Twitch-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-085-Athena-Commando-M-Twitch-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-RetroGrey-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-089-Athena-Commando-M-RetroGrey-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-Dinosaur-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-093-Athena-Commando-M-Dinosaur-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-F-StPatty-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-098-Athena-Commando-F-StPatty-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-F-Scathach-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-099-Athena-Commando-F-Scathach-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
         "name": "master grenadier ramirez",
         "nom" : "ramirez maitre grenadier",
         "slug": "master-grenadier-ramirez",
         "class": "soldier",
-        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png",
         "perk": "Bigger is better",
         "skills": [ "Frag grenade", "Goin' commando!!!", "Shockwave" ]
     },
@@ -12,66 +94,6 @@
         "name": "rescue trooper ramirez",
         "slug": "rescue-trooper-ramirez",
         "class": "soldier",
-        "image": "./images/heroes/T-Soldier-HID-246-Athena-Commando-F-Grave-L.png"
-    },
-    {
-        "name": "fragment flurry jess",
-        "slug": "fragment-flurry-jess",
-        "class": "outlander",
-        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
-    },
-    {
-        "name": "8-bit demo",
-        "slug": "8-bit-demo",
-        "class": "constructor",
-        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
-    },
-    {
-        "name": "8-bit demoX",
-        "slug": "8-bit-demoX",
-        "class": "constructor",
-        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
-    },
-    {
-        "name": "8-bit demoXX",
-        "slug": "8-bit-demoXX",
-        "class": "constructor",
-        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
-    },
-    {
-        "name": "8-bit demoXX",
-        "slug": "8-bit-demoXX",
-        "class": "constructor",
-        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
-    },
-    {
-        "name": "8-bit demoXX",
-        "slug": "8-bit-demoXX",
-        "class": "constructor",
-        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
-    },
-    {
-        "name": "8-bit demoXX",
-        "slug": "8-bit-demoXX",
-        "class": "constructor",
-        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
-    },
-    {
-        "name": "8-bit demoXX",
-        "slug": "8-bit-demoXX",
-        "class": "constructor",
-        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
-    },
-    {
-        "name": "8-bit demoXX",
-        "slug": "8-bit-demoXX",
-        "class": "constructor",
-        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
-    },
-    {
-        "name": "8-bit demoXX",
-        "slug": "8-bit-demoXX",
-        "class": "constructor",
-        "image": "./images/heroes/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png"
+        "image": "./images/heroes/soldier/T-Soldier-HID-246-Athena-Commando-F-Grave-L.png"
     }
 ]
