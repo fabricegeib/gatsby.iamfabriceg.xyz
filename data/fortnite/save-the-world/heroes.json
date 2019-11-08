@@ -80,9 +80,41 @@
         "perk": "1",
         "skills": [ "1", "2", "3" ]
     },
+    {
+        "name": "Athena-Commando-F-Bunny-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-104-Athena-Commando-F-Bunny-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-F-SpaceBlackFemale-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-105-Athena-Commando-F-SpaceBlackFemale-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
 
 
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

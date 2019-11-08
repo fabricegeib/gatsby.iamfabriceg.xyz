@@ -55,6 +55,9 @@ ul {
         padding: 0 1.0875rem 1.45rem;
         padding-top: 0;
     }
+    @media only screen and (max-width: 601px) {
+		padding: 0 0.33rem 1.45rem;
+	}
 }
 
 /* .games {
@@ -79,7 +82,8 @@ ul {
 		grid-template-columns: repeat(3, 180px);
     }
     @media only screen and (max-width: 601px) {
-		grid-template-columns: repeat(2, 180px);
+        grid-template-columns: repeat(2, 180px);
+        grid-gap: 12px 6px;
 	}
 }
 .card {
