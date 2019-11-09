@@ -20,6 +20,7 @@ export const query = graphql`
           }
         }
       }
+      totalCount
     }
   }
 `
@@ -35,7 +36,7 @@ const HeroesPage = ({ data }) => {
         <Link to="/fortnite/save-the-world">Go back to Save The World</Link>
       </p>
 
-      <h3>Heroes</h3>
+      <h3>Heroes ({data.allHeroesJson.totalCount})</h3>
 
       <div className="cards">
         {data.allHeroesJson.edges.map(({ node }, index) => (
