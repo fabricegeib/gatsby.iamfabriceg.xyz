@@ -76,15 +76,25 @@ ul {
 
 .cards {
     display: grid;
-    grid-template-columns: repeat(4, 180px);
+    grid-template-columns: repeat(6, 180px);
     grid-gap: 12px;
     // grid-auto-rows: 180px;
     align-content: space-between;
     justify-content: space-between;
-    @media only screen and (max-width: 839px) {
+    justify-content: space-between;
+    @media only screen and (min-width: 1200px) {
+
+    }
+    @media only screen and (max-width: 1199px) {
+        grid-template-columns: repeat(5, 180px);
+    }
+    @media only screen and (max-width: 999px) {
+        grid-template-columns: repeat(4, 180px);
+    }
+    @media only screen and (max-width: 829px) {
 		grid-template-columns: repeat(3, 180px);
     }
-    @media only screen and (max-width: 601px) {
+    @media only screen and (max-width: 619px) {
         grid-template-columns: repeat(2, 180px);
         grid-gap: 12px 6px;
         margin: 0 -0.8rem;

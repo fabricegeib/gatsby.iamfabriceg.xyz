@@ -4,6 +4,1813 @@
         "nom" : "xxx",
         "slug": "xxx",
         "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-Founders-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-UC-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007HW-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-008-Founders-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-008-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-008-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-008-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-009-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-009-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-009-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-010-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-010-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-011-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-011-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-011-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-013-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-013-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-013-UC-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-013-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-014-F-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-014-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-014-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-014-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-015-R-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-015-SR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-015-VR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-016-F-V1-VR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-016-M-V1-Blockbuster-SR_T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-016-M-V1-SR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-017-F-V1-R-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-017-F-V1-SR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-017-F-V1-VR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-018-SR-BlackKnight-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-020-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-024-PirateConstructor-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-025-ProgressivePirate-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-026-BombSquadConstructor-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-027-DinoConstructor-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-028-RetroSciFiConstructor-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-030-RadConstructor-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-031-HalloweenConstructor-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-BASEBig-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-BaseHyper-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-BaseHyper-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-BaseHyper-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-BaseHyperHW-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-HammerPlasma-4thJuly-SR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-HammerPlasma-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-HammerPlasma-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-HammerTank-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-HammerTank-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-HammerTank-UC-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-HammerTank-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-Myth02-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-PlasmaDamage-Easter-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-PlasmaDamage-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-PlasmaDamage-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-PlasmaDamage-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-F-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-UC-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-Sony-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-XBOX-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-007-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-007-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-007-UC-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-007-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-008-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-008-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-008-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-009-F-Valentine-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-009-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-009-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-009-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-010-F-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-010-F-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-010-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-010-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-011-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-011-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-011-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-013-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-013-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-013-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-014-F-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-014-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-014-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-014-UC-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-014-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-015-F-V1-R-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-015-F-V1-SR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-015-F-V1-UC-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-015-F-V1-VR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-016-F-V1-SR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-016-M-V1-VR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-017-M-V1-R-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-017-M-V1-SR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-017-M-V1-VR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-019-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-023-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-024-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-025-PirateNinja-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-027-BunnyNinja-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-029-DinoNinja-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-030-RetroSciFiNinja-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-031-RadNinja-SR-T01.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-Myth02-SR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreath-Founders-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreath-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreath-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreath-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreathHW-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashTail-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashTail-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashTail-UC-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashTail-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SmokeDimMak-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SmokeDimMak-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SmokeDimMak-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-Sony-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-Founders-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-UC-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsRain-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsRain-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsRainHW-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-Swordmaster-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-XBOX-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+{
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/ninja/T-Variant-DragonNinja-V1-Green-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-007-R-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-007-RS01-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-007-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-007-UC-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-007-VR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-008-Founders-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-008-R-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-008-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-008-VR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-009-Founders-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-009-R-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-009-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-009-VR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-010-M-4thJuly-SR-T02-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-010-M-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-010-M-VR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-010-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-010-VR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-011-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-011-VR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-013-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-013-StPatricks-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-013-VR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-014-M-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-014-R-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-014-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-014-VR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-015-F-V1-R-T02-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-015-F-V1-SR-T02-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-015-F-V1-VR-T02-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-016-F-V1-SR-T02-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-016-M-V1-SR-T02-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-017-M-V1-SR-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-022-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-025-PirateOutlander-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-026-BunnyOutlander-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-027-DinoOutlander-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-028-RetroSciFiStoryOutlander-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-029-RetroSciFiOutlander-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-030-RadOutlander-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-031-HalloweenOutlander-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-Myth02-SR-T05-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchDamage-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchDamage-VR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchPhase-R-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchPhase-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchPhase-UC-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchPhase-VR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-Sony-R-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-SphereFragment-R-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-SphereFragment-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-SphereFragment-VR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-XBOX-R-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneFragment-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvest-BlockBuster-SR-T02-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvest-R-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvest-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvest-UC-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvest-VR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvestHW-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZonePistol-R-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZonePistol-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZonePistol-VR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    }, {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom": "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZonePistolHW-SR-T01-L.png",
+        "perk": "1",
+        "skills": ["1", "2", "3"]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "Athena-Commando-M-Cyberpunk-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-042-Athena-Commando-M-Cyberpunk-L.png",
         "perk": "1",
         "skills": [ "1", "2", "3" ]
@@ -270,15 +2077,6 @@
         "skills": [ "1", "2", "3" ]
     },
     {
-        "name": "Athena-Commando-F-DarkViking-L",
-        "nom" : "xxx",
-        "slug": "xxx",
-        "class": "soldier",
-        "image": "./images/heroes/soldier/T-Soldier-HID-222-Athena-Commando-F-DarkViking-L.png",
-        "perk": "1",
-        "skills": [ "1", "2", "3" ]
-    },
-    {
         "name": "Athena-Commando-F-Dieselpunk-L",
         "nom" : "xxx",
         "slug": "xxx",
@@ -341,54 +2139,645 @@
         "perk": "1",
         "skills": [ "1", "2", "3" ]
     },
-
-    
-
-
-    
-    
-    
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-316-Athena-Commando-F-WinterHoliday-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-317-Athena-Commando-M-WinterGhoul-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
 
 
     {
-        "name": "master grenadier ramirez",
-        "nom" : "ramirez maitre grenadier",
-        "slug": "master-grenadier-ramirez",
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-330-Athena-Commando-F-IceQueen-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-343-Athena-Commando-M-CupidDark-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-373-Athena-Commando-M-Pirate01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-007-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-007-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-007-UC-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-007-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-007HW-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-008-Founders-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-008-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-008-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-008-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-009-M-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-009-M-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-009-M-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-009-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-009-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-009-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-010-Bday-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-010-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-010-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-011-M-Easter-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-011-M-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-011-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-011-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-011-UC-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-011-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-013-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-013-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-013-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-014-M-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-014-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-014-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-014-Wukong-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-015-F-V1-BlockBuster-SR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-016-F-V1-SR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-016-M-V1-SR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-017-F-V1-R-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-017-F-V1-SR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-017-F-V1-VR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-018-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-030-RetroSciFiSoldier-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GCGrenade-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GCGrenade-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GCGrenade-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GrenadeGun-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GrenadeGun-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GrenadeGun-UC-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GrenadeGun-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png",
-        "perk": "Bigger is better",
-        "skills": [ "Frag grenade", "Goin' commando!!!", "Shockwave" ]
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunHeadshot-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunHeadShot-Starter-M-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunHeadshot-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunHeadshotHW-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-F-4thJuly-SR-T02-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-Founders-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-M-4thJuly-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-RS01-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-UC-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-Valentine-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-ShockDamage-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-ShockDamage-SR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-ShockDamage-VR-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-Sony-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Commando-XBOX-R-T01-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
+    },
+    {
+        "name": "Athena-Commando-M-IceKing-L",
+        "nom" : "xxx",
+        "slug": "xxx",
+        "class": "soldier",
+        "image": "./images/heroes/soldier/T-Soldier-HID-Soldier-Seebot-L.png",
+        "perk": "1",
+        "skills": [ "1", "2", "3" ]
     }
 ]
