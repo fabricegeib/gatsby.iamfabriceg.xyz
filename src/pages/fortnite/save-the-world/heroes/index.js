@@ -2,6 +2,9 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import Image from "gatsby-image"
 
+import Layout from "../../../../components/layout"
+import SEO from "../../../../components/seo"
+
 export const query = graphql`
   query {
     allHeroesJson {
@@ -31,7 +34,9 @@ const HeroesPage = ({ data }) => {
   console.log(data)
 
   return (
-    <div className="container">
+    <Layout>
+    <SEO title="Save The World - Hereos" />
+    
       <p>
         <Link to="/fortnite/save-the-world">Go back to Save The World</Link>
       </p>
@@ -63,7 +68,8 @@ const HeroesPage = ({ data }) => {
           </div>
         ))}
       </div>
-    </div>
+    
+    </Layout>
   )
 }
 
