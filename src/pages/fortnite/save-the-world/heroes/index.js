@@ -10,19 +10,22 @@ export const query = graphql `
         allHeroesJson {
             edges {
                     node {
-                    name
-                    slug
-                    id
-                    class
-                    image {
-                        childImageSharp {
-                            fluid {
-                                ...GatsbyImageSharpFluid
+                        name
+                        slug
+                        id
+                        class
+                        image {
+                            childImageSharp {
+                                fluid {
+                                    ...GatsbyImageSharpFluid
+                                }
                             }
+                        }
+                        fields {
+                            lukyField
                         }
                     }
                 }
-            }
             totalCount
         }
     }
@@ -75,6 +78,7 @@ const HeroesPage = ({ data }) => {
                         {node.class && <p>{node.class}</p>}
                     </div>
                     </div>
+                    <p>{node.fields.lukyField}</p>
                     {node.slug && (
                     <Link className="link" to={node.slug}>
                         link

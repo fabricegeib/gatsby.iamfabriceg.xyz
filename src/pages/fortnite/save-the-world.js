@@ -17,15 +17,15 @@ const SaveTheWorldPage = () => (
     <div className="xxx">
         <ul className="xxx">
             <li><Link to="/fortnite/save-the-world/heroes/">Heroes</Link></li>
-                <ul>
-                    <li><Link to="/fortnite/save-the-world/heroes/soldier">Soldier</Link></li>
-                </ul>
+            <ul>
+                <li><Link to="/fortnite/save-the-world/heroes/soldier">Soldier</Link></li>
+            </ul>
             
             <li><Link to="/fortnite/save-the-world/armes-a-distance/">Armes à distance</Link></li>
-                <ul>
-                    <li><Link to="/fortnite/save-the-world/armes-a-distance/fusils-d-assaut/">Fusils d'assaut</Link></li>
-                    <li><Link to="/fortnite/save-the-world/armes-a-distance/fusils-a-pompe/">Fusils à pompe</Link></li>
-                </ul>
+            <ul>
+                <li><Link to="/fortnite/save-the-world/armes-a-distance/fusils-d-assaut/">Fusils d'assaut</Link></li>
+                <li><Link to="/fortnite/save-the-world/armes-a-distance/fusils-a-pompe/">Fusils à pompe</Link></li>
+            </ul>
             {/* <li><Link to="/fortnite/save-the-world/images">Images</Link></li> */}
         </ul>
     </div>

@@ -1,14 +1,32 @@
 /**
- * Implement Gatsby's Node APIs in this file.
- *
- * See: https://www.gatsbyjs.org/docs/node-apis/
- */
+    * Implement Gatsby's Node APIs in this file.
+    *
+    * See: https://www.gatsbyjs.org/docs/node-apis/
+    */
 
 // You can delete this file if you're not using it
 
 module.exports.onCreateNode = ({ node, actions }) => {
-  const { createNodeField } = actions
-  console.log(node)
+    const { createNode, createNodeField } = actions
+    // console.log(node.internal.type)
+
+    // console.log(JSON.stringify(node, undefined, 4))
+
+    if (node.internal.type === 'HeroesJson') {
+            const wesh = ((node.name).toLowerCase())
+
+            // console.log('@WESH ALORS LUKY', wesh)
+
+            createNodeField({
+                node,
+                name: 'lukyField',
+                value: wesh
+            })
+
+        // console.log(JSON.stringify(node, undefined, 4))
+    }
+
+  
 }
 
 // exports.createPages = async ({ actions: {createPage}, graphql }) => {
@@ -48,15 +66,15 @@ module.exports.onCreateNode = ({ node, actions }) => {
 //   createTypes(typeDefs)
 // }
 
-exports.createSchemaCustomization = ({ actions }) => {
-  const { createTypes } = actions
-  const typeDefs = `
-    type heroesJson implements Node @dontInfer {
-      image: String!
-    }
-  `
-  createTypes(typeDefs)
-}
+// exports.createSchemaCustomization = ({ actions }) => {
+//   const { createTypes } = actions
+//   const typeDefs = `
+//     type heroesJson implements Node @dontInfer {
+//       image: String!
+//     }
+//   `
+//   createTypes(typeDefs)
+// }
 
 // exports.sourceNodes = ({ actions }) => {
 //   const { createTypes } = actions
