@@ -100,7 +100,10 @@ ul {
         grid-template-columns: repeat(2, 180px);
         grid-gap: 12px 6px;
         margin: 0 -0.8rem;
-	}
+    }
+    a {
+        text-decoration: none;
+    }
 }
 .card {
     

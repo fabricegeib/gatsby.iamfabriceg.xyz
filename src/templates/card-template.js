@@ -45,8 +45,9 @@ const CardTemplate = (props) => {
             <p>
                 <Link to="/fortnite/save-the-world/heroes">Fortnite > Save The World > Heroes</Link>
             </p>
-            <h3>Card</h3>
-            <p>{props.data.heroesJson.name}</p>
+
+            <h3>{props.data.heroesJson.name}</h3>
+            <h5>{props.data.heroesJson.class}</h5>
 
             <div className="card">
                 <Image
