@@ -8,15 +8,15 @@ import SEO from "../../components/seo"
 const SaveTheWorldPage = () => (
   <Layout>
     <SEO title="Save The World" />
-    <h1><Link to="/fortnite/">Fortnite</Link></h1>
-    <h3>Save the World</h3>
+    <h3><Link to="/fortnite/">Fortnite > Save the World</Link></h3>
+
     <p>Joueur contre l'environnement (PvE)</p>
 
     <div className="xxx">
         <ul>
           <li><Link to="/fortnite/save-the-world/heroes/">Heroes</Link></li>
           <ul>
-            <li><Link to="/fortnite/save-the-world/hereos/soldier">Soldier</Link></li>
+            <li><Link to="/fortnite/save-the-world/heroes/soldier">Soldier</Link></li>
           </ul>
           <li><Link to="/fortnite/save-the-world/armes-a-distance/">Armes à distance</Link></li>
           <ul>
