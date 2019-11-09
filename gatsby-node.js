@@ -5,31 +5,37 @@
  */
 
 // You can delete this file if you're not using it
-exports.createPages = async ({ actions: {createPage}, graphql }) => {
-  const results = await graphql(`
-    {
-      allHeroesJson {
-        edges {
-          node {
-            slug
-            class
-          }
-        }
-      }
-    }
-  `)
-  results.data.allHeroesJson.edges.forEach(edge => {
-    const heroes = edge.node;
 
-    createPage({
-      path: `/fortnite/save-the-world/heroes/${heroes.class}/${heroes.slug}/`,
-      component: require.resolve("./src/templates/heroes-graphql.js"),
-      context: {
-        slug: heroes.slug,
-      },
-    })
-  })
+module.exports.onCreateNode = ({ node, actions }) => {
+  const { createNodeField } = actions
+  console.log(node)
 }
+
+// exports.createPages = async ({ actions: {createPage}, graphql }) => {
+//   const results = await graphql(`
+//     {
+//       allHeroesJson {
+//         edges {
+//           node {
+//             slug
+//             class
+//           }
+//         }
+//       }
+//     }
+//   `)
+//   results.data.allHeroesJson.edges.forEach(edge => {
+//     const heroes = edge.node;
+
+//     createPage({
+//       path: `/fortnite/save-the-world/heroes/${heroes.class}/${heroes.slug}/`,
+//       component: require.resolve("./src/templates/heroes-graphql.js"),
+//       context: {
+//         slug: heroes.slug,
+//       },
+//     })
+//   })
+// }
 
 // exports.createSchemaCustomization = ({ actions }) => {
 //   const { createTypes } = actions

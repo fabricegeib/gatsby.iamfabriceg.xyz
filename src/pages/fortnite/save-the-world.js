@@ -15,18 +15,18 @@ const SaveTheWorldPage = () => (
     <p>Joueur contre l'environnement (PvE)</p>
 
     <div className="xxx">
-        <ul>
-          <li><Link to="/fortnite/save-the-world/heroes/">Heroes</Link></li>
-          <ul>
-            <li><Link to="/fortnite/save-the-world/heroes/soldier">Soldier</Link></li>
-          </ul>
-          <li><Link to="/fortnite/save-the-world/armes-a-distance/">Armes à distance</Link></li>
-          <ul>
-            <li><Link to="/fortnite/save-the-world/armes-a-distance/fusils-d-assaut/">Fusils d'assaut</Link></li>
-            <li><Link to="/fortnite/save-the-world/armes-a-distance/fusils-a-pompe/">Fusils à pompe</Link></li>
-          </ul>
-          <li><Link to="/fortnite/save-the-world/images">Images</Link></li>
-            {/* <li><Link to="/fortnite/battle-royale/">Battle Royale</Link></li> */}
+        <ul className="xxx">
+            <li><Link to="/fortnite/save-the-world/heroes/">Heroes</Link></li>
+                <ul>
+                    <li><Link to="/fortnite/save-the-world/heroes/soldier">Soldier</Link></li>
+                </ul>
+            
+            <li><Link to="/fortnite/save-the-world/armes-a-distance/">Armes à distance</Link></li>
+                <ul>
+                    <li><Link to="/fortnite/save-the-world/armes-a-distance/fusils-d-assaut/">Fusils d'assaut</Link></li>
+                    <li><Link to="/fortnite/save-the-world/armes-a-distance/fusils-a-pompe/">Fusils à pompe</Link></li>
+                </ul>
+            {/* <li><Link to="/fortnite/save-the-world/images">Images</Link></li> */}
         </ul>
     </div>
   </Layout>

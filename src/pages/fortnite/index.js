@@ -17,6 +17,9 @@ const FortnitePage = () => (
           <Link to="/fortnite/battle-royale/">Battle Royale</Link>
         </li>
         <li>
+          <Link to="/fortnite/creative/">Creative</Link>
+        </li>
+        <li>
         <Link to="/fortnite/save-the-world/">Save The World</Link>
         </li>
       </ul>
