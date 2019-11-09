@@ -153,8 +153,9 @@
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "Machinist Harper",
         "nom" : "xxx",
+        "rarity": "epic",
         "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-011-VR-T01-L.png",
@@ -171,8 +172,9 @@
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "Warden Kyle",
         "nom" : "xxx",
+        "rarity":"legendary",
         "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-013-SR-T01-L.png",
@@ -315,8 +317,9 @@
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "Black Knight Garridan",
         "nom" : "xxx",
+        "rarity":"legendary",
         "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-018-SR-BlackKnight-T01-L.png",
@@ -324,7 +327,7 @@
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "Sentry Gunner Krampus",
         "nom" : "xxx",
         "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
@@ -342,8 +345,9 @@
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "Blakebeard The Blackhearted",
         "nom" : "xxx",
+        "rarity":"legendary",
         "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-025-ProgressivePirate-SR-T01-L.png",
@@ -369,8 +373,9 @@
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "ED-EE",
         "nom" : "xxx",
+        "rarity": "legendary",
         "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-028-RetroSciFiConstructor-SR-T01-L.png",
@@ -416,6 +421,7 @@
 {
         "name": "Hotfixer Hazard",
         "nom" : "xxx",
+        "rarity": "legendary",
         "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-BaseHyper-SR-T01-L.png",
@@ -423,8 +429,9 @@
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "Hotfixer Hazard Epic",
         "nom" : "xxx",
+        "rarity": "epic",
         "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-BaseHyper-VR-T01-L.png",
@@ -450,7 +457,7 @@
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "Electro-pulse Penny",
         "nom" : "xxx",
         "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
@@ -585,8 +592,9 @@
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "B.A.S.E. Kyle",
         "nom" : "xxx",
+        "rarity": "epic",
         "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-VR-T01-L.png",
@@ -1969,7 +1977,7 @@
         "skills": [ "1", "2", "3" ]
     },
     {
-        "name": "Athena-Commando-F-Viking-L",
+        "name": "Thunder Thora",
         "nom" : "xxx",
         "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
@@ -1978,7 +1986,7 @@
         "skills": [ "1", "2", "3" ]
     },
     {
-        "name": "Athena-Commando-M-Viking-L",
+        "name": "Conqueror Magnus",
         "nom" : "xxx",
         "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
@@ -2131,7 +2139,7 @@
         "skills": [ "1", "2", "3" ]
     },
     {
-        "name": "Athena-Commando-M-IceKing-L",
+        "name": "The Ice King",
         "nom" : "xxx",
         "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",

@@ -12,6 +12,7 @@ export const query = graphql`
           class
           name
           slug
+          rarity
           fields {
             cardSlug
           }
@@ -61,6 +62,8 @@ const CardTemplate = (props) => {
                     <p>{props.data.heroesJson.class}</p>
                 </div>
             </div>
+
+            <h5>{props.data.heroesJson.rarity}</h5>
             
         </Layout>
     )
