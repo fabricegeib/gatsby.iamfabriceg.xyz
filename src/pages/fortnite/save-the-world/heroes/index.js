@@ -35,7 +35,7 @@ const HeroesPage = ({ data }) => {
 
     return (
         <Layout>
-        <SEO title="Fortnite Save The World - Hereos" />
+        <SEO title="Fortnite Save The World - Heroes" />
         
             <p>
                 <Link to="/fortnite/save-the-world">Fortnite > Save The World</Link>

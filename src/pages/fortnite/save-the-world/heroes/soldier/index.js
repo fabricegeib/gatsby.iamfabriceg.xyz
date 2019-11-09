@@ -37,8 +37,21 @@ const SoldierPage = () => {
         </p>
 
         <h3>Heroes ({data.allHeroesJson.totalCount})</h3>
-        <h5>Soldier</h5>
-
+        
+        <ul>
+            <li>
+                <h5><Link to="/fortnite/save-the-world/heroes/constructors">Constructors</Link></h5>
+            </li>
+            <li>
+                <h5><Link to="/fortnite/save-the-world/heroes/ninja">Ninja</Link></h5>
+            </li>
+            <li>
+                <h5><Link to="/fortnite/save-the-world/heroes/outlander">Outlander</Link></h5>
+            </li>
+            <li>
+                <h5><Link to="/fortnite/save-the-world/heroes/soldier">Soldier</Link></h5>
+            </li>
+        </ul>
 
         <div className="cards">
                 {data.allHeroesJson.edges.map(({ node }, index) => (

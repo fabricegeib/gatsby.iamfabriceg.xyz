@@ -8,7 +8,9 @@ import SEO from "../../components/seo"
 const SaveTheWorldPage = () => (
   <Layout>
     <SEO title="Save The World" />
-    <h3><Link to="/fortnite/">Fortnite > Save the World</Link></h3>
+    <p><Link to="/fortnite/">Fortnite</Link></p>
+
+    <h3>Save the World</h3>
 
     <p>Joueur contre l'environnement (PvE)</p>
 

@@ -8,9 +8,11 @@ import SEO from "../../components/seo"
 const BattleRoyalePage = () => (
   <Layout>
     <SEO title="Battle Royale" />
-    <h3><Link to="/fortnite/">Fortnite > Battle Royale</Link></h3>
+    <p><Link to="/fortnite/">Fortnite</Link></p>
+
+    <h3>Battle Royale</h3>
     
-    <p>Joueur contre joueur (PvP)</p>
+    <p>Drop in to new world (PvP)</p>
 
     <div className="xxx">
         <ul>

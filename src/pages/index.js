@@ -10,7 +10,7 @@ const IndexPage = () => (
     <SEO title="Home" />
 
     <div className="games">
-      <h3>Games</h3>
+      <h3>I play</h3>
 
       <ul>
         <li><Link to="/fortnite/">Fortnite</Link></li>
