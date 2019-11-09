@@ -6,6 +6,8 @@
 
 // You can delete this file if you're not using it
 
+const path = require('path')
+
 module.exports.onCreateNode = ({ node, actions }) => {
     const { createNode, createNodeField } = actions
     // console.log(node.internal.type)
@@ -13,20 +15,51 @@ module.exports.onCreateNode = ({ node, actions }) => {
     // console.log(JSON.stringify(node, undefined, 4))
 
     if (node.internal.type === 'HeroesJson') {
-            const wesh = ((node.name).toLowerCase())
+            const cardLC = ((node.name).toLowerCase())
+            const card = cardLC.replace(/\s+/g, '-')
 
             // console.log('@WESH ALORS LUKY', wesh)
 
             createNodeField({
                 node,
-                name: 'lukyField',
-                value: wesh
+                name: 'cardSlug',
+                value: card
             })
 
         // console.log(JSON.stringify(node, undefined, 4))
     }
 
   
+}
+
+module.exports.createPages = async ({ graphql, actions }) => {
+    const { createPage } = actions
+    const cardTemplate = path.resolve('./src/templates/card-template.js')
+
+    const res = await graphql(`
+        query MyQuery {
+            allHeroesJson {
+                edges {
+                    node {
+                        class
+                        fields {
+                            cardSlug
+                        }
+                    }
+                }
+            }
+        }
+    `)
+
+    res.data.allHeroesJson.edges.forEach((edge) => {
+        createPage ({
+            component: cardTemplate,
+            path: `/fortnite/save-the-world/heroes/${edge.node.class}/${edge.node.fields.cardSlug}`,
+            context: {
+                cardSlug: edge.node.fields.cardSlug
+            }
+        })
+    })
 }
 
 // exports.createPages = async ({ actions: {createPage}, graphql }) => {

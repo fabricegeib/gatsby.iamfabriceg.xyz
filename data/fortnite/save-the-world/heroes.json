@@ -1,36 +1,36 @@
 [
     {
-        "name": "Constructor 007 Founders SR T01 L",
+        "name": "Power BASE Kyle",
         "nom" : "xxx",
         "slug": "/fortnite/save-the-world/heroes",
-        "class": "soldier",
+        "class": "constructor",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-Founders-SR-T01-L.png",
         "perk": "1",
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Constructor-007-R-T01-L",
+        "name": "Constructor 007 RT01-L",
         "nom" : "xxx",
         "slug": "/fortnite/save-the-world/heroes",
-        "class": "soldier",
+        "class": "constructor",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-R-T01-L.png",
         "perk": "1",
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "Constructor 007 SR T01 L",
         "nom" : "xxx",
         "slug": "/fortnite/save-the-world/heroes",
-        "class": "soldier",
+        "class": "constructor",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-SR-T01-L.png",
         "perk": "1",
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "HID Constructor 007 UC T01 L",
         "nom" : "xxx",
         "slug": "/fortnite/save-the-world/heroes",
-        "class": "soldier",
+        "class": "constructor",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-UC-T01-L.png",
         "perk": "1",
         "skills": [ "1", "2", "3" ]
