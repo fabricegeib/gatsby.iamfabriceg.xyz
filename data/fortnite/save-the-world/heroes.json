@@ -2,43 +2,46 @@
     {
         "name": "Power B.A.S.E Kyle",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
+        "rarity": "mythique",
+        "citation": "Les grosses bases, y a que ça de vrai. - Kyle",
         "class": "constructor",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-Founders-SR-T01-L.png",
         "perk": "1",
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Constructor 007 RT01-L",
+        "name": "Controller Harper Rare",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
+        "rarity": "rare",
+        "citation": "Garde en permanance le contrôle.",
         "class": "constructor",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-R-T01-L.png",
         "perk": "1",
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Constructor 007 SR T01 L",
+        "name": "Controller Harper Legendary",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
+        "rarity":"legendary",
+        "citation": "Garde en permanance le contrôle.",
         "class": "constructor",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-SR-T01-L.png",
         "perk": "1",
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "HID Constructor 007 UC T01 L",
+        "name": "Controller Harper Uncommon",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
+        "rarity": "uncommon",
         "class": "constructor",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-UC-T01-L.png",
         "perk": "1",
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "Controller Harper Epic",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
+        "rarity": "epic",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-VR-T01-L.png",
         "perk": "1",
@@ -47,25 +50,23 @@
 {
         "name": "Kyle the 13th",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007HW-SR-T01-L.png",
         "perk": "1",
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "Power B.A.S.E. Penny",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-008-Founders-SR-T01-L.png",
         "perk": "1",
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "Power B.A.S.E. Knox Rare",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
+        "rarity": "rare",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-008-R-T01-L.png",
         "perk": "1",
@@ -74,7 +75,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-008-SR-T01-L.png",
         "perk": "1",
@@ -83,7 +83,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-008-VR-T01-L.png",
         "perk": "1",
@@ -92,7 +91,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-009-R-T01-L.png",
         "perk": "1",
@@ -101,7 +99,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-009-SR-T01-L.png",
         "perk": "1",
@@ -110,16 +107,15 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-009-VR-T01-L.png",
         "perk": "1",
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "Guardian Bull",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
+        "rarity":"legendary",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-010-SR-T01-L.png",
         "perk": "1",
@@ -128,7 +124,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-010-VR-T01-L.png",
         "perk": "1",
@@ -137,7 +132,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-011-R-T01-L.png",
         "perk": "1",
@@ -146,7 +140,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-011-SR-T01-L.png",
         "perk": "1",
@@ -156,7 +149,6 @@
         "name": "Machinist Harper",
         "nom" : "xxx",
         "rarity": "epic",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-011-VR-T01-L.png",
         "perk": "1",
@@ -165,7 +157,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-013-R-T01-L.png",
         "perk": "1",
@@ -175,7 +166,6 @@
         "name": "Warden Kyle",
         "nom" : "xxx",
         "rarity":"legendary",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-013-SR-T01-L.png",
         "perk": "1",
@@ -184,7 +174,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-013-UC-T01-L.png",
         "perk": "1",
@@ -193,7 +182,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-013-VR-T01-L.png",
         "perk": "1",
@@ -202,7 +190,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-014-F-SR-T01-L.png",
         "perk": "1",
@@ -211,7 +198,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-014-R-T01-L.png",
         "perk": "1",
@@ -220,7 +206,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-014-SR-T01-L.png",
         "perk": "1",
@@ -229,7 +214,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-014-VR-T01-L.png",
         "perk": "1",
@@ -238,7 +222,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-015-R-T02-L.png",
         "perk": "1",
@@ -247,7 +230,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-015-SR-T02-L.png",
         "perk": "1",
@@ -256,7 +238,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-015-VR-T02-L.png",
         "perk": "1",
@@ -265,16 +246,15 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-016-F-V1-VR-T02-L.png",
         "perk": "1",
         "skills": [ "1", "2", "3" ]
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "8-Bit Demo",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
+        "rarity":"legendary",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-016-M-V1-Blockbuster-SR_T02-L.png",
         "perk": "1",
@@ -283,7 +263,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-016-M-V1-SR-T02-L.png",
         "perk": "1",
@@ -292,7 +271,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-017-F-V1-R-T02-L.png",
         "perk": "1",
@@ -301,7 +279,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-017-F-V1-SR-T02-L.png",
         "perk": "1",
@@ -310,7 +287,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-017-F-V1-VR-T02-L.png",
         "perk": "1",
@@ -320,7 +296,6 @@
         "name": "Black Knight Garridan",
         "nom" : "xxx",
         "rarity":"legendary",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-018-SR-BlackKnight-T01-L.png",
         "perk": "1",
@@ -329,7 +304,6 @@
 {
         "name": "Sentry Gunner Krampus",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-020-SR-T01-L.png",
         "perk": "1",
@@ -338,7 +312,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-024-PirateConstructor-SR-T01-L.png",
         "perk": "1",
@@ -348,7 +321,6 @@
         "name": "Blakebeard The Blackhearted",
         "nom" : "xxx",
         "rarity":"legendary",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-025-ProgressivePirate-SR-T01-L.png",
         "perk": "1",
@@ -357,7 +329,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-026-BombSquadConstructor-SR-T01-L.png",
         "perk": "1",
@@ -366,7 +337,6 @@
 {
         "name": "Prehistoric Izza",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-027-DinoConstructor-SR-T01-L.png",
         "perk": "1",
@@ -376,7 +346,6 @@
         "name": "ED-EE",
         "nom" : "xxx",
         "rarity": "legendary",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-028-RetroSciFiConstructor-SR-T01-L.png",
         "perk": "1",
@@ -385,7 +354,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-030-RadConstructor-SR-T01-L.png",
         "perk": "1",
@@ -394,7 +362,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-031-HalloweenConstructor-SR-T01-L.png",
         "perk": "1",
@@ -403,7 +370,6 @@
 {
         "name": "MEGA B.A.S.E. Kyle",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-BASEBig-SR-T01-L.png",
         "perk": "1",
@@ -412,7 +378,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-BaseHyper-R-T01-L.png",
         "perk": "1",
@@ -422,7 +387,6 @@
         "name": "Hotfixer Hazard",
         "nom" : "xxx",
         "rarity": "legendary",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-BaseHyper-SR-T01-L.png",
         "perk": "1",
@@ -432,7 +396,6 @@
         "name": "Hotfixer Hazard Epic",
         "nom" : "xxx",
         "rarity": "epic",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-BaseHyper-VR-T01-L.png",
         "perk": "1",
@@ -441,7 +404,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-BaseHyperHW-SR-T01-L.png",
         "perk": "1",
@@ -450,7 +412,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-HammerPlasma-4thJuly-SR-T02-L.png",
         "perk": "1",
@@ -459,7 +420,6 @@
 {
         "name": "Electro-pulse Penny",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-HammerPlasma-SR-T01-L.png",
         "perk": "1",
@@ -468,7 +428,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-HammerPlasma-VR-T01-L.png",
         "perk": "1",
@@ -477,7 +436,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-HammerTank-R-T01-L.png",
         "perk": "1",
@@ -486,7 +444,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-HammerTank-SR-T01-L.png",
         "perk": "1",
@@ -495,7 +452,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-HammerTank-UC-T01-L.png",
         "perk": "1",
@@ -504,7 +460,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-HammerTank-VR-T01-L.png",
         "perk": "1",
@@ -513,7 +468,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-Myth02-SR-T01-L.png",
         "perk": "1",
@@ -522,7 +476,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-PlasmaDamage-Easter-SR-T01-L.png",
         "perk": "1",
@@ -531,7 +484,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-PlasmaDamage-R-T01-L.png",
         "perk": "1",
@@ -540,7 +492,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-PlasmaDamage-SR-T01-L.png",
         "perk": "1",
@@ -549,7 +500,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-PlasmaDamage-VR-T01-L.png",
         "perk": "1",
@@ -558,7 +508,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-F-SR-T01-L.png",
         "perk": "1",
@@ -567,7 +516,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-R-T01-L.png",
         "perk": "1",
@@ -576,7 +524,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-SR-T01-L.png",
         "perk": "1",
@@ -585,7 +532,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-UC-T01-L.png",
         "perk": "1",
@@ -595,7 +541,6 @@
         "name": "B.A.S.E. Kyle",
         "nom" : "xxx",
         "rarity": "epic",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-VR-T01-L.png",
         "perk": "1",
@@ -604,7 +549,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-Sony-R-T01-L.png",
         "perk": "1",
@@ -613,7 +557,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-XBOX-R-T01-L.png",
         "perk": "1",
@@ -644,7 +587,6 @@
     {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-007-R-T01-L.png",
         "perk": "1",
@@ -653,7 +595,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-007-SR-T01-L.png",
         "perk": "1",
@@ -662,7 +603,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-007-UC-T01-L.png",
         "perk": "1",
@@ -671,7 +611,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-007-VR-T01-L.png",
         "perk": "1",
@@ -680,7 +619,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-008-R-T01-L.png",
         "perk": "1",
@@ -689,7 +627,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-008-SR-T01-L.png",
         "perk": "1",
@@ -698,7 +635,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-008-VR-T01-L.png",
         "perk": "1",
@@ -707,7 +643,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-009-F-Valentine-SR-T01-L.png",
         "perk": "1",
@@ -716,7 +651,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-009-R-T01-L.png",
         "perk": "1",
@@ -725,7 +659,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-009-SR-T01-L.png",
         "perk": "1",
@@ -734,7 +667,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-009-VR-T01-L.png",
         "perk": "1",
@@ -743,7 +675,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-010-F-SR-T01-L.png",
         "perk": "1",
@@ -752,7 +683,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-010-F-VR-T01-L.png",
         "perk": "1",
@@ -761,7 +691,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-010-SR-T01-L.png",
         "perk": "1",
@@ -770,7 +699,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-010-VR-T01-L.png",
         "perk": "1",
@@ -779,7 +707,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-011-R-T01-L.png",
         "perk": "1",
@@ -788,7 +715,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-011-SR-T01-L.png",
         "perk": "1",
@@ -797,7 +723,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-011-VR-T01-L.png",
         "perk": "1",
@@ -806,7 +731,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-013-R-T01-L.png",
         "perk": "1",
@@ -815,7 +739,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-013-SR-T01-L.png",
         "perk": "1",
@@ -824,7 +747,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-013-VR-T01-L.png",
         "perk": "1",
@@ -833,7 +755,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-014-F-SR-T01-L.png",
         "perk": "1",
@@ -842,7 +763,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-014-R-T01-L.png",
         "perk": "1",
@@ -851,7 +771,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-014-SR-T01-L.png",
         "perk": "1",
@@ -860,7 +779,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-014-UC-T01-L.png",
         "perk": "1",
@@ -869,7 +787,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-014-VR-T01-L.png",
         "perk": "1",
@@ -878,7 +795,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-015-F-V1-R-T02-L.png",
         "perk": "1",
@@ -887,7 +803,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-015-F-V1-SR-T02-L.png",
         "perk": "1",
@@ -896,7 +811,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-015-F-V1-UC-T02-L.png",
         "perk": "1",
@@ -905,7 +819,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-015-F-V1-VR-T02-L.png",
         "perk": "1",
@@ -914,7 +827,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-016-F-V1-SR-T02-L.png",
         "perk": "1",
@@ -923,7 +835,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-016-M-V1-VR-T02-L.png",
         "perk": "1",
@@ -932,7 +843,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-017-M-V1-R-T02-L.png",
         "perk": "1",
@@ -941,7 +851,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-017-M-V1-SR-T02-L.png",
         "perk": "1",
@@ -950,7 +859,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-017-M-V1-VR-T02-L.png",
         "perk": "1",
@@ -959,7 +867,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-019-SR-T01-L.png",
         "perk": "1",
@@ -968,7 +875,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-023-SR-T01-L.png",
         "perk": "1",
@@ -977,7 +883,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-024-SR-T01-L.png",
         "perk": "1",
@@ -986,7 +891,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-025-PirateNinja-SR-T01-L.png",
         "perk": "1",
@@ -995,7 +899,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-027-BunnyNinja-SR-T01-L.png",
         "perk": "1",
@@ -1004,7 +907,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-029-DinoNinja-SR-T01-L.png",
         "perk": "1",
@@ -1013,7 +915,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-030-RetroSciFiNinja-SR-T01-L.png",
         "perk": "1",
@@ -1022,7 +923,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-031-RadNinja-SR-T01.png",
         "perk": "1",
@@ -1031,7 +931,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-Myth02-SR-T02-L.png",
         "perk": "1",
@@ -1040,7 +939,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreath-Founders-SR-T01-L.png",
         "perk": "1",
@@ -1049,7 +947,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreath-R-T01-L.png",
         "perk": "1",
@@ -1058,7 +955,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreath-SR-T01-L.png",
         "perk": "1",
@@ -1067,7 +963,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreath-VR-T01-L.png",
         "perk": "1",
@@ -1076,7 +971,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreathHW-SR-T01-L.png",
         "perk": "1",
@@ -1085,7 +979,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashTail-R-T01-L.png",
         "perk": "1",
@@ -1094,7 +987,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashTail-SR-T01-L.png",
         "perk": "1",
@@ -1103,7 +995,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashTail-UC-T01-L.png",
         "perk": "1",
@@ -1112,7 +1003,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashTail-VR-T01-L.png",
         "perk": "1",
@@ -1121,7 +1011,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SmokeDimMak-R-T01-L.png",
         "perk": "1",
@@ -1130,7 +1019,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SmokeDimMak-SR-T01-L.png",
         "perk": "1",
@@ -1139,7 +1027,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SmokeDimMak-VR-T01-L.png",
         "perk": "1",
@@ -1148,7 +1035,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-Sony-R-T01-L.png",
         "perk": "1",
@@ -1157,7 +1043,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-Founders-SR-T01-L.png",
         "perk": "1",
@@ -1166,7 +1051,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-R-T01-L.png",
         "perk": "1",
@@ -1175,7 +1059,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-SR-T01-L.png",
         "perk": "1",
@@ -1184,7 +1067,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-UC-T01-L.png",
         "perk": "1",
@@ -1193,7 +1075,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-VR-T01-L.png",
         "perk": "1",
@@ -1202,7 +1083,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsRain-SR-T01-L.png",
         "perk": "1",
@@ -1211,7 +1091,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsRain-VR-T01-L.png",
         "perk": "1",
@@ -1220,7 +1099,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsRainHW-SR-T01-L.png",
         "perk": "1",
@@ -1229,7 +1107,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-Swordmaster-SR-T01-L.png",
         "perk": "1",
@@ -1238,7 +1115,6 @@
 {
         "name": "Athena Commando M Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-XBOX-R-T01-L.png",
         "perk": "1",
@@ -1247,7 +1123,6 @@
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/ninja/T-Variant-DragonNinja-V1-Green-L.png",
         "perk": "1",
@@ -1277,7 +1152,6 @@
     {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-007-R-T01-L.png",
         "perk": "1",
@@ -1285,7 +1159,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-007-RS01-SR-T01-L.png",
         "perk": "1",
@@ -1293,7 +1166,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-007-SR-T01-L.png",
         "perk": "1",
@@ -1301,7 +1173,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-007-UC-T01-L.png",
         "perk": "1",
@@ -1309,7 +1180,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-007-VR-T01-L.png",
         "perk": "1",
@@ -1317,7 +1187,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-008-Founders-SR-T01-L.png",
         "perk": "1",
@@ -1325,7 +1194,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-008-R-T01-L.png",
         "perk": "1",
@@ -1333,7 +1201,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-008-SR-T01-L.png",
         "perk": "1",
@@ -1341,7 +1208,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-008-VR-T01-L.png",
         "perk": "1",
@@ -1349,7 +1215,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-009-Founders-SR-T01-L.png",
         "perk": "1",
@@ -1357,7 +1222,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-009-R-T01-L.png",
         "perk": "1",
@@ -1365,7 +1229,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-009-SR-T01-L.png",
         "perk": "1",
@@ -1373,7 +1236,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-009-VR-T01-L.png",
         "perk": "1",
@@ -1381,7 +1243,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-010-M-4thJuly-SR-T02-L.png",
         "perk": "1",
@@ -1389,7 +1250,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-010-M-SR-T01-L.png",
         "perk": "1",
@@ -1397,7 +1257,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-010-M-VR-T01-L.png",
         "perk": "1",
@@ -1405,7 +1264,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-010-SR-T01-L.png",
         "perk": "1",
@@ -1413,7 +1271,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-010-VR-T01-L.png",
         "perk": "1",
@@ -1421,7 +1278,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-011-SR-T01-L.png",
         "perk": "1",
@@ -1429,7 +1285,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-011-VR-T01-L.png",
         "perk": "1",
@@ -1437,7 +1292,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-013-SR-T01-L.png",
         "perk": "1",
@@ -1445,7 +1299,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-013-StPatricks-SR-T01-L.png",
         "perk": "1",
@@ -1453,7 +1306,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-013-VR-T01-L.png",
         "perk": "1",
@@ -1461,7 +1313,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-014-M-SR-T01-L.png",
         "perk": "1",
@@ -1469,7 +1320,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-014-R-T01-L.png",
         "perk": "1",
@@ -1477,7 +1327,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-014-SR-T01-L.png",
         "perk": "1",
@@ -1485,7 +1334,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-014-VR-T01-L.png",
         "perk": "1",
@@ -1493,7 +1341,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-015-F-V1-R-T02-L.png",
         "perk": "1",
@@ -1501,7 +1348,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-015-F-V1-SR-T02-L.png",
         "perk": "1",
@@ -1509,7 +1355,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-015-F-V1-VR-T02-L.png",
         "perk": "1",
@@ -1517,7 +1362,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-016-F-V1-SR-T02-L.png",
         "perk": "1",
@@ -1525,7 +1369,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-016-M-V1-SR-T02-L.png",
         "perk": "1",
@@ -1533,7 +1376,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-017-M-V1-SR-L.png",
         "perk": "1",
@@ -1541,7 +1383,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-022-SR-T01-L.png",
         "perk": "1",
@@ -1549,7 +1390,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-025-PirateOutlander-SR-T01-L.png",
         "perk": "1",
@@ -1557,7 +1397,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-026-BunnyOutlander-SR-T01-L.png",
         "perk": "1",
@@ -1565,7 +1404,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-027-DinoOutlander-SR-T01-L.png",
         "perk": "1",
@@ -1573,7 +1411,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-028-RetroSciFiStoryOutlander-SR-T01-L.png",
         "perk": "1",
@@ -1581,7 +1418,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-029-RetroSciFiOutlander-SR-T01-L.png",
         "perk": "1",
@@ -1589,7 +1425,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-030-RadOutlander-SR-T01-L.png",
         "perk": "1",
@@ -1597,7 +1432,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-031-HalloweenOutlander-SR-T01-L.png",
         "perk": "1",
@@ -1605,7 +1439,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-Myth02-SR-T05-L.png",
         "perk": "1",
@@ -1613,7 +1446,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchDamage-SR-T01-L.png",
         "perk": "1",
@@ -1621,7 +1453,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchDamage-VR-T01-L.png",
         "perk": "1",
@@ -1629,7 +1460,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchPhase-R-T01-L.png",
         "perk": "1",
@@ -1637,7 +1467,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchPhase-SR-T01-L.png",
         "perk": "1",
@@ -1645,7 +1474,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchPhase-UC-T01-L.png",
         "perk": "1",
@@ -1653,7 +1481,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchPhase-VR-T01-L.png",
         "perk": "1",
@@ -1661,7 +1488,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-Sony-R-T01-L.png",
         "perk": "1",
@@ -1669,7 +1495,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-SphereFragment-R-T01-L.png",
         "perk": "1",
@@ -1677,7 +1502,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-SphereFragment-SR-T01-L.png",
         "perk": "1",
@@ -1685,7 +1509,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-SphereFragment-VR-T01-L.png",
         "perk": "1",
@@ -1693,7 +1516,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-XBOX-R-T01-L.png",
         "perk": "1",
@@ -1701,7 +1523,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneFragment-SR-T01-L.png",
         "perk": "1",
@@ -1709,7 +1530,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvest-BlockBuster-SR-T02-L.png",
         "perk": "1",
@@ -1717,7 +1537,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvest-R-T01-L.png",
         "perk": "1",
@@ -1725,7 +1544,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvest-SR-T01-L.png",
         "perk": "1",
@@ -1733,7 +1551,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvest-UC-T01-L.png",
         "perk": "1",
@@ -1741,7 +1558,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvest-VR-T01-L.png",
         "perk": "1",
@@ -1749,7 +1565,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvestHW-SR-T01-L.png",
         "perk": "1",
@@ -1757,7 +1572,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZonePistol-R-T01-L.png",
         "perk": "1",
@@ -1765,7 +1579,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZonePistol-SR-T01-L.png",
         "perk": "1",
@@ -1773,7 +1586,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZonePistol-VR-T01-L.png",
         "perk": "1",
@@ -1781,7 +1593,6 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZonePistolHW-SR-T01-L.png",
         "perk": "1",
@@ -1817,7 +1628,6 @@
     {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-042-Athena-Commando-M-Cyberpunk-L.png",
         "perk": "1",
@@ -1826,7 +1636,6 @@
     {
         "name": "Athena-Commando-M-HolidayNutcracker-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-050-Athena-Commando-M-HolidayNutcracker-L.png",
         "perk": "1",
@@ -1835,7 +1644,6 @@
     {
         "name": "Athena-Commando-M-Twitch-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-085-Athena-Commando-M-Twitch-L.png",
         "perk": "1",
@@ -1844,7 +1652,6 @@
     {
         "name": "Athena-Commando-M-RetroGrey-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-089-Athena-Commando-M-RetroGrey-L.png",
         "perk": "1",
@@ -1853,7 +1660,6 @@
     {
         "name": "Athena-Commando-M-Dinosaur-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-093-Athena-Commando-M-Dinosaur-L.png",
         "perk": "1",
@@ -1862,7 +1668,6 @@
     {
         "name": "Athena-Commando-F-StPatty-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-098-Athena-Commando-F-StPatty-L.png",
         "perk": "1",
@@ -1871,7 +1676,6 @@
     {
         "name": "Athena-Commando-F-Scathach-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-099-Athena-Commando-F-Scathach-L.png",
         "perk": "1",
@@ -1880,7 +1684,6 @@
     {
         "name": "Athena-Commando-M-CuChulainn-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-100-Athena-Commando-M-CuChulainn-L.png",
         "perk": "1",
@@ -1889,7 +1692,6 @@
     {
         "name": "Athena-Commando-M-Raven-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-102-Athena-Commando-M-Raven-L.png",
         "perk": "1",
@@ -1898,7 +1700,6 @@
     {
         "name": "Athena-Commando-F-Bunny-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-104-Athena-Commando-F-Bunny-L.png",
         "perk": "1",
@@ -1907,7 +1708,6 @@
     {
         "name": "Athena-Commando-F-SpaceBlackFemale-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-105-Athena-Commando-F-SpaceBlackFemale-L.png",
         "perk": "1",
@@ -1916,7 +1716,6 @@
     {
         "name": "Athena-Commando-M-CarbideBlue-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-115-Athena-Commando-M-CarbideBlue-L.png",
         "perk": "1",
@@ -1925,7 +1724,6 @@
     {
         "name": "Athena-Commando-M-Metal",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-122-Athena-Commando-M-Metal-L.png",
         "perk": "1",
@@ -1934,7 +1732,6 @@
     {
         "name": "Athena-Commando-M-AuroraGlow",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-126-Athena-Commando-M-AuroraGlow-L.png",
         "perk": "1",
@@ -1943,7 +1740,6 @@
     {
         "name": "Athena-Commando-M-WarPaint",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-131-Athena-Commando-M-WarPaint-L.png",
         "perk": "1",
@@ -1952,7 +1748,6 @@
     {
         "name": "Athena-Commando-F-Deco",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-133-Athena-Commando-F-Deco-L.png",
         "perk": "1",
@@ -1961,7 +1756,6 @@
     {
         "name": "Athena-Commando-F-DarkNinja-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-143-Athena-Commando-F-DarkNinja-L.png",
         "perk": "1",
@@ -1970,7 +1764,6 @@
     {
         "name": "Athena-Commando-F-StreetRacer-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-162-Athena-Commando-F-StreetRacer-L.png",
         "perk": "1",
@@ -1979,7 +1772,6 @@
     {
         "name": "Thunder Thora",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-163-Athena-Commando-F-Viking-L.png",
         "perk": "1",
@@ -1988,7 +1780,6 @@
     {
         "name": "Conqueror Magnus",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-164-Athena-Commando-M-Viking-L.png",
         "perk": "1",
@@ -1997,7 +1788,6 @@
     {
         "name": "Athena-Commando-M-TacticalBadass-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-167-Athena-Commando-M-TacticalBadass-L.png",
         "perk": "1",
@@ -2006,7 +1796,6 @@
     {
         "name": "Athena-Commando-F-StarfishUniform-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-173-Athena-Commando-F-StarfishUniform-L.png",
         "perk": "1",
@@ -2015,7 +1804,6 @@
     {
         "name": "Athena-Commando-M-StreetRacerCobra-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-177-Athena-Commando-M-StreetRacerCobra-L.png",
         "perk": "1",
@@ -2024,7 +1812,6 @@
     {
         "name": "Athena-Commando-M-ModernMilitary-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-182-Athena-Commando-M-ModernMilitary-L.png",
         "perk": "1",
@@ -2033,7 +1820,6 @@
     {
         "name": "Athena-Commando-F-StreetRacerWhite-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-188-Athena-Commando-F-StreetRacerWhite-L.png",
         "perk": "1",
@@ -2042,7 +1828,6 @@
     {
         "name": "Athena-Commando-M-StreetRacerWhite-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-190-Athena-Commando-M-StreetRacerWhite-L.png",
         "perk": "1",
@@ -2051,7 +1836,6 @@
     {
         "name": "Athena-Commando-M-DarkPaintballer-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-200-Athena-Commando-M-DarkPaintballer-L.png",
         "perk": "1",
@@ -2060,7 +1844,6 @@
     {
         "name": "Athena-Commando-M-GarageBand-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-204-Athena-Commando-M-GarageBand-L.png",
         "perk": "1",
@@ -2069,7 +1852,6 @@
     {
         "name": "Athena-Commando-F-GarageBand-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-205-Athena-Commando-F-GarageBand-L.png",
         "perk": "1",
@@ -2078,7 +1860,6 @@
     {
         "name": "Athena-Commando-F-DarkViking-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-222-Athena-Commando-F-DarkViking-L.png",
         "perk": "1",
@@ -2087,7 +1868,6 @@
     {
         "name": "Athena-Commando-F-Dieselpunk-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-224-Athena-Commando-F-Dieselpunk-L.png",
         "perk": "1",
@@ -2096,7 +1876,6 @@
     {
         "name": "Athena-Commando-F-Vampire-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-227-Athena-Commando-F-Vampire-L.png",
         "perk": "1",
@@ -2105,7 +1884,6 @@
     {
         "name": "Athena-Commando-M-Plague-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-241-Athena-Commando-M-Plague-L.png",
         "perk": "1",
@@ -2114,7 +1892,6 @@
     {
         "name": "Athena-Commando-M-Plague-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-246-Athena-Commando-F-Grave-L.png",
         "perk": "1",
@@ -2123,7 +1900,6 @@
     {
         "name": "Athena-Commando-M-Zombie-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-254-Athena-Commando-M-Zombie-L.png",
         "perk": "1",
@@ -2132,7 +1908,6 @@
     {
         "name": "Athena-Commando-M-TacticalSanta-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-279-Athena-Commando-M-TacticalSanta-L.png",
         "perk": "1",
@@ -2141,7 +1916,6 @@
     {
         "name": "The Ice King",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-288-Athena-Commando-M-IceKing-L.png",
         "perk": "1",
@@ -2150,7 +1924,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-316-Athena-Commando-F-WinterHoliday-L.png",
         "perk": "1",
@@ -2159,7 +1932,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-317-Athena-Commando-M-WinterGhoul-L.png",
         "perk": "1",
@@ -2170,7 +1942,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-330-Athena-Commando-F-IceQueen-L.png",
         "perk": "1",
@@ -2179,7 +1950,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-343-Athena-Commando-M-CupidDark-L.png",
         "perk": "1",
@@ -2188,7 +1958,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-373-Athena-Commando-M-Pirate01-L.png",
         "perk": "1",
@@ -2197,7 +1966,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-007-R-T01-L.png",
         "perk": "1",
@@ -2206,7 +1974,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-007-SR-T01-L.png",
         "perk": "1",
@@ -2215,7 +1982,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-007-UC-T01-L.png",
         "perk": "1",
@@ -2224,7 +1990,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-007-VR-T01-L.png",
         "perk": "1",
@@ -2233,7 +1998,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-007HW-SR-T01-L.png",
         "perk": "1",
@@ -2242,7 +2006,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-008-Founders-SR-T01-L.png",
         "perk": "1",
@@ -2251,7 +2014,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-008-R-T01-L.png",
         "perk": "1",
@@ -2260,7 +2022,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-008-SR-T01-L.png",
         "perk": "1",
@@ -2269,7 +2030,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-008-VR-T01-L.png",
         "perk": "1",
@@ -2278,7 +2038,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-009-M-R-T01-L.png",
         "perk": "1",
@@ -2287,7 +2046,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-009-M-SR-T01-L.png",
         "perk": "1",
@@ -2296,7 +2054,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-009-M-VR-T01-L.png",
         "perk": "1",
@@ -2305,7 +2062,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-009-R-T01-L.png",
         "perk": "1",
@@ -2314,7 +2070,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-009-SR-T01-L.png",
         "perk": "1",
@@ -2323,7 +2078,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-009-VR-T01-L.png",
         "perk": "1",
@@ -2332,7 +2086,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-010-Bday-SR-T01-L.png",
         "perk": "1",
@@ -2341,7 +2094,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-010-SR-T01-L.png",
         "perk": "1",
@@ -2350,7 +2102,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-010-VR-T01-L.png",
         "perk": "1",
@@ -2359,7 +2110,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-011-M-Easter-SR-T01-L.png",
         "perk": "1",
@@ -2368,7 +2118,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-011-M-SR-T01-L.png",
         "perk": "1",
@@ -2377,7 +2126,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-011-R-T01-L.png",
         "perk": "1",
@@ -2386,7 +2134,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-011-SR-T01-L.png",
         "perk": "1",
@@ -2395,7 +2142,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-011-UC-T01-L.png",
         "perk": "1",
@@ -2404,7 +2150,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-011-VR-T01-L.png",
         "perk": "1",
@@ -2413,7 +2158,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-013-R-T01-L.png",
         "perk": "1",
@@ -2422,7 +2166,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-013-SR-T01-L.png",
         "perk": "1",
@@ -2431,7 +2174,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-013-VR-T01-L.png",
         "perk": "1",
@@ -2440,7 +2182,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-014-M-SR-T01-L.png",
         "perk": "1",
@@ -2449,7 +2190,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-014-SR-T01-L.png",
         "perk": "1",
@@ -2458,7 +2198,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-014-VR-T01-L.png",
         "perk": "1",
@@ -2467,7 +2206,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-014-Wukong-SR-T01-L.png",
         "perk": "1",
@@ -2476,7 +2214,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-015-F-V1-BlockBuster-SR-T02-L.png",
         "perk": "1",
@@ -2485,7 +2222,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-016-F-V1-SR-T02-L.png",
         "perk": "1",
@@ -2494,7 +2230,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-016-M-V1-SR-T02-L.png",
         "perk": "1",
@@ -2503,7 +2238,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-017-F-V1-R-T02-L.png",
         "perk": "1",
@@ -2512,7 +2246,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-017-F-V1-SR-T02-L.png",
         "perk": "1",
@@ -2521,7 +2254,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-017-F-V1-VR-T02-L.png",
         "perk": "1",
@@ -2530,7 +2262,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-018-SR-T01-L.png",
         "perk": "1",
@@ -2539,7 +2270,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-030-RetroSciFiSoldier-SR-T01-L.png",
         "perk": "1",
@@ -2548,7 +2278,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GCGrenade-R-T01-L.png",
         "perk": "1",
@@ -2557,7 +2286,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GCGrenade-SR-T01-L.png",
         "perk": "1",
@@ -2566,7 +2294,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GCGrenade-VR-T01-L.png",
         "perk": "1",
@@ -2575,7 +2302,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GrenadeGun-R-T01-L.png",
         "perk": "1",
@@ -2584,7 +2310,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GrenadeGun-SR-T01-L.png",
         "perk": "1",
@@ -2593,7 +2318,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GrenadeGun-UC-T01-L.png",
         "perk": "1",
@@ -2602,7 +2326,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GrenadeGun-VR-T01-L.png",
         "perk": "1",
@@ -2611,7 +2334,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png",
         "perk": "1",
@@ -2620,7 +2342,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunHeadshot-SR-T01-L.png",
         "perk": "1",
@@ -2629,7 +2350,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunHeadShot-Starter-M-SR-T01-L.png",
         "perk": "1",
@@ -2638,7 +2358,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunHeadshot-VR-T01-L.png",
         "perk": "1",
@@ -2647,7 +2366,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunHeadshotHW-SR-T01-L.png",
         "perk": "1",
@@ -2656,7 +2374,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-F-4thJuly-SR-T02-L.png",
         "perk": "1",
@@ -2665,7 +2382,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-Founders-SR-T01-L.png",
         "perk": "1",
@@ -2674,7 +2390,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-M-4thJuly-L.png",
         "perk": "1",
@@ -2683,7 +2398,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-R-T01-L.png",
         "perk": "1",
@@ -2692,7 +2406,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-RS01-SR-T01-L.png",
         "perk": "1",
@@ -2701,7 +2414,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-SR-T01-L.png",
         "perk": "1",
@@ -2710,7 +2422,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-UC-T01-L.png",
         "perk": "1",
@@ -2719,7 +2430,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-Valentine-SR-T01-L.png",
         "perk": "1",
@@ -2728,7 +2438,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-GunTough-VR-T01-L.png",
         "perk": "1",
@@ -2737,7 +2446,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-ShockDamage-R-T01-L.png",
         "perk": "1",
@@ -2746,7 +2454,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-ShockDamage-SR-T01-L.png",
         "perk": "1",
@@ -2755,7 +2462,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-ShockDamage-VR-T01-L.png",
         "perk": "1",
@@ -2764,7 +2470,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-Sony-R-T01-L.png",
         "perk": "1",
@@ -2773,7 +2478,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Commando-XBOX-R-T01-L.png",
         "perk": "1",
@@ -2782,7 +2486,6 @@
     {
         "name": "Athena-Commando-M-IceKing-L",
         "nom" : "xxx",
-        "slug": "/fortnite/save-the-world/heroes",
         "class": "soldier",
         "image": "./images/heroes/soldier/T-Soldier-HID-Soldier-Seebot-L.png",
         "perk": "1",

@@ -13,6 +13,7 @@ export const query = graphql`
           name
           slug
           rarity
+          citation
           fields {
             cardSlug
           }
@@ -40,6 +41,8 @@ export const query = graphql`
 
 const CardTemplate = (props) => {
 
+    console.log(props.data)
+
     return (
         <Layout>
         <SEO title="Fortnite Save The World - Heroes Card" />
@@ -50,21 +53,26 @@ const CardTemplate = (props) => {
             <h3>{props.data.heroesJson.name}</h3>
             <h5>{props.data.heroesJson.class}</h5>
 
-            <div className="card">
-                <Image
-                    fluid={props.data.heroesJson.image.childImageSharp.fluid}
-                    alt={props.data.heroesJson.name}
-                />
-                <div className="card__overlay">
-                    <p>{props.data.heroesJson.name}</p>
+            <div className="heroe-container">
+                <div className="card">
+                    <Image
+                        fluid={props.data.heroesJson.image.childImageSharp.fluid}
+                        alt={props.data.heroesJson.name}
+                    />
+                    <div className="card__overlay">
+                        <p>{props.data.heroesJson.name}</p>
+                    </div>
+                    <div className="card__bottom">
+                        <p>{props.data.heroesJson.class}</p>
+                    </div>
                 </div>
-                <div className="card__bottom">
-                    <p>{props.data.heroesJson.class}</p>
+
+                <div className="xxx">
+                    <p>{props.data.heroesJson.rarity}</p>
+
+                    <p>{props.data.heroesJson.citation}</p>
                 </div>
             </div>
-
-            <h5>{props.data.heroesJson.rarity}</h5>
-            
         </Layout>
     )
 }
