@@ -45,9 +45,12 @@ const HeroesPage = ({ data }) => {
 
             <h3>Heroes ({data.allHeroesJson.totalCount})</h3>
 
-            <ul>
+            <ul className="links">
                 <li>
-                    <h5><Link to="/fortnite/save-the-world/heroes/constructors">Constructors</Link></h5>
+                    <h5><Link to="/fortnite/save-the-world/heroes">All</Link></h5>
+                </li>
+                <li>
+                    <h5><Link to="/fortnite/save-the-world/heroes/constructor">Constructor</Link></h5>
                 </li>
                 <li>
                     <h5><Link to="/fortnite/save-the-world/heroes/ninja">Ninja</Link></h5>

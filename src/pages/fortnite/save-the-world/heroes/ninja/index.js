@@ -8,11 +8,11 @@ import Layout from "../../../../../components/layout"
 // import Image from "../components/image"
 import SEO from "../../../../../components/seo"
 
-const SoldierPage = () => {
+const NinjaPage = () => {
 
     const data = useStaticQuery(graphql`
     {
-        allHeroesJson(filter: {class: {eq: "soldier"}}) {
+        allHeroesJson(filter: {class: {eq: "ninja"}}) {
             edges {
                 node {
                     name
@@ -39,13 +39,13 @@ const SoldierPage = () => {
 
     return (
         <Layout>
-        <SEO title="Fortnite Save The World - Heroes : Soldier" />
+        <SEO title="Fortnite Save The World - Heroes : Ninja" />
         
         <p>
             <Link to="/fortnite/save-the-world/heroes">Fortnite > Save The World > Heroes</Link>
         </p>
 
-        <h3>Soldier ({data.allHeroesJson.totalCount})</h3>
+        <h3>Ninja ({data.allHeroesJson.totalCount})</h3>
         
         <ul className="links">
             <li>
@@ -68,27 +68,25 @@ const SoldierPage = () => {
         <div className="cards">
                 {data.allHeroesJson.edges.map(({ node }, index) => (
                 <div>
-                    <Link className="link" to={`/fortnite/save-the-world/heroes/${node.class}/${node.fields.cardSlug}`}>
-                        <div className="card" key={index}>
-                        {node.image && (
-                            <Image
-                            fluid={node.image.childImageSharp.fluid}
-                            alt={node.name}
-                            />
-                        )}
-                        <div className="card__overlay">
-                            {node.name && <p className="card__texte">{node.name}</p>}
-                        </div>
-                        <div className="card__bottom">
-                            {node.class && <p>{node.class}</p>}
-                        </div>
-                        </div>
+                    <div className="card" key={index}>
+                    {node.image && (
+                        <Image
+                        fluid={node.image.childImageSharp.fluid}
+                        alt={node.name}
+                        />
+                    )}
+                    <div className="card__overlay">
+                        {node.name && <p className="card__texte">{node.name}</p>}
+                    </div>
+                    <div className="card__bottom">
+                        {node.class && <p>{node.class}</p>}
+                    </div>
+                    </div>
+                    {node.slug && (
+                    <Link className="link" to={node.slug}>
+                        link
                     </Link>
-                    {/* {node.slug && (
-                        <Link className="link" to={node.slug}>
-                            link
-                        </Link>
-                        )} */}
+                    )}
                 </div>
                 ))}
             </div>
@@ -98,4 +96,4 @@ const SoldierPage = () => {
     )
 }
 
-export default SoldierPage
+export default NinjaPage

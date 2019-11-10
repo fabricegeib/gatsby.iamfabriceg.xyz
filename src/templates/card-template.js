@@ -8,32 +8,47 @@ import SEO from "../components/seo"
 export const query = graphql`
     query($cardSlug: String!) {
         heroesJson(fields: {cardSlug: {eq: $cardSlug}}) {
-          id
-          class
-          name
-          rarity
-          citation
-          fields {
-            cardSlug
-          }
-          image {
-            childImageSharp {
-              fluid {
-                base64
-                tracedSVG
-                aspectRatio
-                src
-                srcSet
-                srcWebp
-                srcSetWebp
-                sizes
-                originalImg
-                originalName
-                presentationWidth
-                presentationHeight
-              }
+            id
+            name
+            nameFr
+            rarity
+            class
+            classPerks {
+                perk
+                text
             }
-          }
+            teamPerkUnlock
+            teamPerkUnlockText
+            standardPerk
+            commanderPerk
+            abilities {
+                title
+                text
+                cost
+                cooldown
+            }
+            citation
+            fields {
+                cardSlug
+            }
+            image {
+                childImageSharp {
+                    fluid {
+                        base64
+                        tracedSVG
+                        aspectRatio
+                        src
+                        srcSet
+                        srcWebp
+                        srcSetWebp
+                        sizes
+                        originalImg
+                        originalName
+                        presentationWidth
+                        presentationHeight
+                    }
+                }
+            }
         }
       }
 `
@@ -49,10 +64,10 @@ const CardTemplate = (props) => {
                 <Link to="/fortnite/save-the-world/heroes">Fortnite > Save The World > Heroes</Link>
             </p>
 
-            <h3>{props.data.heroesJson.name}</h3>
-            <h5>{props.data.heroesJson.class}</h5>
+            <h3 className="hero__title">{props.data.heroesJson.name}</h3>
+            <h5 className="hero__titleFr">{props.data.heroesJson.nameFr}</h5>
 
-            <div className="heroe-container">
+            <div className="hero-container">
                 <div className="card">
                     <Image
                         fluid={props.data.heroesJson.image.childImageSharp.fluid}
@@ -66,8 +81,17 @@ const CardTemplate = (props) => {
                     </div>
                 </div>
 
-                <div className="xxx">
-                    <p>{props.data.heroesJson.rarity}</p>
+                <div className="hero-informations">
+                    <h3 className="hero__class">{props.data.heroesJson.class} | <span>{props.data.heroesJson.rarity}</span></h3>
+                    
+                    <h4 className="hero__ability">Abilities</h4>
+                    {props.data && <p>{props.data.heroesJson.abilities[0].title}</p>}
+
+                    <h4 className="hero__ability">Standard Perk</h4>
+                    <p>{props.data.heroesJson.standardPerk}</p>
+                    <h4 className="hero__ability">Commander Perk</h4>
+                    <p>{props.data.heroesJson.commanderPerk}</p>
+
 
                     <p>{props.data.heroesJson.citation}</p>
                 </div>

@@ -163,6 +163,12 @@ ul {
         background-color: $quaternary-color;
         background: radial-gradient(#60626a, #3b3b40, #111111);
     }
+    & .mythic {
+        border: 4px solid #fbe9a7;
+        // border: linear-gradient(33deg, #404651, #b7becc);
+        background-color: $quaternary-color;
+        background: radial-gradient(#e8c86f, #d3a83e, #be9626);
+    }
     @media only screen and (max-width: 619px) {
         width: 160px;
         height: 260px;
@@ -173,6 +179,40 @@ ul {
     display: grid;
     grid-template-columns: 50% 50%;
     grid-template-rows: 1fr;
+}
+
+.hero {
+    &-container {
+        display: grid;
+        grid-template-columns: 33.333% 66.666%;
+        grid-template-rows: 1fr;
+        @media only screen and (max-width: 619px) {
+            grid-template-columns: 50% 50%;
+        }
+    }
+    &__title {
+        margin-bottom: 0.5rem;
+        &Fr {
+            &:before {
+                content: "🇫🇷 ";
+                position: relative;
+                margin-top: 1px;
+            }
+        }
+    }
+    &-informations {
+        p {
+            margin: 0;
+        }
+        .hero__class {
+            text-transform: capitalize;
+            // margin-bottom: 0.25rem;
+
+        }
+        .hero__ability {
+            margin-bottom: 0.25rem;
+        }
+    }
 }
 
 .link {
