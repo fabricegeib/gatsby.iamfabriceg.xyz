@@ -14,20 +14,6 @@ const imgGridStyle = {
   gridTemplateColumns: `repeat(auto-fill, 200px)`
 };
 
-const ComponentName = ({ data }) => 
-  <div className="container--full" style={bgStyle}>
-    <p><Link style={bgStyle} to="/fortnite/save-the-world">Go back to Save The World</Link></p>
-
-    <div style={imgGridStyle}>
-      {data.allImageSharp.edges.map(edge => 
-        <div>
-          <Img fluid={edge.node.fluid} />
-          <p>{edge.node.id}</p>
-        </div>
-      )}
-    </div>
-  </div>
-
 export const query = graphql`
   {
     allImageSharp {
@@ -48,4 +34,18 @@ export const query = graphql`
   }
 `
 
-export default ComponentName
+const ComponentAllImageSharp = ({ data }) => 
+  <div className="container--full" style={bgStyle}>
+    <p><Link style={bgStyle} to="/fortnite/save-the-world">Go back to Save The World</Link></p>
+
+    <div style={imgGridStyle}>
+      {data.allImageSharp.edges.map(edge => 
+        <div>
+          <Img fluid={edge.node.fluid} />
+          <p>{edge.node.id}</p>
+        </div>
+      )}
+    </div>
+  </div>
+
+export default ComponentAllImageSharp

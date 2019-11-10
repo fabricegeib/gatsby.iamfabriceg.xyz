@@ -18,6 +18,9 @@ const SaveTheWorldPage = () => (
         <ul className="xxx">
             <li><Link to="/fortnite/save-the-world/heroes/">Heroes</Link></li>
             <ul>
+                <li><Link to="/fortnite/save-the-world/heroes/constructor">Constructor</Link></li>
+                <li><Link to="/fortnite/save-the-world/heroes/ninja">Ninja</Link></li>
+                <li><Link to="/fortnite/save-the-world/heroes/outlander">Outlander</Link></li>
                 <li><Link to="/fortnite/save-the-world/heroes/soldier">Soldier</Link></li>
             </ul>
             
