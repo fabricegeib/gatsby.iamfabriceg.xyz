@@ -16,7 +16,6 @@ const SoldierPage = () => {
             edges {
                 node {
                         class
-                        slug
                         name
                         id
                 }

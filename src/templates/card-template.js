@@ -11,7 +11,6 @@ export const query = graphql`
           id
           class
           name
-          slug
           rarity
           citation
           fields {
