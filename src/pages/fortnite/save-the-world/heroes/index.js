@@ -11,7 +11,6 @@ export const query = graphql `
             edges {
                     node {
                         name
-                        slug
                         id
                         class
                         image {
