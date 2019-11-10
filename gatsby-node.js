@@ -16,10 +16,10 @@ module.exports.onCreateNode = ({ node, actions }) => {
 
     if (node.internal.type === 'HeroesJson') {
             const cardLC = ((node.name).toLowerCase())
-            // delete blank space
+            // replace blank space & dot
             const card = cardLC.replace(/\s+/g, '-').replace(/\./g,'')
-            // delete dot
-
+            // replace comma
+            // .replace(/,/g, '-');
             // console.log('@WESH ALORS LUKY', wesh)
 
             createNodeField({
