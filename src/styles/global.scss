@@ -80,8 +80,6 @@ ul {
 }
 
 .cards {
-    margin-top: 24px;
-
     display: grid;
     grid-template-columns: repeat(6, 180px);
     grid-gap: 12px;
@@ -151,27 +149,6 @@ ul {
         text-overflow: ellipsis;
         white-space: nowrap;
     }
-    .legendary {
-        border: 4px solid $ternary-color;
-        // border: linear-gradient(33deg, #404651, #b7becc);
-        background-color: $quaternary-color;
-        background: radial-gradient(#60626a, #3b3b40, #111111);
-    }
-    &.mythic {
-        border: 4px solid #fbe9a7;
-        // border: linear-gradient(33deg, #404651, #b7becc);
-        background-color: $quaternary-color;
-        background: radial-gradient(#e8c86f, #d3a83e, #be9626);
-
-        // &__overlay {
-        //     height: 60px;
-        //     background-color: rgba(0, 0, 0, 1);
-        // }
-        // &__bottom {
-        //     height: 40px;
-        //     background: linear-gradient(#b99225, #e6c469);
-        // }
-    }
     &__bottom {
         height: 40px;
         background: linear-gradient(#777c82, #a4abb2);
@@ -180,44 +157,22 @@ ul {
         // z-index: 10;
         padding: 6px;
     }
+    & .legendary {
+        border: 4px solid $ternary-color;
+        // border: linear-gradient(33deg, #404651, #b7becc);
+        background-color: $quaternary-color;
+        background: radial-gradient(#60626a, #3b3b40, #111111);
+    }
     @media only screen and (max-width: 619px) {
         width: 160px;
         height: 260px;
     }
 }
 
-.hero {
-    &-container {
-        display: grid;
-        grid-template-columns: 33.333% 66.666%;
-        grid-template-rows: 1fr;
-        @media only screen and (max-width: 619px) {
-            grid-template-columns: 50% 50%;
-        }
-    }
-    &__title {
-        margin-bottom: 0.5rem;
-        &Fr {
-            &:before {
-                content: "🇫🇷 ";
-                position: relative;
-                margin-top: 1px;
-            }
-        }
-    }
-    &-informations {
-        p {
-            margin: 0;
-        }
-        .hero__class {
-            text-transform: capitalize;
-            // margin-bottom: 0.25rem;
-
-        }
-        .hero__ability {
-            margin-bottom: 0.25rem;
-        }
-    }
+.heroe-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 1fr;
 }
 
 .link {
