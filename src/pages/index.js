@@ -23,6 +23,16 @@ const IndexPage = () => (
             <h3>Red Dead Redemption 2</h3>
           </div>
         </Link>
+        <Link to="/grand-thef-auto-v/">
+          <div className="card">
+            <h3>Grand Thef Auto V</h3>
+          </div>
+        </Link>
+        <Link to="/gran-turismo-sport/">
+          <div className="card">
+            <h3>Gran Turismo Sport</h3>
+          </div>
+        </Link>
         {/* <li><Link to="/YOLOPWNED/">404</Link></li> */}
         {/* <li><Link to="/red-dead-redemption-2/">Red Dead Redemption 2</Link></li> */}
       </div>

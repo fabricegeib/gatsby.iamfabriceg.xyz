@@ -3,7 +3,7 @@
         "name": "Power B.A.S.E Kyle",
         "nameFr": "Kyle, Constructeur Ultra",
         "rarity": "legendary",
-        "class": "ninja",
+        "class": "constructor",
         "type": "heroes",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-Founders-SR-T01-L.png",
         "classPerks" : [

@@ -91,7 +91,7 @@ ul {
 
 .cards {
     display: grid;
-    grid-template-columns: repeat(4, 290px);
+    grid-template-columns: repeat(4, 1fr);
     grid-gap: 12px;
     // grid-auto-rows: 180px;
     align-content: space-between;
@@ -110,7 +110,7 @@ ul {
 		// grid-template-columns: repeat(3, 180px);
     }
     @media only screen and (max-width: 619px) {
-        // grid-template-columns: repeat(2, 160px);
+        grid-template-columns: repeat(2, 1fr);
         // grid-gap: 12px 6px;
         // margin: 0 -0.8rem;
     }
@@ -138,9 +138,11 @@ ul {
         }
     }
     &:hover {
-        // transform: scale(1.04);
+        transform: scale(1.01);
         cursor: pointer;
-        background-color: $ternary-color;
+        // background-color: $ternary-color;
+        box-shadow: rgba(0, 0, 0, 0.5) 0px 6px 12px;
+        // box-shadow: rgb(198, 208, 235) 0px 30px 60px;
     }
 }
 

@@ -7,7 +7,7 @@ import SEO from "../../components/seo"
 const RedDeadRedemption2Page = () => (
   <Layout>
     <SEO title="Red Dead Redemption 2" />
-    <h3>Red Dead Redemption 2</h3>
+    <h3><span className="backArrow"><Link to="/">&#8592;</Link></span>Red Dead Redemption 2</h3>
     <p>Text or description</p>
     <p>
         <a href="https://madamnazar.io/" target="_blank" rel="noopener noreferrer">madamnazar.io</a>

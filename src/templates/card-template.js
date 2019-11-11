@@ -68,15 +68,15 @@ const CardTemplate = (props) => {
             <h5 className="hero__titleFr">{props.data.heroesJson.nameFr}</h5>
 
             <div className="hero-container">
-                <div className="card">
+                <div className="heroCard">
                     <Image
                         fluid={props.data.heroesJson.image.childImageSharp.fluid}
                         alt={props.data.heroesJson.name}
                     />
-                    <div className="card__overlay">
+                    <div className="heroCard__overlay">
                         <p>{props.data.heroesJson.name}</p>
                     </div>
-                    <div className="card__bottom">
+                    <div className="heroCard__bottom">
                         <p>{props.data.heroesJson.class}</p>
                     </div>
                 </div>
