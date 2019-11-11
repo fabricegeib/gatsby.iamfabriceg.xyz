@@ -3,7 +3,7 @@
         "name": "Power B.A.S.E Kyle",
         "nameFr": "Kyle, Constructeur Ultra",
         "rarity": "legendary",
-        "class": "constructor",
+        "class": "ninja",
         "type": "heroes",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-Founders-SR-T01-L.png",
         "classPerks" : [
@@ -1810,7 +1810,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-011-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -1831,7 +1831,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-011-VR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -1852,7 +1852,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-013-R-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -1873,7 +1873,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-013-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -1894,7 +1894,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-013-VR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -1915,7 +1915,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-014-F-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -1936,7 +1936,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-014-R-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -1957,7 +1957,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-014-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -1978,7 +1978,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-014-UC-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -1999,7 +1999,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-014-VR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2020,7 +2020,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-015-F-V1-R-T02-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2041,7 +2041,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-015-F-V1-SR-T02-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2062,7 +2062,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-015-F-V1-UC-T02-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2083,7 +2083,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-015-F-V1-VR-T02-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2104,7 +2104,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-016-F-V1-SR-T02-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2125,7 +2125,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-016-M-V1-VR-T02-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2146,7 +2146,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-017-M-V1-R-T02-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2167,7 +2167,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-017-M-V1-SR-T02-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2188,7 +2188,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-017-M-V1-VR-T02-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2209,7 +2209,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-019-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2230,7 +2230,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-023-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2251,7 +2251,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-024-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2272,7 +2272,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-025-PirateNinja-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2293,7 +2293,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-027-BunnyNinja-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2314,7 +2314,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-029-DinoNinja-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2335,7 +2335,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-030-RetroSciFiNinja-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2356,7 +2356,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-031-RadNinja-SR-T01.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2377,7 +2377,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-Myth02-SR-T02-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2398,7 +2398,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreath-Founders-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2419,7 +2419,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreath-R-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2440,7 +2440,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreath-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2461,7 +2461,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreath-VR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2482,7 +2482,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreathHW-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2503,7 +2503,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashTail-R-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2524,7 +2524,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashTail-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2545,7 +2545,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashTail-UC-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2566,7 +2566,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SlashTail-VR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2587,7 +2587,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SmokeDimMak-R-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2608,7 +2608,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SmokeDimMak-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2629,7 +2629,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-SmokeDimMak-VR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2650,7 +2650,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-Sony-R-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2671,7 +2671,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-Founders-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2692,7 +2692,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-R-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2713,7 +2713,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2734,7 +2734,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-UC-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2755,7 +2755,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-VR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2776,7 +2776,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsRain-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2797,7 +2797,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsRain-VR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2818,7 +2818,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-StarsRainHW-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2839,7 +2839,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-Swordmaster-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2860,7 +2860,7 @@
     },
 {
         "name": "Athena Commando M Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Ninja-HID-Ninja-XBOX-R-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2881,7 +2881,7 @@
     },
 {
         "name": "Athena-Commando-M-Cyberpunk-L",
-        "class": "soldier",
+        "class": "ninja",
         "image": "./images/heroes/ninja/T-Variant-DragonNinja-V1-Green-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2945,35 +2945,35 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-007-UC-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-007-VR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-008-Founders-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-008-R-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-008-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
@@ -3015,28 +3015,28 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-010-M-4thJuly-SR-T02-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-010-M-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-010-M-VR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-010-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
@@ -3050,56 +3050,56 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-011-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-011-VR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-013-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-013-StPatricks-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-013-VR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-014-M-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-014-R-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-014-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
@@ -3134,238 +3134,238 @@
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-016-F-V1-SR-T02-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-016-M-V1-SR-T02-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-017-M-V1-SR-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-022-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-025-PirateOutlander-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-026-BunnyOutlander-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-027-DinoOutlander-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-028-RetroSciFiStoryOutlander-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-029-RetroSciFiOutlander-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-030-RadOutlander-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-031-HalloweenOutlander-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-Myth02-SR-T05-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchDamage-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchDamage-VR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchPhase-R-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchPhase-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchPhase-UC-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-PunchPhase-VR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-Sony-R-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-SphereFragment-R-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-SphereFragment-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-SphereFragment-VR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-XBOX-R-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneFragment-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvest-BlockBuster-SR-T02-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvest-R-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvest-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvest-UC-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvest-VR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneHarvestHW-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZonePistol-R-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZonePistol-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZonePistol-VR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
     }, {
         "name": "Athena-Commando-M-Cyberpunk-L",
         "nom": "xxx",
-        "class": "soldier",
+        "class": "outlander",
         "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-ZonePistolHW-SR-T01-L.png",
         "perk": "1",
         "skills": ["1", "2", "3"]
