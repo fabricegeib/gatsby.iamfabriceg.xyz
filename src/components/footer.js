@@ -7,9 +7,7 @@ const Footer = ({ siteTitle }) => (
         {/* <p><Link to="/page-2/">Go to page 2</Link></p> */}
         {/* <p><Link to="/live/">Go to live</Link></p> */}
         <div id="about">
-            <Link to="/live">Live</Link>
-            
-            <ul class="links">
+            <ul className="links">
                 <li>
                     <a class="instagram" href="https://www.instagram.com/iamfabriceg/" rel="noopener noreferrer"
                         target="_blank">instagram</a>
@@ -31,10 +29,13 @@ const Footer = ({ siteTitle }) => (
                         href="https://www.youtube.com/channel/UCKv4GgFKQvPG2rt3MOZK8Xg/">youtube</a>
                 </li>
             </ul>
+            <Link className="link--live" to="/live">déconnecté</Link>
         </div>
-        © {new Date().getFullYear()}, Built with ❤️ &
-        {` `}
-        <a href="https://www.gatsbyjs.org">Gatsby</a>
+        <p>
+            © {new Date().getFullYear()}, Built with ❤️ &
+            {` `}
+            <a href="https://www.gatsbyjs.org">Gatsby</a>
+        </p>
     </footer>
 )
 

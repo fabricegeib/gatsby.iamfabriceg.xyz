@@ -6,9 +6,10 @@ import Layout from "../../components/layout"
 import SEO from "../../components/seo"
 
 const FortnitePage = () => (
+  
   <Layout>
     <SEO title="Fortnite" />
-    <h3>Fortnite</h3>
+    <h3><span className="backArrow"><Link to="/">&#8592;</Link></span>Fortnite</h3>
     <p>Build. Fight. Create.</p>
 
     <div className="xxx">

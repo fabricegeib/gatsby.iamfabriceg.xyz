@@ -12,11 +12,20 @@ const IndexPage = () => (
     <div className="games">
       <h3>I play</h3>
 
-      <ul>
-        <li><Link to="/fortnite/">Fortnite</Link></li>
+      <div className="cards">
+        <Link to="/fortnite/">
+          <div className="card">
+            <h3>Fortnite</h3>
+          </div>
+        </Link>
+        <Link to="/red-dead-redemption-2/">
+          <div className="card">
+            <h3>Red Dead Redemption 2</h3>
+          </div>
+        </Link>
         {/* <li><Link to="/YOLOPWNED/">404</Link></li> */}
         {/* <li><Link to="/red-dead-redemption-2/">Red Dead Redemption 2</Link></li> */}
-      </ul>
+      </div>
     </div>
   </Layout>
 )

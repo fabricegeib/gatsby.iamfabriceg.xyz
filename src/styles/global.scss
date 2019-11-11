@@ -27,18 +27,39 @@ ul {
 
     margin-left: 1rem;
 }
+.arrow {
+  border: solid black;
+  border-width: 0 3px 3px 0;
+  display: inline-block;
+  padding: 3px;
+}
+.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
+.backArrow {
+    margin-right: 12px;
+    a {
+        text-decoration: none;
+        color: $black-color;
+        &:hover {
+            color: $ternary-color;
+        }
+    }
+}
 
 .header {
     background: $primary-color;
-    margin-bottom: 1.45rem;
+    margin-bottom: 1.5rem;
     &__container {
         margin: 0 auto;
         max-width: 1200px;
-        padding: 1rem 1.0875rem;
+        padding: 0.5rem 1.0875rem;
     }
     & h1 {
         margin: 0;
-        font-size: 1rem;
+        font-size: 0.875rem;
     }
     & a {
         color: $secondary-color;
@@ -68,18 +89,67 @@ ul {
     }
 }
 
+.cards {
+    display: grid;
+    grid-template-columns: repeat(4, 290px);
+    grid-gap: 12px;
+    // grid-auto-rows: 180px;
+    align-content: space-between;
+    justify-content: space-between;
+    justify-content: space-between;
+    @media only screen and (min-width: 1200px) {
+
+    }
+    @media only screen and (max-width: 1199px) {
+        // grid-template-columns: repeat(5, 180px);
+    }
+    @media only screen and (max-width: 999px) {
+        // grid-template-columns: repeat(4, 180px);
+    }
+    @media only screen and (max-width: 829px) {
+		// grid-template-columns: repeat(3, 180px);
+    }
+    @media only screen and (max-width: 619px) {
+        // grid-template-columns: repeat(2, 160px);
+        // grid-gap: 12px 6px;
+        // margin: 0 -0.8rem;
+    }
+    @media only screen and (max-width: 459px) {
+        // grid-template-columns: repeat(2, 160px);
+        // grid-gap: 12px 6px;
+        // margin: 0 -0.8rem;
+    }
+    a {
+        text-decoration: none;
+    }
+}
+
+.card {
+    background-color: $primary-color;
+    color: $secondary-color;
+    border-radius: 12px;
+
+    padding: 12px;
+    height: 180px;
+    h3 {
+        font-size: 1.02rem;
+        &:hover {
+            
+        }
+    }
+    &:hover {
+        // transform: scale(1.04);
+        cursor: pointer;
+        background-color: $ternary-color;
+    }
+}
+
 /* .games {
 
 } */
-.games a {
-    /* text-decoration: none; */
-    color: $quaternary-color;
-}
-.games a:hover {
-    color: $ternary-color;
-}
 
-.cards {
+
+.heroesCards {
     display: grid;
     grid-template-columns: repeat(6, 180px);
     grid-gap: 12px;
@@ -113,7 +183,7 @@ ul {
         text-decoration: none;
     }
 }
-.card {
+.heroCard {
     width: 180px;
     height: 280px;
     // display: grid;
@@ -219,6 +289,18 @@ ul {
     align-self: end;
     // position: absolute;
     // bottom: 0;
+    &--live {
+        background-color: rgba(0, 0, 0, 0.75);
+        border-radius: 4px;
+        display: inline-block;
+        padding: 2px 24px;
+        text-decoration: none;
+        color: $white-color;
+        &:hover {
+            background-color: rgba(0, 0, 0, 0.55);
+            color: $white-color;
+        }
+    }
 }
 
 /* .playerTwitch {
@@ -237,6 +319,9 @@ footer {
     }
 }
 
+#about {
+    margin-bottom: 24px;
+}
 ul {
     &.links {
         margin: 0;
