@@ -53,6 +53,10 @@ ul {
     // background: $primary-color;
     background: $black-color;
     margin-bottom: 1.5rem;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 10;
     &__container {
         margin: 0 auto;
         max-width: 1200px;
@@ -70,7 +74,8 @@ ul {
 }
 
 .container {
-    margin: 24px auto;
+    // margin: 24px auto;
+    margin: 59px auto 24px;
     max-width: 1200px;
     padding: 0 1.0875rem 1.45rem;
     padding-top: 0;
