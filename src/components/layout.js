@@ -14,6 +14,12 @@ import Footer from "./footer"
 import "./layout.css"
 // import "./style.css"
 
+
+// React GA - Google Analytic
+import ReactGA from 'react-ga';
+ReactGA.initialize('G-1NDRFY4PZ6');
+ReactGA.pageview(window.location.pathname + window.location.search);
+
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
     query SiteTitleQuery {
