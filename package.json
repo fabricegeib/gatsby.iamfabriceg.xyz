@@ -15,6 +15,7 @@
     "gatsby-plugin-sass": "^2.1.26",
     "gatsby-plugin-sharp": "^2.3.10",
     "gatsby-source-filesystem": "^2.1.43",
+    "gatsby-source-twitch": "^1.0.2",
     "gatsby-transformer-csv": "^2.1.21",
     "gatsby-transformer-json": "^2.2.22",
     "gatsby-transformer-sharp": "^2.3.9",

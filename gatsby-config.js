@@ -65,6 +65,13 @@ module.exports = {
         // siteSpeedSampleRate: 10,
         // cookieDomain: "iamfabriceg.xyz",
       },
+    },
+    {
+      resolve: `gatsby-source-twitch`,
+      options: {
+        userID: '108366345',
+        clientID: '67vt473r3v8co5fv6lnoabcd32d0q0'
+      },
     }
   ],
 }
