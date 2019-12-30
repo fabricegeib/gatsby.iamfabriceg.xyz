@@ -1,11 +1,10 @@
 import React from "react"
 // import { Link } from "gatsby"
-// import { graphql, useStaticQuery } from "gatsby"
+import { graphql, useStaticQuery } from "gatsby"
 
 import Layout from "../components/layout"
 // import Image from "../components/image"
 import SEO from "../components/seo"
-import { useStaticQuery, graphql } from "gatsby"
 
 const LivePage = () => {
 
@@ -28,7 +27,7 @@ const LivePage = () => {
     }
   `)
 
-  console.log(dataTwitch);
+  // console.log(dataTwitch);
   // console.log(dataTwitchVideo);
   
   return (
@@ -46,16 +45,19 @@ const LivePage = () => {
 
       {/* <p><Link to="/fortnite/">Fortnite</Link></p> */}
 
-      <p className="xxx">{dataTwitch.twitchuser.display_name}</p>
-      <p className="xxx">{dataTwitch.twitchuser.description}</p>
-      <p className="xxx">{dataTwitch.twitchuser.profile_image_url}</p>
+      {/* <div className="twitchUser">
+        <p className="xxx">{dataTwitch.twitchuser.display_name}</p>
+        <p className="xxx">{dataTwitch.twitchuser.description}</p>
+        <p className="xxx">{dataTwitch.twitchuser.profile_image_url}</p>
+      </div> */}
+
       {/* <img src="{dataTwitch.twitchuser.profile_image_url}" /> */}
 
-      <div className="xxx">
+      <div className="allTwitchVideos">
         {dataTwitch.allTwitchvideo.edges.map(({ node }, index) => (
-        <div className="xxx" key={index}>
-          <p>{node.title}</p>
-          <p>{node.url}</p>
+        <div className="twitchVideo" key={index}>
+          <h3>{node.title}</h3>
+          <a href={node.url} target="_blank" rel="noopener norefferer">link</a>
           <p>{node.type}</p>
         </div>
         ))}
