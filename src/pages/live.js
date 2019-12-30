@@ -52,11 +52,13 @@ const LivePage = () => {
       {/* <img src="{dataTwitch.twitchuser.profile_image_url}" /> */}
 
       <div className="xxx">
-        <div className="xxx">
-          <p>{dataTwitch.allTwitchvideo.edges[0].node.title}</p>
-          <p>{dataTwitch.allTwitchvideo.edges[0].node.url}</p>
-          <p>{dataTwitch.allTwitchvideo.edges[0].node.type}</p>
+        {dataTwitch.allTwitchvideo.edges.map(({ node }, index) => (
+        <div className="xxx" key={index}>
+          <p>{node.title}</p>
+          <p>{node.url}</p>
+          <p>{node.type}</p>
         </div>
+        ))}
       </div>
     </Layout>
   )
