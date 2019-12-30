@@ -5,9 +5,9 @@ $secondary-color: #d8d8d7;
 $ternary-color: #666666;
 $quaternary-color: #999999;
 
-$quinquernary-color: #XXXXXX;
-$sexternary-color: #XXXXXX;
-$septernary-color: #XXXXXX;
+$quinquernary-color: #000000;
+$sexternary-color: #000000;
+$septernary-color: #000000;
 
 $black-color: #000000;
 $white-color: #ffffff;
@@ -140,9 +140,9 @@ ul {
     height: 180px;
     h3 {
         font-size: 1.02rem;
-        &:hover {
+        // &:hover {
             
-        }
+        // }
     }
     &:hover {
         transform: scale(1.01);
@@ -206,15 +206,15 @@ ul {
     // &:hover {
     //     transform: scale( 0.9785);
     // }
-    div {
-        // position: relative;
-    }
-    &__name {
-        // text-overflow: clip;
-    }
-    .gatsby-image-wrapper {
-        // margin: -12px -12px 0;
-    }
+    // div {
+    //     position: relative;
+    // }
+    // &__name {
+    //     text-overflow: clip;
+    // }
+    // .gatsby-image-wrapper {
+    //     margin: -12px -12px 0;
+    // }
     &__overlay {
         height: 60px;
         background-color: rgba(0, 0, 0, 0.33);
@@ -408,9 +408,9 @@ ul {
     height: 200px;
     h3 {
         font-size: 0.875rem;
-        &:hover {
+        // &:hover {
             
-        }
+        // }
     }
     // &:hover {
     //     transform: scale(1.01);
