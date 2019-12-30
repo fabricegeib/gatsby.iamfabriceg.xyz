@@ -27,7 +27,7 @@ const LivePage = () => {
     }
   `)
 
-  // console.log(dataTwitch);
+  console.log(dataTwitch);
   // console.log(dataTwitchVideo);
   
   return (
@@ -40,8 +40,10 @@ const LivePage = () => {
       </div>
 
       {/* <h3>Chat</h3>
-      <iframe src="https://www.twitch.tv/embed/iamfabriceg/chat" frameborder="0" scrolling="no" height="500"
-          width="350"></iframe> */}
+      <div className="chatTwitch">
+        <iframe src="https://www.twitch.tv/embed/iamfabriceg/chat" frameborder="0" scrolling="no" height="300"
+          width="350"></iframe>
+      </div> */}
 
       {/* <p><Link to="/fortnite/">Fortnite</Link></p> */}
 
@@ -59,6 +61,8 @@ const LivePage = () => {
           <h3>{node.title}</h3>
           <a href={node.url} target="_blank" rel="noopener norefferer">link</a>
           <p>{node.type}</p>
+
+          {/* https://player.twitch.tv/?autoplay=false&video=v423873880 */}
         </div>
         ))}
       </div>

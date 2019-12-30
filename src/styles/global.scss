@@ -312,6 +312,22 @@ ul {
     }
 }
 
+// Fortnite Creative
+
+.card.creative {
+    h3 {
+        color: $white-color;
+        margin-bottom: 12px;
+    }
+    p {
+        color: $secondary-color
+    }
+    .link {
+        color: $white-color;
+        font-weight: bold;
+    }
+}
+
 // Live
 
 .playerTwitch {
@@ -319,7 +335,24 @@ ul {
     overflow: hidden;
     padding-top: 56.25%;
 
-    margin-bottom: 48px;
+    margin-bottom: 60px;
+
+    iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        border: 0;
+    }
+}
+
+.chatTwitch {
+    position: relative;
+    overflow: hidden;
+    padding-top: 40%;
+
+    margin-bottom: 60px;
 
     iframe {
         position: absolute;
