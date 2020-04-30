@@ -1,26 +1,26 @@
 [
     {
         "name": "Power B.A.S.E Kyle",
-        "nameFr": "Kyle, Constructeur Ultra",
+        "nameFr": "Power B.A.S.E Kyle",
         "rarity": "legendary",
         "class": "constructor",
         "type": "heroes",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-Founders-SR-T01-L.png",
         "classPerks" : [
-            {"perk": " ", "text": ""}, 
-            {"perk": " ", "text": ""}
+            {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trogger Kinetic Overload, dealing 25 base Energy Damage to nerby enemies. After melle critical hist, increases Melee Impact Damage by 10% for 5 seconds, up to 5 stacks."}, 
+            {"perk": "B.A.S.E.", "text": "Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
         ],
         "teamPerkUnlock": " ",
         "teamPerkUnlockText": " ",
-        "perk": " ",
-        "standardPerk": " ",
-        "commanderPerk": " ",
+        "perk": "Power Modulation",
+        "standardPerk": "Structures affected by B.A.S.E. are healed for 4% of Max Health every 10 seconds.",
+        "commanderPerk": "Structures affected by B.A.S.E. are healed for 11% of Max Health every 10 seconds.",
         "abilities": [
-            { "title":" ", "text": " ", "cost":" ", "cooldown": " " },
-            { "title":" ", "text": " " },
-            { "title":" ", "text": " " }
+            { "title":"R.O.S.I.E.", "cost":"50 energy", "cooldown": "180 seconds", "text": "Deploy a mountable turret which deals 47,398.434 physical damage per shot and fires 7 shots per second. R.O.S.I.E. has 150 ammo." },
+            { "title":"DECOY", "cost":"30 energy", "cooldown": "30 seconds", "text": "Deploy a D.E.C.O.Y. which distracts nearby enemies for 6 seconds. Does not affect Mist Monsters or Bosses." },
+            { "title":"Plasma Pulse", "cost":"40 energy", "cooldown": "45 seconds", "text": "Deploy a device which spews plasma mines for 6 seconds. Each mine deals 31,599.0 energy damage." }
         ],
-        "citation": " ",
+        "citation": "Ok gus, this is y B.A.S.E.! Whaddya think? - Kyle",
         "citationFr": " ",
         "citation": " "
     },

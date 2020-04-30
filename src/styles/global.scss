@@ -261,6 +261,9 @@ ul {
 }
 
 .hero {
+    &-page {
+
+    }
     &-container {
         display: grid;
         grid-template-columns: 33.333% 66.666%;
@@ -272,6 +275,7 @@ ul {
     &__title {
         margin-bottom: 0.5rem;
         &Fr {
+            font-weight: normal;
             &:before {
                 content: "🇫🇷 ";
                 position: relative;
