@@ -1,0 +1,16 @@
+{
+  "schematics": [
+    {
+      "id": "1",
+      "name":"John",
+      "age":30,
+      "cars":[ "Ford", "BMW", "Fiat" ],
+      "img": ""
+    },
+    {
+      "name":"John",
+      "age":30,
+      "cars":[ "Ford", "BMW", "Fiat" ]
+    }
+  ]
+}
