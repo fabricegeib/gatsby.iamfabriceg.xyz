@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `iamfabriceg.xyz`,
     description: `i love code and video games`,
-    author: `iamfabriceg`,
+    author: `iamfabriceg - fabrice geib`,
     twitter: `@iamfabriceg`,
   },
   plugins: [

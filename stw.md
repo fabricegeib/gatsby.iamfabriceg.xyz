@@ -1,0 +1,48 @@
+- Quests
+- Map
+- Command
+    - Heroes
+        - Manage
+        - Hero loadout
+        - Defenders
+        - Expeditions
+    - Survivors
+        - Manage
+        - Squads
+    - Upgrades
+        - Gadgets
+        - Tools
+    - Research
+        - Fortitude
+        - Offense
+        - Resistance
+        - Tech
+    - Profile
+        - XP Boosts
+        - Account Boosts
+- Armory
+    - Schematics
+        - All
+        - New
+        - Level Up
+        - Ranged weapons
+        - Melee weapons
+        - Traps
+    - Backpack
+        - Ranged weapons
+        - Melee weapons
+        - Ammo
+        - Traps
+        - Ingredients
+    - Storage
+        - All
+        - Ranged weapons
+        - Melee weapons
+        - Ammo
+        - Traps
+        - Ingredients
+    - Collection book
+    - Resources
+- Locker
+- Llama shop
+- Store
