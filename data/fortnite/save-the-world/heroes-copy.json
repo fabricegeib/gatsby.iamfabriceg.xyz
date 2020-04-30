@@ -1,7 +1,7 @@
 [
     {
         "name": "Power B.A.S.E Kyle",
-        "nameFr": "Kyle, Constructeur Ultra",
+        "nameFr": "Power B.A.S.E Kyle",
         "rarity": "legendary",
         "class": "constructor",
         "type": "heroes",
@@ -20,8 +20,9 @@
             { "title":"DECOY", "cost":"30 energy", "cooldown": "30 seconds", "text": "Deploy a D.E.C.O.Y. which distracts nearby enemies for 6 seconds. Does not affect Mist Monsters or Bosses." },
             { "title":"Plasma Pulse", "cost":"40 energy", "cooldown": "45 seconds", "text": "Deploy a device which spews plasma mines for 6 seconds. Each mine deals 31,599.0 energy damage." }
         ],
-        "citation": "Ok gus, this is my B.A.S.E.! Whaddya think? - Kyle",
-        "citationFr": " "
+        "citation": "Ok gus, this is y B.A.S.E.! Whaddya think? - Kyle",
+        "citationFr": " ",
+        "citation": " "
     },
 {
         "name": "Controller Harper Rare",

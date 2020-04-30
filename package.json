@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Fabrice Geib <hello@fabricegeib.com>",
   "dependencies": {
+    "core-js": "^3.6.5",
     "gatsby": "^2.18.16",
     "gatsby-image": "^2.2.37",
     "gatsby-plugin-google-analytics": "^2.1.31",
@@ -19,11 +20,15 @@
     "gatsby-transformer-csv": "^2.1.21",
     "gatsby-transformer-json": "^2.2.22",
     "gatsby-transformer-sharp": "^2.3.9",
-    "node-sass": "^4.13.0",
+    "i18next": "^19.4.4",
+    "i18next-browser-languagedetector": "^4.1.1",
+    "i18next-xhr-backend": "^3.2.2",
+    "node-sass": "^4.14.0",
     "prop-types": "^15.7.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-helmet": "^5.2.1"
+    "react-helmet": "^5.2.1",
+    "react-i18next": "^11.4.0"
   },
   "devDependencies": {
     "prettier": "^1.19.1"

@@ -88,13 +88,13 @@ const CardTemplate = (props) => {
                     </div>
 
                     <div className="hero-informations">
-                        <h4 className="hero__ability">Standard Perk</h4>
+                        <h4 className="hero__ability">Avantage Standard</h4>
                         <p>{props.data.heroesJson.standardPerk}</p>
 
-                        <h4 className="hero__ability">Commander Perk</h4>
+                        <h4 className="hero__ability">Avantage de Commandant</h4>
                         <p>{props.data.heroesJson.commanderPerk}</p>
 
-                        <h4 className="hero__ability">Class Perk</h4>
+                        <h4 className="hero__ability">Avantage de Classe</h4>
                         <p>{props.data.heroesJson.classPerks[0].perk}</p>
                         <p>{props.data.heroesJson.classPerks[0].text}</p>
 
@@ -102,7 +102,7 @@ const CardTemplate = (props) => {
                         <p>{props.data.heroesJson.classPerks[1].text}</p>
 
 
-                        <h4 className="hero__ability">Abilities</h4>
+                        <h4 className="hero__ability">Compétences</h4>
                         <div>
                             {props.data && <p>{props.data.heroesJson.abilities[0].title}</p>}
                             {props.data && <p>{props.data.heroesJson.abilities[0].cost}</p>}
