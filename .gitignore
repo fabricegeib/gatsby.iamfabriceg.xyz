@@ -71,4 +71,4 @@ yarn-error.log
 twitch.md
 
 # Nova
-.nova/
+.nova/*

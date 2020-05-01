@@ -20,7 +20,7 @@
             { "title":"DECOY", "cost":"30 energy", "cooldown": "30 seconds", "text": "Deploy a D.E.C.O.Y. which distracts nearby enemies for 6 seconds. Does not affect Mist Monsters or Bosses." },
             { "title":"Plasma Pulse", "cost":"40 energy", "cooldown": "45 seconds", "text": "Deploy a device which spews plasma mines for 6 seconds. Each mine deals 31,599.0 energy damage." }
         ],
-        "citation": "Ok gus, this is my B.A.S.E.! Whaddya think?",
+        "citation": "Ok guys, this is my B.A.S.E.! Whaddya think?",
         "citationFr": " "
     },
 {
@@ -1418,8 +1418,10 @@
         "citationFr": "Les grosses bases, y a que ça de vrai. - Kyle"
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "Guardian Penny",
+        "rarity": "rare",
         "class": "constructor",
+        "type": "heroes",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-Sony-R-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -1439,8 +1441,10 @@
         "citationFr": "Les grosses bases, y a que ça de vrai. - Kyle"
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "Guardian Knox",
+        "rarity": "rare",
         "class": "constructor",
+        "type": "heroes",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-XBOX-R-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
