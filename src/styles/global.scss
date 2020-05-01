@@ -1,5 +1,8 @@
 $font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
+$font-burbank-black: 'BurbankBigRegular-Black', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+$font-burbank-bold: 'BurbankBigRegular-Bold', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
 $primary-color: #333;
 $secondary-color: #d8d8d7;
 $ternary-color: #666666;
@@ -17,6 +20,7 @@ $uncommon-color: #56ad02;
 $rare-color: #0B9DE0;
 $epic-color: #B056E9;
 $legendary-color: #E2854B;
+$mythic-color: #b5a55d;
 
 body {
     font-family: $font;
@@ -166,6 +170,9 @@ ul {
     align-content: space-between;
     justify-content: space-between;
     justify-content: space-between;
+
+    // font-family: $font-burbank-bold;
+    
     @media only screen and (min-width: 1200px) {
 
     }
@@ -192,6 +199,7 @@ ul {
         text-decoration: none;
     }
 }
+
 .heroCard {
     width: 180px;
     height: 280px;
@@ -202,6 +210,12 @@ ul {
     background-color: $quaternary-color;
     background: radial-gradient(#60626a, #3b3b40, #111111);
     color: $white-color;
+
+    .hero_page & {
+        width: calc(100% - 24px);
+        height: auto;
+    }
+
     // padding: 12px;
     // &:hover {
     //     transform: scale( 0.9785);
@@ -215,6 +229,31 @@ ul {
     // .gatsby-image-wrapper {
     //     margin: -12px -12px 0;
     // }
+    &[data-rarity='mythic'] {
+        border: 4px solid $mythic-color;
+        background-color: $quaternary-color;
+        background: radial-gradient(#e8c86f, #d3a83e, #be9626);
+    }
+    &[data-rarity='legendary'] {
+        border: 4px solid $legendary-color;
+        background-color: $quaternary-color;
+        background: radial-gradient(#e1700e, #d26309, #c45600);
+    }
+    &[data-rarity='epic'] {
+        border: 4px solid $epic-color;
+        background-color: $quaternary-color;
+        background: radial-gradient(#a747e7, #943ce0, #8032d6);
+    }
+    &[data-rarity='rare'] {
+        border: 4px solid $rare-color;
+        background-color: $quaternary-color;
+        background: radial-gradient(#0c8bdf, #0875d2, #0562bf);
+    }
+    &[data-rarity='uncommon'] {
+        border: 4px solid $uncommon-color;
+        background-color: $quaternary-color;
+        background: radial-gradient(#44a202, #309104, #1a8113);
+    }
     &__overlay {
         height: 60px;
         background-color: rgba(0, 0, 0, 0.33);
@@ -227,20 +266,19 @@ ul {
         overflow: hidden;
         text-overflow: ellipsis;
         white-space: nowrap;
+        font-family: $font-burbank-bold;
+    }
+    &__class {
+        font-family: $font-burbank-bold;
     }
     &__bottom {
         height: 40px;
-        background: linear-gradient(#777c82, #a4abb2);
+        // background: linear-gradient(#777c82, #a4abb2);
+        background: linear-gradient(rgba(19, 19, 19, 0.5), rgba(62, 62, 62, 0));
         // margin: -12px 0;
         // position: relative;
         // z-index: 10;
         padding: 6px;
-    }
-    & .legendary {
-        border: 4px solid $ternary-color;
-        // border: linear-gradient(33deg, #404651, #b7becc);
-        background-color: $quaternary-color;
-        background: radial-gradient(#60626a, #3b3b40, #111111);
     }
     & .mythic {
         border: 4px solid #fbe9a7;
@@ -274,6 +312,7 @@ ul {
     }
     &__title {
         margin-bottom: 0.5rem;
+        font-family: $font-burbank-bold;
         &Fr {
             font-weight: normal;
             &:before {
@@ -289,6 +328,7 @@ ul {
         }
         .hero__class {
             text-transform: capitalize;
+            font-family: $font-burbank-bold;
             // margin-bottom: 0.25rem;
 
         }

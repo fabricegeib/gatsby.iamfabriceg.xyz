@@ -20,60 +20,15 @@
             { "title":"DECOY", "cost":"30 energy", "cooldown": "30 seconds", "text": "Deploy a D.E.C.O.Y. which distracts nearby enemies for 6 seconds. Does not affect Mist Monsters or Bosses." },
             { "title":"Plasma Pulse", "cost":"40 energy", "cooldown": "45 seconds", "text": "Deploy a device which spews plasma mines for 6 seconds. Each mine deals 31,599.0 energy damage." }
         ],
-        "citation": "Ok gus, this is my B.A.S.E.! Whaddya think? - Kyle",
+        "citation": "Ok gus, this is my B.A.S.E.! Whaddya think?",
         "citationFr": " "
-    },
-{
-        "name": "Controller Harper Rare",
-        "rarity": "rare",
-        "citation": "Garde en permanance le contrôle.",
-        "class": "constructor",
-        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-R-T01-L.png",
-        "classPerks" : [
-            {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk": "B.A.S.E", "text": "Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock": "Supercharged Traps",
-        "teamPerkUnlockText": "For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk": "Mega BASE",
-        "standardPerk": "Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk": "Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text": "Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown": "45 seconds" },
-            { "title":"Ford", "text": "c" },
-            { "title":"Ford", "text": "c" }
-        ],
-        "citation": "Only the biggest of BASEs.",
-        "citationFr": "Les grosses bases, y a que ça de vrai. - Kyle"
     },
 {
         "name": "Controller Harper Legendary",
         "rarity":"legendary",
-        "citation": "Garde en permanance le contrôle.",
         "class": "constructor",
+        "type": "heroes",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-SR-T01-L.png",
-        "classPerks" : [
-            {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk": "B.A.S.E", "text": "Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock": "Supercharged Traps",
-        "teamPerkUnlockText": "For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk": "Mega BASE",
-        "standardPerk": "Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk": "Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text": "Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown": "45 seconds" },
-            { "title":"Ford", "text": "c" },
-            { "title":"Ford", "text": "c" }
-        ],
-        "citation": "Only the biggest of BASEs.",
-        "citationFr": "Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name": "Controller Harper Uncommon",
-        "rarity": "uncommon",
-        "class": "constructor",
-        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-UC-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
             {"perk": "B.A.S.E", "text": "Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
@@ -114,8 +69,56 @@
         "citationFr": "Les grosses bases, y a que ça de vrai. - Kyle"
     },
 {
-        "name": "Kyle the 13th",
+        "name": "Controller Harper Rare",
+        "rarity": "rare",
         "class": "constructor",
+        "type": "heroes",
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-R-T01-L.png",
+        "classPerks" : [
+            {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk": "B.A.S.E", "text": "Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock": "Supercharged Traps",
+        "teamPerkUnlockText": "For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk": "Mega BASE",
+        "standardPerk": "Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk": "Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text": "Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown": "45 seconds" },
+            { "title":"Ford", "text": "c" },
+            { "title":"Ford", "text": "c" }
+        ],
+        "citation": "Always in control",
+        "citationFr": "Garde en permanance le contrôle."
+    },
+{
+        "name": "Controller Harper Uncommon",
+        "rarity": "uncommon",
+        "class": "constructor",
+        "type": "heroes", 
+        "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-UC-T01-L.png",
+        "classPerks" : [
+            {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk": "B.A.S.E", "text": "Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock": "Supercharged Traps",
+        "teamPerkUnlockText": "For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk": "Mega BASE",
+        "standardPerk": "Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk": "Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text": "Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown": "45 seconds" },
+            { "title":"Ford", "text": "c" },
+            { "title":"Ford", "text": "c" }
+        ],
+        "citation": "Only the biggest of BASEs.",
+        "citationFr": "Les grosses bases, y a que ça de vrai. - Kyle"
+    },
+{
+        "name": "Kyle the 13th",
+        "rarity": "legendary",
+        "class": "constructor",
+        "type": "heroes",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007HW-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -136,7 +139,9 @@
     },
 {
         "name": "Power B.A.S.E. Penny",
+        "rarity":"legendary",
         "class": "constructor",
+        "type": "heroes",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-008-Founders-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -159,6 +164,7 @@
         "name": "Power B.A.S.E. Knox Rare",
         "rarity": "rare",
         "class": "constructor",
+        "type": "heroes",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-008-R-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -178,8 +184,10 @@
         "citationFr": "Les grosses bases, y a que ça de vrai. - Kyle"
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "Power B.A.S.E. Knox Legendary",
+        "rarity": "legendary",
         "class": "constructor",
+        "type": "heroes",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-008-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -920,8 +928,10 @@
         "citationFr": "Les grosses bases, y a que ça de vrai. - Kyle"
     },
 {
-        "name": "Athena-Commando-M-Cyberpunk-L",
+        "name": "\"Arrlene\" Izza",
+        "rarity": "legendary",
         "class": "constructor",
+        "type": "heroes",
         "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-031-HalloweenConstructor-SR-T01-L.png",
         "classPerks" : [
             {"perk": "Kinetic Overload", "text": "Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -929,16 +939,16 @@
         ],
         "teamPerkUnlock": "Supercharged Traps",
         "teamPerkUnlockText": "For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk": "Mega BASE",
-        "standardPerk": "Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk": "Increases B.A.S.E. connectivity range by 3.",
+        "perk": "Monster Smash",
+        "standardPerk": "Increases Life Leech with Melee attacks and Goin' Constructor by up to 15% based on the percentage of your missing Health.",
+        "commanderPerk": "Increases Life Leech with Melee attacks and Goin' Constructor by up to 15% based on the percentage of your missing Health. Additionally, Melle and Goin' Constructor eliminations have a 50% chance to conjure a Phantasm (targets a nearby enemy, dealing 62 base Energy damage in 0.5 tile radius, 1.5 second cooldown)",
         "abilities": [
-            { "title":"Plasma Pulse", "text": "Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown": "45 seconds" },
-            { "title":"Ford", "text": "c" },
-            { "title":"Ford", "text": "c" }
+            { "title":"Goin' Constructor", "text": "Equip a hammer which deals 186,653.2 physical damage per hit and a shield that reduces 95% damage from the front. Lasts 16 seconds.", "cost":"50 energy", "cooldown": "100 seconds" },
+            { "title":"Plasma Pulse", "text": "Deploy a device which spews plasma mines for 6 seconds. Each mine deals 27,344.1 energy damage.", "cost":"40 energy", "cooldown": "45 seconds" },
+            { "title":"Bull Rush", "text": "Charge forward 3 tiles, dealing 61,821.4 physical damage to enemies and pushing them away with your shield.", "cost":"20 energy", "cooldown": "15 seconds" }
         ],
-        "citation": "Only the biggest of BASEs.",
-        "citationFr": "Les grosses bases, y a que ça de vrai. - Kyle"
+        "citation": "That's a wrap.",
+        "citationFr": "xxx"
     },
 {
         "name": "MEGA B.A.S.E. Kyle",

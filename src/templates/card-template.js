@@ -69,20 +69,20 @@ const CardTemplate = (props) => {
                 <div className="hero-container">
                     
                     <div className="hero-left">
-                        <h3 className="hero__class"><span>{props.data.heroesJson.rarity} | {props.data.heroesJson.class}</span></h3>
+                        <h3>{props.data.heroesJson.rarity} | <span className="hero__class">{props.data.heroesJson.class}</span></h3>
 
                         <h3 className="hero__title">{props.data.heroesJson.name}</h3>
                         
-                        <div className="heroCard">
+                        <div className="heroCard" data-rarity={props.data.heroesJson.rarity}>
                             <Image
                                 fluid={props.data.heroesJson.image.childImageSharp.fluid}
                                 alt={props.data.heroesJson.name}
                             />
                             <div className="heroCard__overlay">
-                                <p>{props.data.heroesJson.name}</p>
+                                <p className="heroCard__class">{props.data.heroesJson.class}</p>
                             </div>
                             <div className="heroCard__bottom">
-                                <p>{props.data.heroesJson.class}</p>
+                                <p className="hero__title">{props.data.heroesJson.name}</p>
                             </div>
                         </div>
                     </div>
@@ -124,7 +124,7 @@ const CardTemplate = (props) => {
                             {props.data && <p>{props.data.heroesJson.abilities[2].text}</p>}
                         </div>
 
-                        <p>{props.data.heroesJson.citation}</p>
+                        <p>{props.data.heroesJson.citation} - <i>{props.data.heroesJson.name}</i></p>
                     </div>
                 </div>
             </div>

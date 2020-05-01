@@ -16,6 +16,7 @@ const NinjaPage = () => {
             edges {
                 node {
                     name
+                    rarity
                     id
                     class
                     image {
@@ -68,7 +69,7 @@ const NinjaPage = () => {
         <div className="heroesCards">
                 {data.allHeroesJson.edges.map(({ node }, index) => (
                 <div>
-                    <div className="heroCard" key={index}>
+                    <div className="heroCard" data-rarity={node.rarity} key={index}>
                     {node.image && (
                         <Image
                         fluid={node.image.childImageSharp.fluid}

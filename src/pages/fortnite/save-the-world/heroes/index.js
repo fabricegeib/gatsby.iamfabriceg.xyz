@@ -11,6 +11,7 @@ export const query = graphql `
             edges {
                     node {
                         name
+                        rarity
                         id
                         class
                         image {
@@ -67,7 +68,7 @@ const HeroesPage = ({ data }) => {
                 {data.allHeroesJson.edges.map(({ node }, index) => (
                 <div>
                     <Link className="link" to={`/fortnite/save-the-world/heroes/${node.class}/${node.fields.cardSlug}`}>
-                        <div className="heroCard" key={index}>
+                        <div className="heroCard" data-rarity={node.rarity} key={index}>
                             {node.image && (
                                 <Image
                                 fluid={node.image.childImageSharp.fluid}
@@ -76,15 +77,15 @@ const HeroesPage = ({ data }) => {
                             )}
                             
                             <div className="heroCard__overlay">
-                                {node.name && <p className="heroCard__texte">{node.name}</p>}
+                                {node.class && <p className="heroCard__class">{node.class}</p>}
                             </div>
                             
                             <div className="heroCard__bottom">
-                                {node.class && <p>{node.class}</p>}
+                                {node.name && <p className="heroCard__texte">{node.name}</p>}
                             </div>
                         </div>
                     </Link>
-                   
+
                     {/* {node.fields.cardSlug && (
                     <Link className="link" to={`/fortnite/save-the-world/heroes/${node.class}/${node.fields.cardSlug}`}>
                         {node.fields.cardSlug}

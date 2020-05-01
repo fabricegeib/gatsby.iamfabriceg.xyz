@@ -17,7 +17,7 @@ module.exports.onCreateNode = ({ node, actions }) => {
     if (node.internal.type === 'HeroesJson') {
             const cardLC = ((node.name).toLowerCase())
             // delete blank space
-            const card = cardLC.replace(/\s+/g, '-').replace(/\./g,'').replace(/,/g, "")
+            const card = cardLC.replace(/\s+/g, '-').replace(/\./g,'').replace(/,/g, "").replace(/"/g, "")
             // delete dot
 
             // console.log('@WESH ALORS LUKY', wesh)

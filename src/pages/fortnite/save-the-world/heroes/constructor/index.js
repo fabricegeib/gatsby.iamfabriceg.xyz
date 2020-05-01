@@ -16,6 +16,7 @@ const ConstructorPage = () => {
             edges {
                 node {
                     name
+                    rarity
                     id
                     class
                     image {
@@ -69,7 +70,7 @@ const ConstructorPage = () => {
                 {data.allHeroesJson.edges.map(({ node }, index) => (
                 <div>
                     <Link className="link" to={`/fortnite/save-the-world/heroes/${node.class}/${node.fields.cardSlug}`}>
-                        <div className="heroCard" key={index}>
+                        <div className="heroCard" data-rarity={node.rarity} key={index}>
                             {node.image && (
                                 <Image
                                 fluid={node.image.childImageSharp.fluid}

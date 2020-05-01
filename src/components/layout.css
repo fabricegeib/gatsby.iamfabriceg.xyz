@@ -620,3 +620,12 @@ pre tt:after {
     font-size: 100%;
   }
 }
+
+@font-face {
+  font-family: "BurbankBigRegular-Black";
+  src: url("../fonts/BurbankBigRegular-Black.woff2");
+}
+@font-face {
+  font-family: "BurbankBigRegular-Bold";
+  src: url("../fonts/BurbankBigRegular-Bold.woff2");
+}
