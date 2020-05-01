@@ -40,11 +40,11 @@ const HeroesPage = ({ data }) => {
         <Layout>
         <SEO title="Fortnite Save The World - Heroes" />
         
-            <p>
-                <Link to="/fortnite/save-the-world">Fortnite > Save The World</Link>
+            <p className="breadcrumb">
+                <Link to="/fortnite">Fortnite</Link> > <Link to="/fortnite/save-the-world">Save The World</Link>
             </p>
 
-            <h3>Heroes ({data.allHeroesJson.totalCount})</h3>
+            <h3 className="title">Heroes ({data.allHeroesJson.totalCount})</h3>
 
             <ul className="links">
                 <li>
