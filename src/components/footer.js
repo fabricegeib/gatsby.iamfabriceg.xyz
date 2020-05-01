@@ -9,23 +9,23 @@ const Footer = ({ siteTitle }) => (
         <div id="about">
             <ul className="links">
                 <li>
-                    <a class="instagram" href="https://www.instagram.com/iamfabriceg/" rel="noopener noreferrer"
+                    <a className="instagram" href="https://www.instagram.com/iamfabriceg/" rel="noopener noreferrer"
                         target="_blank">instagram</a>
                 </li>
                 <li>
-                    <a class="mixer" href="https://mixer.com/iamfabriceg" rel="noopener noreferrer"
+                    <a className="mixer" href="https://mixer.com/iamfabriceg" rel="noopener noreferrer"
                         target="_blank">mixer</a>
                 </li>
                 <li>
-                    <a class="twitch" rel="noopener noreferrer" href="https://www.twitch.tv/iamfabriceg"
+                    <a className="twitch" rel="noopener noreferrer" href="https://www.twitch.tv/iamfabriceg"
                         target="_blank">twitch</a>
                 </li>
                 <li>
-                    <a class="twitter" href="https://twitter.com/iamfabriceg" rel="noopener noreferrer"
+                    <a className="twitter" href="https://twitter.com/iamfabriceg" rel="noopener noreferrer"
                         target="_blank">twitter</a>
                 </li>
                 <li>
-                    <a class="youtube" rel="noopener noreferrer"
+                    <a className="youtube" rel="noopener noreferrer"
                         href="https://www.youtube.com/channel/UCKv4GgFKQvPG2rt3MOZK8Xg/">youtube</a>
                 </li>
             </ul>

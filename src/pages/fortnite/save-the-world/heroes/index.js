@@ -66,9 +66,9 @@ const HeroesPage = ({ data }) => {
 
             <div className="heroesCards">
                 {data.allHeroesJson.edges.map(({ node }, index) => (
-                <div>
+                <div key={node.id}>
                     <Link className="link" to={`/fortnite/save-the-world/heroes/${node.class}/${node.fields.cardSlug}`}>
-                        <div className="heroCard" data-rarity={node.rarity} key={index}>
+                        <div className="heroCard" data-rarity={node.rarity}>
                             {node.image && (
                                 <Image
                                 fluid={node.image.childImageSharp.fluid}

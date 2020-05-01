@@ -14,7 +14,7 @@ const FortnitePage = () => (
 
     <div className="xxx">
       <div className="cards">
-        <a href="https://www.epicgames.com/fn/0581-7738-9609" target="_blank" rel="noopener norefferer">
+        <a href="https://www.epicgames.com/fn/0581-7738-9609" rel="noopener noreferrer" target="_blank">
           <div className="card creative">
             <h3>SKIDIP DEATH SQUARE</h3>
             <p>by LukyVj</p>

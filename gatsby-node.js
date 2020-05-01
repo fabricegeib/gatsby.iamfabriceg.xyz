@@ -20,7 +20,7 @@ module.exports.onCreateNode = ({ node, actions }) => {
             const card = cardLC.replace(/\s+/g, '-').replace(/\./g,'').replace(/,/g, "").replace(/"/g, "")
             // delete dot
 
-            // console.log('@WESH ALORS LUKY', wesh)
+            console.log('fonction cardLC', wesh)
 
             createNodeField({
                 node,

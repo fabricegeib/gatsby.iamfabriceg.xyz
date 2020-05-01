@@ -12,7 +12,7 @@ const RedDeadRedemption2Page = class extends React.Component {
     fetchData: []
   }
 
-  componentDidMount() {
+  componentDidUpdate() {
     fetch('https://madam-nazar-location-api-2.herokuapp.com/location/current').then(response => {
       console.log(response);
     })

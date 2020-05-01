@@ -58,8 +58,9 @@ const LivePage = () => {
       <div className="allTwitchVideos">
         {dataTwitch.allTwitchvideo.edges.map(({ node }, index) => (
         <div className="twitchVideo" key={index}>
+
           <h3>{node.title}</h3>
-          <a href={node.url} target="_blank" rel="noopener norefferer">link</a>
+          <a href={node.url} rel="noopener noreferrer" target="_blank">link</a>
           <p>{node.type}</p>
 
           {/* https://player.twitch.tv/?autoplay=false&video=v423873880 */}
