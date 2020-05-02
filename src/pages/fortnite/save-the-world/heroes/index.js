@@ -77,7 +77,8 @@ const HeroesPage = ({ data }) => {
                             )}
                             
                             <div className="heroCard__overlay">
-                                {node.class && <p className="heroCard__class">{node.class}</p>}
+                                <div data-class={node.class}></div>
+                                {/* {node.class && <p className="heroCard__class">{node.class}</p>} */}
                             </div>
                             
                             <div className="heroCard__bottom">

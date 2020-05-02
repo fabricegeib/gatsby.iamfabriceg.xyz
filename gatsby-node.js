@@ -20,8 +20,6 @@ module.exports.onCreateNode = ({ node, actions }) => {
             const card = cardLC.replace(/\s+/g, '-').replace(/\./g,'').replace(/,/g, "").replace(/"/g, "")
             // delete dot
 
-            console.log('fonction cardLC', wesh)
-
             createNodeField({
                 node,
                 name: 'cardSlug',

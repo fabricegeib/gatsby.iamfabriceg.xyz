@@ -16,6 +16,7 @@ const OutlanderPage = () => {
             edges {
                 node {
                     name
+                    rarity
                     id
                     class
                     image {
@@ -68,7 +69,7 @@ const OutlanderPage = () => {
         <div className="heroesCards">
                 {data.allHeroesJson.edges.map(({ node }, index) => (
                 <div>
-                    <div className="heroCard" key={index}>
+                    <div className="heroCard" key={index} data-rarity={node.rarity}>
                     {node.image && (
                         <Image
                         fluid={node.image.childImageSharp.fluid}
@@ -76,10 +77,10 @@ const OutlanderPage = () => {
                         />
                     )}
                     <div className="heroCard__overlay">
-                        {node.name && <p className="heroCard__texte">{node.name}</p>}
+                        <div data-class={node.class}></div>
                     </div>
                     <div className="heroCard__bottom">
-                        {node.class && <p>{node.class}</p>}
+                        {node.name && <p className="heroCard__texte">{node.name}</p>}
                     </div>
                     </div>
                     {node.slug && (

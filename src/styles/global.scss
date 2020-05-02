@@ -99,10 +99,7 @@ ul {
         padding: 48px 1.0875rem 1rem;
     }
     .breadcrumb {
-        // color: $white-color;
-        a {
-            // color: $white-color;
-        }
+        
     }
     .title {
         font-family: $font-burbank-bold;
@@ -171,6 +168,38 @@ ul {
 
 } */
 
+.soldier, [data-class='soldier'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/class/T-Icon-Hero-Soldier-CARD.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+.constructor, [data-class='constructor'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/class/T-Icon-Hero-Constructor-CARD.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+.ninja, [data-class='ninja'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/class/T-Icon-Hero-Ninja-CARD.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+.outlander, [data-class='outlander'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/class/T-Icon-Hero-Outlander-CARD.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
 
 .heroesCards {
     display: grid;
@@ -246,8 +275,9 @@ ul {
     }
     &[data-rarity='legendary'] {
         border: 4px solid $legendary-color;
-        background-color: $quaternary-color;
-        background: radial-gradient(#e1700e, #d26309, #c45600);
+        background-color: $legendary-color;
+        // background: radial-gradient(#e1700e, #d26309, #c45600);
+        background: radial-gradient(#f99656 0%,#c75000 100%);
     }
     &[data-rarity='epic'] {
         border: 4px solid $epic-color;
@@ -265,7 +295,7 @@ ul {
         background: radial-gradient(#44a202, #309104, #1a8113);
     }
     &__overlay {
-        height: 60px;
+        height: 48px;
         background-color: rgba(0, 0, 0, 0.33);
         // margin: -12px 0;
         // position: relative;
@@ -273,18 +303,20 @@ ul {
         padding: 6px;
     }
     &__texte {
-        overflow: hidden;
-        text-overflow: ellipsis;
-        white-space: nowrap;
+        // overflow: hidden;
+        // text-overflow: ellipsis;
+        // white-space: nowrap;
+        line-height: 1rem;
         font-family: $font-burbank-bold;
     }
     &__class {
         font-family: $font-burbank-bold;
     }
     &__bottom {
-        height: 40px;
+        // height: 24px;
         // background: linear-gradient(#777c82, #a4abb2);
         // background: linear-gradient(rgba(19, 19, 19, 0.5), rgba(62, 62, 62, 0));
+        // background: linear-gradient(to left, #c75000, #f99656);
         // margin: -12px 0;
         // position: relative;
         // z-index: 10;
@@ -504,8 +536,8 @@ ul {
             margin-right: 1.3rem;
             & a {
                 // color: $ternary-color;
-                color: #abd8f4;
-                text-decoration: none;
+                // color: #abd8f4;
+                // text-decoration: none;
                 &:hover {
                     color: $primary-color;
                 }
