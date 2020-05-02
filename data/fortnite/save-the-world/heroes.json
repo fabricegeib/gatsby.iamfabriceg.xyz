@@ -3,7 +3,13 @@
         "name":"Controller Harper Uncommon",
         "rarity":"uncommon",
         "class":"constructor",
-        "type":"heroes", 
+        "type":"heroes",
+        "collectionBook": [
+            { "group":"heroes" },
+            { "subgroup":"constructor" },
+            { "bloc":"Controller Harper" },
+            { "collect":"1" }
+        ],
         "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-007-UC-T01-L.png",
         "classPerks" : [
             {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -19,8 +25,8 @@
             { "title":"Ford", "text":"c" },
             { "title":"Ford", "text":"c" }
         ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citation":"Always in control",
+        "citationFr":"Garde en permanance le contrôle."
     },
 {
         "name":"Controller Harper Rare",
@@ -64,8 +70,8 @@
             { "title":"Ford", "text":"c" },
             { "title":"Ford", "text":"c" }
         ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citation":"Always in control",
+        "citationFr":"Garde en permanance le contrôle."
     },
 {
         "name":"Controller Harper Legendary",
@@ -87,8 +93,668 @@
             { "title":"Ford", "text":"c" },
             { "title":"Ford", "text":"c" }
         ],
+        "citation":"Always in control",
+        "citationFr":"Garde en permanance le contrôle."
+    },
+{
+        "name":"Power B.A.S.E. Knox Rare",
+        "rarity":"rare",
+        "class":"constructor",
+        "type":"heroes",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-008-R-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Power B.A.S.E. Knox Epic",
+        "rarity":"epic",
+        "class":"constructor",
+        "type":"heroes",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-008-VR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Power B.A.S.E. Knox Legendary",
+        "rarity":"legendary",
+        "class":"constructor",
+        "type":"heroes",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-008-SR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Sentinel Hype Rare",
+        "rarity":"rare",
+        "class":"constructor",
+        "type":"heroes",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-009-R-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Sentinel Hype Epic",
+        "rarity":"epic",
+        "class":"constructor",
+        "type":"heroes",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-009-VR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Sentinel Hype Legendary",
+        "rarity":"legendary",
+        "class":"constructor",
+        "type":"heroes",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-009-SR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Guardian Bull Epic",
+        "rarity":"epic",
+        "class":"constructor",
+        "type":"heroes",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-010-VR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Guardian Bull Legendary",
+        "rarity":"legendary",
+        "class":"constructor",
+        "type":"heroes",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-010-SR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+    {
+        "name":"Hotfixer Hazard Rare",
+        "rarity":"rare",
+        "class":"constructor",
+        "type":"heroes",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-BaseHyper-R-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Hotfixer Hazard Epic",
+        "rarity":"epic",
+        "class":"constructor",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-BaseHyper-VR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Hotfixer Hazard Legendary",
+        "rarity":"legendary",
+        "class":"constructor",
+        "type":"heroes",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-BaseHyper-SR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Electro-pulse Penny Epic",
+        "rarity":"epic",
+        "class":"constructor",
+        "type":"heroes",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-HammerPlasma-VR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Electro-pulse Penny Legendary",
+        "rarity":"legendary",
+        "class":"constructor",
+        "type":"heroes",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-HammerPlasma-SR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Tank Penny Uncommon",
+        "rarity":"uncommon",
+        "class":"constructor",
+        "type":"heroes",
+        "collectionBook": [
+            { "group":"heroes" },
+            { "subgroup":"constructor" },
+            { "bloc":"Tank Penny" }
+        ],
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-HammerTank-UC-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Tank Penny Rare",
+        "rarity":"rare",
+        "class":"constructor",
+        "type":"heroes",
+        "collectionBook": [
+            { "group":"heroes" },
+            { "subgroup":"constructor" },
+            { "bloc":"Tank Penny" }
+        ],
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-HammerTank-R-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Tank Penny Epic",
+        "rarity":"epic",
+        "class":"constructor",
+        "type":"heroes",
+        "collectionBook": [
+            { "group":"heroes" },
+            { "subgroup":"constructor" },
+            { "bloc":"Tank Penny" }
+        ],
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-HammerTank-VR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Tank Penny Legendary",
+        "rarity":"legendary",
+        "class":"constructor",
+        "type":"heroes",
+        "collectionBook": [
+            { "group":"heroes" },
+            { "subgroup":"constructor" },
+            { "bloc":"Tank Penny" }
+        ],
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-HammerTank-SR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Plasma Specialist Izza Rare",
+        "rarity":"rare",
+        "class":"constructor",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-PlasmaDamage-R-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Plasma Specialist Izza Epic",
+        "rarity":"epic",
+        "class":"constructor",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-PlasmaDamage-VR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Plasma Specialist Izza Legendary",
+        "rarity":"legendary",
+        "class":"constructor",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-PlasmaDamage-SR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"B.A.S.E. Kyle Uncommon",
+        "rarity":"uncommon",
+        "class":"constructor",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-UC-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"B.A.S.E. Kyle Rare",
+        "rarity":"rare",
+        "class":"constructor",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-R-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"B.A.S.E. Kyle Epic",
+        "rarity":"epic",
+        "class":"constructor",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-VR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"B.A.S.E. Kyle Legendary",
+        "rarity":"legendary",
+        "class":"constructor",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-SR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"MEGA B.A.S.E. Kyle",
+        "nameFr":"Kyle, Constructeur Méga",
+        "rarity":"mythic",
+        "class":"constructor",
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-BASEBig-SR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+    {
+        "name":"Conqueror Magnus",
+        "rarity":"legendary",
+        "class":"constructor",
+        "type":"heroes",
+        "image":"./images/heroes/soldier/T-Soldier-HID-164-Athena-Commando-M-Viking-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+    {
+        "name":"Dark Vanguard Airheart",
+        "rarity":"legendary",
+        "class":"constructor",
+        "image":"./images/heroes/constructor/T-Soldier-HID-105-Athena-Commando-F-SpaceBlackFemale-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Steel Wool Syd",
+        "rarity":"mythic",
+        "class":"constructor",
+        "type":"heroes",
+        "collectionBook": [
+            { "group":"heroes" },
+            { "subgroup":"constructor" },
+            { "bloc":"Campaign Constructors" }
+        ],
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-Myth02-SR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Power B.A.S.E Kyle",
@@ -135,7 +801,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Power B.A.S.E. Penny",
@@ -158,195 +824,19 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Power B.A.S.E. Knox Rare",
+        "name":"Machinist Harper Rare",
         "rarity":"rare",
         "class":"constructor",
         "type":"heroes",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-008-R-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        "collectionBook": [
+            { "group":"expansion people" },
+            { "subgroup":"Scavenger Heroes" },
+            { "bloc":"Machinist Harper" },
+            { "collect":"1" }
         ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Power B.A.S.E. Knox Epic",
-        "rarity":"epic",
-        "class":"constructor",
-        "type":"heroes",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-008-VR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Power B.A.S.E. Knox Legendary",
-        "rarity":"legendary",
-        "class":"constructor",
-        "type":"heroes",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-008-SR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Sentinel Hype Rare",
-        "rarity":"rare",
-        "class":"constructor",
-        "type":"heroes",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-009-R-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Sentinel Hype Epic",
-        "rarity":"epic",
-        "class":"constructor",
-        "type":"heroes",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-009-VR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Sentinel Hype Legendary",
-        "rarity":"legendary",
-        "class":"constructor",
-        "type":"heroes",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-009-SR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Guardian Bull Legendary",
-        "rarity":"legendary",
-        "class":"constructor",
-        "type":"heroes",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-010-SR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Guardian Bull",
-        "rarity":"epic",
-        "class":"constructor",
-        "type":"heroes",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-010-VR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "class":"constructor",
         "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-011-R-T01-L.png",
         "classPerks" : [
             {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -363,33 +853,19 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-011-SR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Machinist Harper",
+        "name":"Machinist Harper Epic",
         "rarity":"epic",
         "class":"constructor",
+        "type":"heroes",
+        "collectionBook": [
+            { "group":"expansion people" },
+            { "subgroup":"Scavenger Heroes" },
+            { "bloc":"Machinist Harper" },
+            { "collect":"1" }
+        ],
         "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-011-VR-T01-L.png",
         "classPerks" : [
             {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -406,7 +882,36 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
+    },
+{
+        "name":"Machinist Harper Legendary",
+        "rarity":"legendary",
+        "class":"constructor",
+        "type":"heroes",
+        "collectionBook": [
+            { "group":"expansion people" },
+            { "subgroup":"Scavenger Heroes" },
+            { "bloc":"Machinist Harper" },
+            { "collect":"0" }
+        ],
+        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-011-SR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -427,7 +932,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Warden Kyle",
@@ -449,7 +954,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -470,7 +975,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -491,7 +996,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -512,7 +1017,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -533,7 +1038,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -554,7 +1059,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -575,7 +1080,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -596,7 +1101,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -617,7 +1122,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -638,7 +1143,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -659,7 +1164,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"8-Bit Demo",
@@ -681,7 +1186,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -702,7 +1207,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -723,7 +1228,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -744,7 +1249,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -765,7 +1270,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Black Knight Garridan",
@@ -787,7 +1292,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Sentry Gunner Krampus",
@@ -808,7 +1313,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -829,7 +1334,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Blakebeard The Blackhearted",
@@ -851,7 +1356,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -872,7 +1377,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Prehistoric Izza",
@@ -893,7 +1398,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"ED-EE",
@@ -915,7 +1420,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -936,7 +1441,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"\"Arrlene\" Izza",
@@ -962,94 +1467,6 @@
         "citationFr":"xxx"
     },
 {
-        "name":"MEGA B.A.S.E. Kyle",
-        "nameFr":"Kyle, Constructeur Méga",
-        "rarity":"mythic",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-BASEBig-SR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-BaseHyper-R-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Hotfixer Hazard",
-        "rarity":"legendary",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-BaseHyper-SR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Hotfixer Hazard Epic",
-        "rarity":"epic",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-BaseHyper-VR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
         "name":"Athena-Commando-M-Cyberpunk-L",
         "class":"constructor",
         "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-BaseHyperHW-SR-T01-L.png",
@@ -1068,7 +1485,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1089,154 +1506,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Electro-pulse Penny",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-HammerPlasma-SR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-HammerPlasma-VR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-HammerTank-R-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-HammerTank-SR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-HammerTank-UC-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-HammerTank-VR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-Myth02-SR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1257,70 +1527,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-PlasmaDamage-R-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-PlasmaDamage-SR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-PlasmaDamage-VR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1341,92 +1548,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-R-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-SR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-UC-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"B.A.S.E. Kyle",
-        "rarity":"epic",
-        "class":"constructor",
-        "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-RushBASE-VR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Guardian Penny",
@@ -1449,7 +1571,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Guardian Knox",
@@ -1472,7 +1594,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 
 
@@ -1516,7 +1638,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Brawler Luna Rare",
@@ -1539,7 +1661,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Brawler Luna Epic",
@@ -1562,7 +1684,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Brawler Luna Legendary",
@@ -1585,7 +1707,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1606,7 +1728,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1627,7 +1749,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1648,7 +1770,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1669,7 +1791,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1690,7 +1812,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1711,7 +1833,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1732,7 +1854,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1753,7 +1875,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1774,7 +1896,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1795,7 +1917,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1816,7 +1938,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1837,7 +1959,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1858,7 +1980,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1879,7 +2001,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1900,7 +2022,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1921,7 +2043,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1942,7 +2064,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1963,7 +2085,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -1984,7 +2106,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2005,7 +2127,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2026,7 +2148,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2047,7 +2169,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2068,7 +2190,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2089,7 +2211,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2110,7 +2232,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2131,7 +2253,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2152,7 +2274,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2173,7 +2295,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2194,7 +2316,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2215,7 +2337,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2236,7 +2358,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2257,7 +2379,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2278,7 +2400,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2299,7 +2421,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2320,7 +2442,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2341,7 +2463,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2362,7 +2484,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2383,7 +2505,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2404,7 +2526,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2425,7 +2547,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2446,7 +2568,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2467,7 +2589,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2488,7 +2610,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2509,7 +2631,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2530,7 +2652,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2551,7 +2673,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2572,7 +2694,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2593,7 +2715,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2614,7 +2736,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2635,7 +2757,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2656,7 +2778,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2677,7 +2799,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2698,7 +2820,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2719,7 +2841,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2740,7 +2862,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2761,7 +2883,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2782,7 +2904,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2803,7 +2925,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2824,7 +2946,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2845,7 +2967,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2866,7 +2988,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2887,7 +3009,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena Commando M Cyberpunk-L",
@@ -2908,7 +3030,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -2929,7 +3051,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 
 
@@ -2953,12 +3075,27 @@
 
 
     {
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "nom":"xxx",
+        "name":"Enforcer Grizzly",
+        "rarity":"rare",
         "class":"outlander",
+        "type":"heroes", 
         "image":"./images/heroes/outlander/T-Outlander-HID-Outlander-007-R-T01-L.png",
-        "perk":"1",
-        "skills": ["1", "2", "3"]
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai."
     }, {
         "name":"Athena-Commando-M-Cyberpunk-L",
         "nom":"xxx",
@@ -3449,7 +3586,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Support Specialist Hawk Rare",
@@ -3472,7 +3609,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Support Specialist Hawk Epic",
@@ -3495,7 +3632,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Support Specialist Hawk Legendary",
@@ -3518,7 +3655,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-Cyberpunk-L",
@@ -3539,7 +3676,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-HolidayNutcracker-L",
@@ -3560,7 +3697,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-Twitch-L",
@@ -3581,7 +3718,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-RetroGrey-L",
@@ -3602,7 +3739,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-Dinosaur-L",
@@ -3623,7 +3760,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-F-StPatty-L",
@@ -3644,7 +3781,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-F-Scathach-L",
@@ -3665,7 +3802,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-CuChulainn-L",
@@ -3686,7 +3823,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-Raven-L",
@@ -3707,7 +3844,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-F-Bunny-L",
@@ -3728,28 +3865,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-    {
-        "name":"Athena-Commando-F-SpaceBlackFemale-L",
-        "class":"soldier",
-        "image":"./images/heroes/soldier/T-Soldier-HID-105-Athena-Commando-F-SpaceBlackFemale-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-CarbideBlue-L",
@@ -3770,7 +3886,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-Metal",
@@ -3791,7 +3907,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-AuroraGlow",
@@ -3812,7 +3928,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-WarPaint",
@@ -3833,7 +3949,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-F-Deco",
@@ -3854,7 +3970,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-F-DarkNinja-L",
@@ -3875,7 +3991,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-F-StreetRacer-L",
@@ -3896,7 +4012,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Thunder Thora",
@@ -3917,28 +4033,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-    {
-        "name":"Conqueror Magnus",
-        "class":"soldier",
-        "image":"./images/heroes/soldier/T-Soldier-HID-164-Athena-Commando-M-Viking-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-TacticalBadass-L",
@@ -3959,7 +4054,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-F-StarfishUniform-L",
@@ -3980,7 +4075,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-StreetRacerCobra-L",
@@ -4001,7 +4096,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-ModernMilitary-L",
@@ -4022,7 +4117,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-F-StreetRacerWhite-L",
@@ -4043,7 +4138,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-StreetRacerWhite-L",
@@ -4064,7 +4159,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-DarkPaintballer-L",
@@ -4085,7 +4180,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-GarageBand-L",
@@ -4106,7 +4201,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-F-GarageBand-L",
@@ -4127,7 +4222,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-F-DarkViking-L",
@@ -4148,7 +4243,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-F-Dieselpunk-L",
@@ -4169,7 +4264,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-F-Vampire-L",
@@ -4190,7 +4285,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-Plague-L",
@@ -4211,7 +4306,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-Plague-L",
@@ -4232,7 +4327,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-Zombie-L",
@@ -4253,7 +4348,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-TacticalSanta-L",
@@ -4274,7 +4369,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"The Ice King",
@@ -4295,7 +4390,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4316,7 +4411,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4337,7 +4432,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 
 
@@ -4360,7 +4455,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4381,7 +4476,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4402,7 +4497,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4423,7 +4518,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4444,7 +4539,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4465,7 +4560,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4486,7 +4581,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4507,7 +4602,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4528,7 +4623,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4549,7 +4644,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4570,7 +4665,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4591,7 +4686,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4612,7 +4707,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4633,7 +4728,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4654,7 +4749,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4675,7 +4770,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4696,7 +4791,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4717,7 +4812,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4738,7 +4833,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4759,7 +4854,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4780,7 +4875,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4801,7 +4896,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4822,7 +4917,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4843,7 +4938,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4864,7 +4959,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4885,7 +4980,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4906,7 +5001,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4927,7 +5022,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4948,7 +5043,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4969,7 +5064,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -4990,7 +5085,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5011,7 +5106,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5032,7 +5127,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5053,7 +5148,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5074,7 +5169,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5095,7 +5190,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5116,7 +5211,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5137,7 +5232,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5158,7 +5253,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5179,7 +5274,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5200,7 +5295,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5221,7 +5316,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5242,7 +5337,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5263,7 +5358,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5284,7 +5379,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5305,7 +5400,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5326,7 +5421,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5347,7 +5442,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5368,7 +5463,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5389,7 +5484,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5410,7 +5505,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5431,7 +5526,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5452,7 +5547,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5473,7 +5568,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5494,7 +5589,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5515,7 +5610,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5536,7 +5631,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5557,7 +5652,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5578,7 +5673,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5599,7 +5694,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5620,7 +5715,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5641,7 +5736,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5662,7 +5757,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5683,7 +5778,7 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
         "name":"Athena-Commando-M-IceKing-L",
@@ -5704,6 +5799,6 @@
             { "title":"Ford", "text":"c" }
         ],
         "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     }
 ]

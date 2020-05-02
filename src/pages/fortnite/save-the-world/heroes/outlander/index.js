@@ -69,25 +69,22 @@ const OutlanderPage = () => {
         <div className="heroesCards">
                 {data.allHeroesJson.edges.map(({ node }, index) => (
                 <div>
-                    <div className="heroCard" key={index} data-rarity={node.rarity}>
-                    {node.image && (
-                        <Image
-                        fluid={node.image.childImageSharp.fluid}
-                        alt={node.name}
-                        />
-                    )}
-                    <div className="heroCard__overlay">
-                        <div data-class={node.class}></div>
-                    </div>
-                    <div className="heroCard__bottom">
-                        {node.name && <p className="heroCard__texte">{node.name}</p>}
-                    </div>
-                    </div>
-                    {node.slug && (
-                    <Link className="link" to={node.slug}>
-                        link
+                    <Link className="link" to={`/fortnite/save-the-world/heroes/${node.class}/${node.fields.cardSlug}`}>
+                        <div className="heroCard" key={index} data-rarity={node.rarity}>
+                            {node.image && (
+                                <Image
+                                fluid={node.image.childImageSharp.fluid}
+                                alt={node.name}
+                                />
+                            )}
+                            <div className="heroCard__overlay">
+                                <div data-class={node.class}></div>
+                            </div>
+                            <div className="heroCard__bottom">
+                                {node.name && <p className="heroCard__texte">{node.name}</p>}
+                            </div>
+                        </div>
                     </Link>
-                    )}
                 </div>
                 ))}
             </div>
