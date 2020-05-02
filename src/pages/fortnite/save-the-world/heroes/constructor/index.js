@@ -79,7 +79,6 @@ const ConstructorPage = () => {
                             )}
                             <div className="heroCard__overlay">
                                 <div data-class={node.class}></div>
-                                {node.class && <p>{node.class}</p>}
                             </div>
                             <div className="heroCard__bottom">
                                 {node.name && <p className="heroCard__texte">{node.name}</p>}

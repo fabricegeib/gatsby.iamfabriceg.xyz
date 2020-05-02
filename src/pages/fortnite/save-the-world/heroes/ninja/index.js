@@ -77,10 +77,10 @@ const NinjaPage = () => {
                         />
                     )}
                     <div className="heroCard__overlay">
-                        {node.name && <p className="heroCard__texte">{node.name}</p>}
+                        <div data-class={node.class}></div>
                     </div>
                     <div className="heroCard__bottom">
-                        {node.class && <p>{node.class}</p>}
+                        {node.name && <p className="heroCard__texte">{node.name}</p>}
                     </div>
                     </div>
                     {node.slug && (

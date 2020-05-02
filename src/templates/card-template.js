@@ -79,10 +79,11 @@ const CardTemplate = (props) => {
                                 alt={props.data.heroesJson.name}
                             />
                             <div className="heroCard__overlay">
-                                <p className="heroCard__class">{props.data.heroesJson.class}</p>
+                                <div data-class={props.data.heroesJson.class}></div>
+                                {/* <p className="heroCard__class">{props.data.heroesJson.class}</p> */}
                             </div>
                             <div className="heroCard__bottom">
-                                <p className="hero__title">{props.data.heroesJson.name}</p>
+                                {/* <p className="hero__title">{props.data.heroesJson.name}</p> */}
                             </div>
                         </div>
                     </div>

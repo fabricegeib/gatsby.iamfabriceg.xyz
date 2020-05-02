@@ -312,7 +312,7 @@ ul {
     &__class {
         font-family: $font-burbank-bold;
     }
-    &__bottom {
+    &__bottom:not(:empty) {
         // height: 24px;
         // background: linear-gradient(#777c82, #a4abb2);
         // background: linear-gradient(rgba(19, 19, 19, 0.5), rgba(62, 62, 62, 0));

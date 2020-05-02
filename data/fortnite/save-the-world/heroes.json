@@ -769,7 +769,7 @@
     },
 {
         "name":"Black Knight Garridan",
-        "rarity":"legendary",
+        "rarity":"mythic",
         "class":"constructor",
         "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-018-SR-BlackKnight-T01-L.png",
         "classPerks" : [
@@ -1495,10 +1495,34 @@
 
 
 
-
     {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Brawler Luna Uncommon",
+        "rarity":"uncommon",
         "class":"ninja",
+        "type":"heroes",
+        "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-007-UC-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+    },
+    {
+        "name":"Brawler Luna Rare",
+        "rarity":"rare",
+        "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-007-R-T01-L.png",
         "classPerks" : [
             {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -1518,51 +1542,34 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Brawler Luna Epic",
+        "rarity":"epic",
         "class":"ninja",
-        "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-007-SR-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "class":"ninja",
-        "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-007-UC-T01-L.png",
-        "classPerks" : [
-            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
-        ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
-        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
-        "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
-        ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
-    },
-{
-        "name":"Athena-Commando-M-Cyberpunk-L",
-        "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-007-VR-T01-L.png",
+        "classPerks" : [
+            {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "perk":"Mega BASE",
+        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. - Kyle"
+    },
+{
+        "name":"Brawler Luna Legendary",
+        "rarity":"legendary",
+        "class":"ninja",
+        "type":"heroes",
+        "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-007-SR-T01-L.png",
         "classPerks" : [
             {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
             {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
