@@ -5,6 +5,7 @@
   "version": "0.1.0",
   "author": "Fabrice Geib <fabricegeib@gmail.com>",
   "dependencies": {
+    "axios": "^0.19.2",
     "core-js": "^3.6.5",
     "gatsby": "^2.21.7",
     "gatsby-image": "^2.4.0",

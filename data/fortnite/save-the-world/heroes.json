@@ -1,6 +1,7 @@
 [
     {
         "name":"Controller Harper Uncommon",
+        "slug": "controller-harper-unncommon",
         "rarity":"uncommon",
         "class":"constructor",
         "type":"heroes",
@@ -8,6 +9,7 @@
             { "group":"heroes" },
             { "subgroup":"constructor" },
             { "bloc":"Controller Harper" },
+            { "own":"1"},
             { "collect":"1" }
         ],
         "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-007-UC-T01-L.png",
