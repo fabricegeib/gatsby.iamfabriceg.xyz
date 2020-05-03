@@ -63,7 +63,7 @@ const CardTemplate = (props) => {
             <div className="fortnite">
                 <div className="container">
                 <p>
-                    <Link to="/fortnite/save-the-world/heroes">Fortnite > Save The World > Heroes</Link>
+                    <Link to="/fortnite">Fortnite</Link> > <Link to="/fortnite/save-the-world">Save The World</Link> > <Link to="/fortnite/save-the-world/heroes">Heroes</Link>
                 </p>
 
                 <div className="hero_page">
@@ -97,7 +97,8 @@ const CardTemplate = (props) => {
                             <h4 className="hero__ability">Avantage de Commandant</h4>
                             <p>{props.data.heroesJson.commanderPerk}</p>
 
-                            <h4 className="hero__ability">Avantage de Classe</h4>
+                            <div className="">
+                                <h4 className="hero__ability">Avantage de Classe</h4>
                                 <div className="">
                                     <div data-class={props.data.heroesJson.classPerks[0].perk}></div>
                                     <p>{props.data.heroesJson.classPerks[0].perk}</p>
@@ -106,9 +107,14 @@ const CardTemplate = (props) => {
                                     <p>{props.data.heroesJson.classPerks[0].text}</p>   
                                 </div>
 
-                            <p>{props.data.heroesJson.classPerks[1].perk}</p>
-                            <p>{props.data.heroesJson.classPerks[1].text}</p>
-
+                                <div className="">
+                                    <div data-class={props.data.heroesJson.classPerks[1].perk}></div>
+                                    <p>{props.data.heroesJson.classPerks[1].perk}</p>
+                                </div>
+                                <div className="">
+                                    <p>{props.data.heroesJson.classPerks[1].text}</p>   
+                                </div>
+                            </div>
 
                             <h4 className="hero__ability">Compétences</h4>
                             <div>

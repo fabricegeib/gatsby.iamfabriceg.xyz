@@ -202,17 +202,25 @@ ul {
     background-size: 100%;
     background-position: center;
 }
-.soldier, [data-class='Kinetic Overload'] {
+.constructor, [data-class='constructor'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
-    background-image: url(../../data/fortnite/save-the-world/images/classPerks/Icon-Constructor-KineticOverload-128_2.webp);
+    background-image: url(../../data/fortnite/save-the-world/images/class/T-Icon-Hero-Constructor-CARD.png);
     width: 36px;
     height: 36px;
     background-size: 100%;
     background-position: center;
 }
-.constructor, [data-class='constructor'] {
+[data-class='Kinetic Overload'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
-    background-image: url(../../data/fortnite/save-the-world/images/class/T-Icon-Hero-Constructor-CARD.png);
+    background-image: url(../../data/fortnite/save-the-world/images/classPerks/Icon-Constructor-KineticOverload-128.webp);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+[data-class='B.A.S.E'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/classPerks/Icon-Constructor-BASE-128.webp);
     width: 36px;
     height: 36px;
     background-size: 100%;
