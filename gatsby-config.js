@@ -2,6 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `iamfabriceg.xyz`,
     description: `i love code and video games`,
+    siteUrl: `https://iamfabriceg.xyz`,
     author: `iamfabriceg - fabrice geib`,
     twitter: `@iamfabriceg`,
   },
@@ -72,6 +73,7 @@ module.exports = {
         userID: '108366345',
         clientID: '67vt473r3v8co5fv6lnoabcd32d0q0'
       },
-    }
+    },
+    `gatsby-plugin-sitemap`,
   ],
 }
