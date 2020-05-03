@@ -9,6 +9,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
 
+    <div className="container">
     <div className="games">
       <h3>I play</h3>
 
@@ -41,6 +42,7 @@ const IndexPage = () => (
         {/* <li><Link to="/YOLOPWNED/">404</Link></li> */}
         {/* <li><Link to="/red-dead-redemption-2/">Red Dead Redemption 2</Link></li> */}
       </div>
+    </div>
     </div>
   </Layout>
 )

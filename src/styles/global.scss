@@ -21,6 +21,7 @@ $rare-color: #0B9DE0;
 $epic-color: #B056E9;
 $legendary-color: #E2854B;
 $mythic-color: #b5a55d;
+$yellow-fn-color: #fff408;
 
 body {
     font-family: $font;
@@ -107,6 +108,18 @@ ul {
     }
 }
 
+.fortnite {
+    background-color: #0a2c5f;
+    color: $white-color;
+    a {
+        color: $white-color;
+    }
+    h3, h4 {
+        color: $yellow-fn-color;
+        font-family: $font-burbank-bold;
+    }
+}
+
 .cards {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -162,6 +175,19 @@ ul {
         box-shadow: rgba(0, 0, 0, 0.5) 0px 6px 12px;
         // box-shadow: rgb(198, 208, 235) 0px 30px 60px;
     }
+    &.creative {
+        h3 {
+            color: $white-color;
+            margin-bottom: 12px;
+        }
+        p {
+            color: $secondary-color
+        }
+        .link {
+            color: $white-color;
+            font-weight: bold;
+        }
+    }
 }
 
 /* .games {
@@ -171,6 +197,14 @@ ul {
 .soldier, [data-class='soldier'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/class/T-Icon-Hero-Soldier-CARD.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+.soldier, [data-class='Kinetic Overload'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/classPerks/Icon-Constructor-KineticOverload-128_2.webp);
     width: 36px;
     height: 36px;
     background-size: 100%;
@@ -249,6 +283,10 @@ ul {
     background-color: $quaternary-color;
     background: radial-gradient(#60626a, #3b3b40, #111111);
     color: $white-color;
+
+    &:hover {
+        // transform: scale(1.05);
+    }
 
     .hero_page & {
         width: calc(100% - 24px);
@@ -341,8 +379,8 @@ ul {
 }
 
 .hero {
-    &-page {
-
+    &_page {
+        
     }
     &-container {
         display: grid;
@@ -400,19 +438,6 @@ ul {
 
 // Fortnite Creative
 
-.card.creative {
-    h3 {
-        color: $white-color;
-        margin-bottom: 12px;
-    }
-    p {
-        color: $secondary-color
-    }
-    .link {
-        color: $white-color;
-        font-weight: bold;
-    }
-}
 
 // Live
 

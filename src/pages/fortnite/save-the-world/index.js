@@ -8,6 +8,7 @@ import SEO from "../../../components/seo"
 const SaveTheWorldPage = () => (
   <Layout>
     <SEO title="Save The World" />
+    <div className="container">
     <h3><span className="backArrow"><Link to="/fortnite/">&#8592;</Link></span>Fortnite</h3>
 
     <h3>Save the World</h3>
@@ -31,6 +32,7 @@ const SaveTheWorldPage = () => (
             </ul>
             {/* <li><Link to="/fortnite/save-the-world/images">Images</Link></li> */}
         </ul>
+    </div>
     </div>
   </Layout>
 )

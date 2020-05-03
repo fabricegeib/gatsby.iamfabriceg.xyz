@@ -14,6 +14,7 @@ export const query = graphql `
                         rarity
                         id
                         class
+                        type
                         image {
                             childImageSharp {
                                 fluid {
@@ -39,7 +40,9 @@ const HeroesPage = ({ data }) => {
     return (
         <Layout>
         <SEO title="Fortnite Save The World - Heroes" />
-        
+        <div className="fortnite">
+                <div className="container">
+            <div data-type={data.allHeroesJson.totalCount}></div>
             <p className="breadcrumb">
                 <Link to="/fortnite">Fortnite</Link> > <Link to="/fortnite/save-the-world">Save The World</Link>
             </p>
@@ -95,7 +98,8 @@ const HeroesPage = ({ data }) => {
                 </div>
                 ))}
             </div>
-        
+            </div>
+            </div>
         </Layout>
     )
 }

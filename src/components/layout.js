@@ -31,9 +31,10 @@ const Layout = ({ children }) => {
     <div className="application">
       <Header siteTitle={data.site.siteMetadata.title} />
 
-      <div className="container">
-        <main>{children}</main>
-      </div>
+      {/* <div className="container"> */}
+        {/* <main>{children}</main> */}
+        {children}
+      {/* </div> */}
       
       <Footer />
     </div>

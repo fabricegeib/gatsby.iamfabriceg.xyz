@@ -9,6 +9,7 @@ const FortnitePage = () => (
   
   <Layout>
     <SEO title="Fortnite" />
+    <div className="container">
     <h3><span className="backArrow"><Link to="/">&#8592;</Link></span>Fortnite</h3>
     <p>Build. Fight. Create.</p>
 
@@ -24,6 +25,7 @@ const FortnitePage = () => (
         <Link to="/fortnite/save-the-world/">Save The World</Link>
         </li>
       </ul>
+    </div>
     </div>
   </Layout>
 )
