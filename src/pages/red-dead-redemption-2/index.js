@@ -49,20 +49,17 @@ const RedDeadRedemption2Page = class extends React.Component {
               </ul>
             </div>
           
-      
-            {fetchedData && <p>{fetchedData.data.location.region.name}</p>}
-            {fetchedData && <p>{fetchedData.data.location.region.precise}</p>}
+            <div className="">
+              {fetchedData && <p>{fetchedData.dataFor}</p>}
+              {fetchedData && <p>{fetchedData.data.location.region.name}</p>}
+              {fetchedData && <p>{fetchedData.data.location.region.precise}</p>}
 
-            {fetchedData && <img src={fetchedData.data.location.image} alt="{fetchedData.data.location.region.name}" />}
-            
-            {fetchedData && <p>{fetchedData.data.name}</p>}
-            {fetchedData && <p>{fetchedData.dataFor}</p>}
-            
-
-            <p>
-                <a href="https://madamnazar.io/" target="_blank" rel="noopener noreferrer">madamnazar.io</a>
-            </p>
-            <Link to="/">Go back to the homepage</Link>
+              {fetchedData && <img src={fetchedData.data.location.image} alt="{fetchedData.data.location.region.name}" />}
+              
+              {fetchedData && <p>{fetchedData.data.name}</p>}
+              <p></p><a href="https://madamnazar.io/" target="_blank" rel="noopener noreferrer">data from madamnazar.io</a></p>
+            </div>
+            {/* <Link to="/">Go back to the homepage</Link> */}
         </div>
       </Layout>
     )
