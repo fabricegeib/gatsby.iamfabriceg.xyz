@@ -41,10 +41,10 @@ const RedDeadRedemption2Page = class extends React.Component {
             <div className="xxx">
               <ul className="xxx">
                 <li>
-                  <Link to="/fortnite/battle-royale/">Online</Link>
+                  <Link to="/red-dead-redemption-2/">Online</Link>
                 </li>
                 <li>
-                  <Link to="/fortnite/creative/">Story</Link>
+                  <Link to="/red-dead-redemption-2/">Story</Link>
                 </li>
               </ul>
             </div>
