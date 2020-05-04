@@ -22,6 +22,7 @@ $epic-color: #B056E9;
 $legendary-color: #E2854B;
 $mythic-color: #b5a55d;
 $yellow-fn-color: #fff408;
+$starwars-color: #fbe51d;
 
 body {
     font-family: $font;
@@ -117,6 +118,17 @@ ul {
     h3, h4 {
         color: $yellow-fn-color;
         font-family: $font-burbank-bold;
+    }
+    &_battle-royale {
+        // background-color: #0a2c5f;
+        img {
+            margin-bottom: 0;
+        }
+        .heroCard {
+            p {
+                margin-bottom: 0;
+            }
+        }
     }
 }
 
@@ -314,6 +326,11 @@ ul {
     // .gatsby-image-wrapper {
     //     margin: -12px -12px 0;
     // }
+    &[data-rarity='starwars'] {
+        border: 4px solid $starwars-color;
+        background-color: $quaternary-color;
+        background: radial-gradient(#e8c86f, #d3a83e, #be9626);
+    }
     &[data-rarity='mythic'] {
         border: 4px solid $mythic-color;
         background-color: $quaternary-color;

@@ -50,17 +50,19 @@ const RedDeadRedemption2Page = class extends React.Component {
             </div>
           
             <div className="madamnazar">
-              {fetchedData && <p>{fetchedData.dataFor}</p>}
-              {fetchedData && <p>{fetchedData.data.location.region.name}</p>}
-              {fetchedData && <p>{fetchedData.data.location.region.precise}</p>}
+              <h3>Madam Nazar is currently at :</h3>
+              {fetchedData && <p>{fetchedData.data.location.region.name}, {fetchedData.data.location.region.precise} ({fetchedData.data.location.cardinals.full}) - {fetchedData.dataFor}</p>}
+              {/* {fetchedData && <p>{fetchedData.data.location.region.name}</p>}
+              {fetchedData && <p>{fetchedData.data.location.region.precise}</p>} */}
 
-              {fetchedData && <p>{fetchedData.data.location.cardinals.full}</p>}
-              {fetchedData && <p>{fetchedData.data.location.cardinals.simplified}</p>}
+              {/* {fetchedData && <p>{fetchedData.data.location.cardinals.full}</p>} */}
+              {/* {fetchedData && <p>{fetchedData.data.location.cardinals.simplified}</p>} */}
 
               
               {fetchedData && <img src={fetchedData.data.location.image} alt="{fetchedData.data.location.region.name}" />}
               
-              {fetchedData && <p>{fetchedData.data.name}</p>}
+              {/* {fetchedData && <p>{fetchedData.data.name}</p>} */}
+
               <p><a href="https://madamnazar.io/" target="_blank" rel="noopener noreferrer">data from madamnazar.io</a></p>
             </div>
             {/* <Link to="/">Go back to the homepage</Link> */}
