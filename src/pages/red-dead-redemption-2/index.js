@@ -49,11 +49,15 @@ const RedDeadRedemption2Page = class extends React.Component {
               </ul>
             </div>
           
-            <div className="">
+            <div className="madamnazar">
               {fetchedData && <p>{fetchedData.dataFor}</p>}
               {fetchedData && <p>{fetchedData.data.location.region.name}</p>}
               {fetchedData && <p>{fetchedData.data.location.region.precise}</p>}
 
+              {fetchedData && <p>{fetchedData.data.location.cardinals.full}</p>}
+              {fetchedData && <p>{fetchedData.data.location.cardinals.simplified}</p>}
+
+              
               {fetchedData && <img src={fetchedData.data.location.image} alt="{fetchedData.data.location.region.name}" />}
               
               {fetchedData && <p>{fetchedData.data.name}</p>}

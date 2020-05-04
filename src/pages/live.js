@@ -8,26 +8,26 @@ import SEO from "../components/seo"
 
 const LivePage = () => {
 
-  const dataTwitch = useStaticQuery(graphql`
-    {
-      twitchuser {
-        display_name
-        description
-        profile_image_url
-      }
-      allTwitchvideo {
-        edges {
-          node {
-            title
-            url
-            type
-          }
-        }
-      }
-    }
-  `)
+  // const dataTwitch = useStaticQuery(graphql`
+  //   {
+  //     twitchuser {
+  //       display_name
+  //       description
+  //       profile_image_url
+  //     }
+  //     allTwitchvideo {
+  //       edges {
+  //         node {
+  //           title
+  //           url
+  //           type
+  //         }
+  //       }
+  //     }
+  //   }
+  // `)
 
-  console.log(dataTwitch);
+  // console.log(dataTwitch);
   // console.log(dataTwitchVideo);
   
   return (
