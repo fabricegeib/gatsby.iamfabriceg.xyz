@@ -1383,6 +1383,7 @@
     },
 {
         "name":"Prehistoric Izza",
+        "rarity":"legendary",
         "class":"constructor",
         "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-027-DinoConstructor-SR-T01-L.png",
         "classPerks" : [

@@ -68,9 +68,6 @@ module.exports.createPages = async ({ graphql, actions }) => {
 
 
 
-const axios = require('axios');
-const fetchMadamNazar = () => axios.get(`https://madam-nazar-location-api-2.herokuapp.com/location/current`);
-
 
 // exports.createPages = async ({ actions: {createPage}, graphql }) => {
 //   const results = await graphql(`
