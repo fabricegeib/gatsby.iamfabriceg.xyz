@@ -55,7 +55,7 @@ const LivePage = () => {
 
       {/* <img src="{dataTwitch.twitchuser.profile_image_url}" /> */}
 
-      <div className="allTwitchVideos">
+      {/* <div className="allTwitchVideos">
         {dataTwitch.allTwitchvideo.edges.map(({ node }, index) => (
         <div className="twitchVideo" key={index}>
 
@@ -63,10 +63,11 @@ const LivePage = () => {
           <a href={node.url} rel="noopener noreferrer" target="_blank">link</a>
           <p>{node.type}</p>
 
-          {/* https://player.twitch.tv/?autoplay=false&video=v423873880 */}
         </div>
         ))}
-      </div>
+      </div> */}
+
+       {/* https://player.twitch.tv/?autoplay=false&video=v423873880 */}
     </Layout>
   )
 }

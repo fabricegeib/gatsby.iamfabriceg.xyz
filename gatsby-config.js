@@ -37,6 +37,7 @@ module.exports = {
     },
     `gatsby-transformer-csv`,
     `gatsby-plugin-sass`,
+    `gatsby-plugin-sitemap`,
     `gatsby-transformer-json`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
@@ -67,13 +68,12 @@ module.exports = {
         // cookieDomain: "iamfabriceg.xyz",
       },
     },
-    {
-      resolve: `gatsby-source-twitch`,
-      options: {
-        userID: '108366345',
-        clientID: '67vt473r3v8co5fv6lnoabcd32d0q0'
-      },
-    },
-    `gatsby-plugin-sitemap`,
+    // {
+    //   resolve: `gatsby-source-twitch`,
+    //   options: {
+    //     userID: '108366345',
+    //     clientID: '67vt473r3v8co5fv6lnoabcd32d0q0'
+    //   },
+    // },
   ],
 }
