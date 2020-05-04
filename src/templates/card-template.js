@@ -13,6 +13,7 @@ export const query = graphql`
             nameFr
             rarity
             class
+            perk
             classPerks {
                 perk
                 text
@@ -74,6 +75,7 @@ const CardTemplate = (props) => {
                             <h3>{props.data.heroesJson.rarity} | <span className="hero__class">{props.data.heroesJson.class}</span></h3>
 
                             <h3 className="hero__title">{props.data.heroesJson.name}</h3>
+                            <h3 className="">{props.data.heroesJson.nameFr}</h3>
                             
                             <div className="heroCard" data-rarity={props.data.heroesJson.rarity}>
                                 <Image
@@ -91,6 +93,9 @@ const CardTemplate = (props) => {
                         </div>
 
                         <div className="hero-informations">
+                            <h4 className="hero__ability">Perk</h4>
+                            <p>{props.data.heroesJson.perk}</p>
+
                             <h4 className="hero__ability">Avantage Standard</h4>
                             <p>{props.data.heroesJson.standardPerk}</p>
 

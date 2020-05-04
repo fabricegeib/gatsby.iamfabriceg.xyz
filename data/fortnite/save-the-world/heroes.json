@@ -1,6 +1,7 @@
 [
     {
         "name":"Controller Harper Uncommon",
+        "nameFr":"Harper, contrôleuse",
         "slug": "controller-harper-unncommon",
         "rarity":"uncommon",
         "class":"constructor",
@@ -32,6 +33,7 @@
     },
 {
         "name":"Controller Harper Rare",
+        "nameFr":"Harper, contrôleuse",
         "rarity":"rare",
         "class":"constructor",
         "type":"heroes",
@@ -916,7 +918,8 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Warden Kyle",
+        "rarity":"rare",
         "class":"constructor",
         "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-013-R-T01-L.png",
         "classPerks" : [
@@ -959,7 +962,8 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Warden Kyle",
+        "rarity":"uncommon",
         "class":"constructor",
         "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-013-UC-T01-L.png",
         "classPerks" : [
@@ -980,7 +984,8 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Warden Kyle",
+        "rarity":"epic",
         "class":"constructor",
         "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-013-VR-T01-L.png",
         "classPerks" : [
@@ -1001,17 +1006,18 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Riot Control Izza",
+        "rarity":"legendary",
         "class":"constructor",
         "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-014-F-SR-T01-L.png",
         "classPerks" : [
             {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
             {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
         ],
-        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlock":"Plasma Pulse Blast",
         "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
-        "perk":"Mega BASE",
-        "standardPerk":"Increases B.A.S.E. connectivity range by 1.",
+        "perk":"Plasma Pulse Blast",
+        "standardPerk":"When Plasma Pulse is placed, it deals 43 base Energy Damage to enemies in a 1 tile Radius.",
         "commanderPerk":"Increases B.A.S.E. connectivity range by 3.",
         "abilities": [
             { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
