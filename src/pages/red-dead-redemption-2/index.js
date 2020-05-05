@@ -28,7 +28,7 @@ const RedDeadRedemption2Page = class extends React.Component {
 
   render() {
 
-    const {loading, fetchedData} = this.state
+    const {fetchedData} = this.state
     console.log(fetchedData)
 
     return (
