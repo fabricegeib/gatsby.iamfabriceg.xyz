@@ -49,6 +49,12 @@
 
 ---
 
+heroes (missing) :
+- constructor (verify on soldier)
+    - holidays heroes - sgt. tank gatling
+
+---
+
 color bg : 091837 / 0d2143 / 0a2c5f
 
 ---

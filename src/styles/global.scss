@@ -21,7 +21,7 @@ $rare-color: #0B9DE0;
 $epic-color: #B056E9;
 $legendary-color: #E2854B;
 $mythic-color: #b5a55d;
-$yellow-fn-color: #fff408;
+$yellow-fn-color: #ffeb3b; /* ffeb3b */ /* original : fff408 */
 $starwars-color: #fbe51d;
 
 body {
@@ -110,13 +110,15 @@ ul {
 }
 
 .fortnite {
-    background-color: #0a2c5f;
-    color: $white-color;
+    // background-color: #0a2c5f;
+    // color: $white-color;
+    color: $black-color;
     a {
-        color: $white-color;
+        color: $black-color;
     }
     h3, h4 {
         color: $yellow-fn-color;
+        // text-shadow: 1px 1px 2px #0a2c5f;
         font-family: $font-burbank-bold;
     }
     &_battle-royale {
