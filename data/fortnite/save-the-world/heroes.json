@@ -1059,7 +1059,7 @@
             { "own":"1"},
             { "collect":"0" }
         ],
-        "image":"",
+        "image":"./images/heroes/soldier/T-Soldier-HID-288-Athena-Commando-M-IceKing-L.png",
         "classPerks" : [
             {"perk":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
             {"perk":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
