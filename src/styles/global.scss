@@ -90,6 +90,9 @@ ul {
     margin: 0 auto 24px;
     max-width: 1200px;
     padding: 48px 1.0875rem 1.45rem;
+
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
     // padding-top: 0;
     @media only screen and (max-width: 601px) {
 		// padding: 0 0.33rem 1.45rem;
