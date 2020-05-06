@@ -69,6 +69,7 @@ ul {
     width: 100%;
     top: 0;
     z-index: 10;
+    
     &__container {
         margin: 0 auto;
         max-width: 1200px;
@@ -90,6 +91,7 @@ ul {
     margin: 0 auto 24px;
     max-width: 1200px;
     padding: 48px 1.0875rem 1.45rem;
+
     // padding-top: 0;
     @media only screen and (max-width: 601px) {
 		// padding: 0 0.33rem 1.45rem;
@@ -663,9 +665,9 @@ ul {
 }
 
 footer {
-    margin: 24px auto 0;
-    max-width: 1200px;
-    padding: 0 1.0875rem 1.45rem;
+    // margin: 24px auto 0;
+    // max-width: 1200px;
+    // padding: 0 1.0875rem 1.45rem;
     & a {
         color: $primary-color;
         &:hover {

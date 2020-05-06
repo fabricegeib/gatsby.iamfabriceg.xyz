@@ -3,7 +3,7 @@ import { Link } from "gatsby"
 import React from "react"
 
 const Footer = ({ siteTitle }) => (
-    <footer>
+    <footer className="container">
         {/* <p><Link to="/page-2/">Go to page 2</Link></p> */}
         {/* <p><Link to="/live/">Go to live</Link></p> */}
         <div id="about">
