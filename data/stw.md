@@ -51,7 +51,9 @@
 
 heroes (missing) :
 - constructor (verify on soldier)
-    - holidays heroes - sgt. tank gatling
+    
+
+
 
 ---
 

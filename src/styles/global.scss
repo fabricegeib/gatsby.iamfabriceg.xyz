@@ -1,3 +1,9 @@
+// BEM 
+// block-name
+// block-name_modifier_name
+// block-name__element-name
+// block-name__element-name_modifier_name
+
 $font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
 $font-burbank-black: 'BurbankBigRegular-Black', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -21,7 +27,7 @@ $rare-color: #0B9DE0;
 $epic-color: #B056E9;
 $legendary-color: #E2854B;
 $mythic-color: #b5a55d;
-$yellow-fn-color: #ffeb3b; /* ffeb3b */ /* original : fff408 */
+$yellow-fn-color: #fff408; /* ffeb3b */ /* original : fff408 */
 $starwars-color: #fbe51d;
 
 body {
@@ -101,7 +107,9 @@ ul {
         padding: 48px 1.0875rem 1rem;
     }
     .breadcrumb {
-        
+        a, a:visited {
+            color: $white-color;
+        }
     }
     .title {
         font-family: $font-burbank-bold;
@@ -110,16 +118,26 @@ ul {
 }
 
 .fortnite {
-    // background-color: #0a2c5f;
-    // color: $white-color;
-    color: $black-color;
+    background-color: #0a2c5f;
+    color: $white-color;
+    // color: $black-color;
     a {
-        color: $black-color;
+        // color: $black-color;
     }
-    h3, h4 {
-        color: $yellow-fn-color;
-        // text-shadow: 1px 1px 2px #0a2c5f;
-        font-family: $font-burbank-bold;
+    ul {
+        &.links {
+            & li {
+                & a {
+                    color: $white-color;
+                    // color: #abd8f4;
+                    text-decoration: none;
+                    &:hover {
+                        color: $white-color;
+                        text-decoration: underline;
+                    }
+                }
+            }
+        }
     }
     &_battle-royale {
         // background-color: #0a2c5f;
@@ -129,6 +147,39 @@ ul {
         .heroCard {
             p {
                 margin-bottom: 0;
+            }
+        }
+    }
+    .hero_page {
+        .hero-informations {
+            &__title {
+                margin-bottom: 6px;
+                color: $yellow-fn-color;
+                // text-shadow: 1px 1px 2px #0a2c5f;
+                // font-family: $font-burbank-bold;
+                text-transform: uppercase;
+            }
+            &__block {
+                background-color: #0f2445;
+                margin-bottom: 6px;
+                padding: 12px;
+                &__title {
+                    font-family: $font-burbank-bold;
+                    // font-size: 1.2rem;
+                    margin-bottom: 6px;
+                }
+            }
+            &__subblock {
+                display: grid;
+                grid-template-columns: 48px auto;
+                align-items: center;
+                &:not(:last-of-type) {
+                    margin-bottom: 24px;
+                }
+                h4 {
+                    // color: $white-color;
+                    margin-bottom: 6px;
+                }
             }
         }
     }
@@ -224,6 +275,14 @@ ul {
     background-size: 100%;
     background-position: center;
 }
+[data-perk='Grease The Wheels'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/perks/constructor/Icon-Constructor-GreaseTheWheels-128_2.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
 [data-class='Kinetic Overload'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/classPerks/Icon-Constructor-KineticOverload-128.webp);
@@ -235,6 +294,46 @@ ul {
 [data-class='B.A.S.E'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/classPerks/Icon-Constructor-BASE-128.webp);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+[data-ability='bull-rush'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/abilities/constructor/bull-rush.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+[data-ability='decoy'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/abilities/constructor/decoy.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+[data-ability='goin-constructor'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/abilities/constructor/goin-constructor.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+[data-ability='plasma-pulse'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/abilities/constructor/plasma-pulse.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+[data-ability='rosie'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/abilities/constructor/rosie.png);
     width: 36px;
     height: 36px;
     background-size: 100%;
@@ -310,6 +409,7 @@ ul {
         // transform: scale(1.05);
     }
 
+    // change .heroCard when .hero_page is parent
     .hero_page & {
         width: calc(100% - 24px);
         height: auto;
@@ -399,12 +499,6 @@ ul {
     }
 }
 
-.heroe-container {
-    display: grid;
-    grid-template-columns: 50% 50%;
-    grid-template-rows: 1fr;
-}
-
 .hero {
     &_page {
         
@@ -414,7 +508,15 @@ ul {
         grid-template-columns: 33.333% 66.666%;
         grid-template-rows: 1fr;
         @media only screen and (max-width: 619px) {
-            grid-template-columns: 50% 50%;
+            grid-template-columns: none;
+            .hero {
+                &-left {
+                    margin-bottom: 6px;
+                    .heroCard {
+                        width: 100%;
+                    }
+                }
+            }
         }
     }
     &__title {
@@ -438,9 +540,6 @@ ul {
             font-family: $font-burbank-bold;
             // margin-bottom: 0.25rem;
 
-        }
-        .hero__ability {
-            margin-bottom: 0.25rem;
         }
     }
 }

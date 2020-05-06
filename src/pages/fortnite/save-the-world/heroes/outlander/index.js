@@ -43,7 +43,7 @@ const OutlanderPage = () => {
         <SEO title="Fortnite Save The World - Heroes : Outlander" />
         <div className="fortnite">
             <div className="container">
-                <p>
+                <p className="breadcrumb">
                     <Link to="/fortnite/">Fortnite</Link> > <Link to="/fortnite/save-the-world/">Save The World</Link >
                 </p>
 
