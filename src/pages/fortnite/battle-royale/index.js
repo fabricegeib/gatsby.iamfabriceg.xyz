@@ -15,17 +15,36 @@ const BattleRoyalePage = class extends React.Component {
   }
 
   componentDidMount() {
+
+    // // Replace ./data.json with your JSON feed
+    // fetch('./data.json')
+    //   .then(response => {
+    //     return response.json()
+    //   })
+    //   .then(data => {
+    //     // Work with JSON data here
+    //     console.log(data)
+    //   })
+    //   .catch(err => {
+    //     // Do something for an error here
+    //   })
+
     fetch('https://fortnite-api.com/v2/shop/br')
       .then(response => {
         // console.log(response);
         return response.json()
-      }).then(json => {
-        console.log(json)
+      }).then(data => {
+         // Work with JSON data here
+        console.log(data)
         this.setState({
-          fetchedShop: json,
+          fetchedShop: data,
           loading: false
         })
       })
+      .catch(err => {
+        // Do something for an error here
+      })
+
     
     // fetch('https://fortnite-api.com/v2/shop/br')
     //   .then(response => {
@@ -57,279 +76,109 @@ const BattleRoyalePage = class extends React.Component {
           <p>Drop in to new world (PvP)</p>
 
           <div className="fortnite_battle-royale_shop">
-            <h3>Daily Shop</h3>
-            <div className="heroesCards">
-            {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.daily.entries[0].items[0].rarity.value}>
-                <div>
-                  <img src={fetchedShop.data.daily.entries[0].items[0].images.icon} alt={fetchedShop.data.daily.entries[0].items[0].name}/>
-                </div>
 
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.daily.entries[0].items[0].name}</p>
-                  <p>{fetchedShop.data.daily.entries[0].items[0].type.value}</p>
-                </div>
+            {/* fetchedShop.data.daily.entries - (c'est lui qui a plusieurs entrées) */}
 
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.daily.entries[0].finalPrice}</p>
-                </div>
-              </div>}
+            {fetchedShop && <div className="fortnite_battle-royale_shop-daily">
+              <h3>Daily Shop</h3>
+            
+              <div className="heroesCards">
+                {
+                  fetchedShop.data.daily.entries.map((entry, i) => {
+                    return (
+                      <div className="heroCard" key={i} data-rarity={entry.items[0].rarity.value}>
+                        <div>
+                          
+                          {/* {entry.roles.map(function (role, i) { 
+                            return <div key={i}>
+                              <h5>{role.title}</h5>
+                              <span>{role.startDate}</span>
+                              <span>{role.location}</span>
+                              <p>{role.description}</p>
+                            </div>
+                          })} */}
 
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.daily.entries[1].items[0].rarity.value}>
-                <img src={fetchedShop.data.daily.entries[1].items[0].images.icon} alt={fetchedShop.data.daily.entries[1].items[0].name}/>
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.daily.entries[1].finalPrice} Vbucks</p>
-                </div>
+                          <img src={entry.items[0].images.icon} alt={entry.items[0].name}/>
+                          
+                          {/* <a href={entry.url}>
+                            <img src={entry.logo} alt={entry.companyName} />
+                          </a> */}
 
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.daily.entries[1].items[0].name}</p>
-                </div>
-              </div>}
+                          {/* <a href={entry.url}>{entry.companyName}</a> */}
+                        </div>
+                        
+                        <div className="heroCard__overlay">
+                          <p>{entry.items[0].name}</p>
+                        </div>
 
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.daily.entries[2].items[0].rarity.value}>
-                <img src={fetchedShop.data.daily.entries[2].items[0].images.icon} alt={fetchedShop.data.daily.entries[2].items[0].name}/>
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.daily.entries[2].finalPrice} Vbucks</p>
-                </div>
+                        <div className="heroCard__bottom">
+                          <p>{entry.regularPrice}</p>
+                        </div>
+                      </div>
+                    );
+                  })
+                }
+              </div>
+            </div>}
 
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.daily.entries[2].items[0].name}</p>
-                </div>
-              </div>}
+            {fetchedShop && <div className="fortnite_battle-royale_shop-daily">
+              <h3>Featured Shop</h3>
+            
+              <div className="heroesCards">
+                {
+                  fetchedShop.data.featured.entries.map((entry, i) => {
+                    return (
+                      <div className="heroCard" key={i} data-rarity={entry.items[0].rarity.value}>
+                        <div>
+                          
+                          {/* {entry.roles.map(function (role, i) { 
+                            return <div key={i}>
+                              <h5>{role.title}</h5>
+                              <span>{role.startDate}</span>
+                              <span>{role.location}</span>
+                              <p>{role.description}</p>
+                            </div>
+                          })} */}
 
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.daily.entries[3].items[0].rarity.value}>
-                <img src={fetchedShop.data.daily.entries[3].items[0].images.icon} alt={fetchedShop.data.daily.entries[3].items[0].name}/>
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.daily.entries[3].finalPrice} Vbucks</p>
-                </div>
+                          <img src={entry.items[0].images.icon} alt={entry.items[0].name}/>
+                          
+                          {/* <a href={entry.url}>
+                            <img src={entry.logo} alt={entry.companyName} />
+                          </a> */}
 
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.daily.entries[3].items[0].name}</p>
-                </div>
-              </div>}
+                          {/* <a href={entry.url}>{entry.companyName}</a> */}
+                        </div>
+                        
+                        <div className="heroCard__overlay">
+                          <p>{entry.items[0].name}</p>
+                        </div>
 
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.daily.entries[4].items[0].rarity.value}>
-                <img src={fetchedShop.data.daily.entries[4].items[0].images.icon} alt={fetchedShop.data.daily.entries[4].items[0].name}/>
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.daily.entries[4].finalPrice} Vbucks</p>
-                </div>
-
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.daily.entries[4].items[0].name}</p>
-                </div>
-              </div>}
-
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.daily.entries[5].items[0].rarity.value}>
-                <img src={fetchedShop.data.daily.entries[5].items[0].images.icon} alt={fetchedShop.data.daily.entries[5].items[0].name}/>
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.daily.entries[5].finalPrice} Vbucks</p>
-                </div>
-
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.daily.entries[5].items[0].name}</p>
-                </div>
-              </div>}
-            </div>
-
-
-            {/* <h3>Featured Shop</h3>
-            <div className="heroesCards">
-            {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.featured.entries[0].items[0].rarity.value}>
-                <img src={fetchedShop.data.featured.entries[0].items[0].images.icon} />
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.featured.entries[0].finalPrice} Vbucks</p>
-                </div>
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.featured.entries[0].items[0].name}</p>
-                </div>
-              </div>}
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.featured.entries[1].items[0].rarity.value}>
-                <img src={fetchedShop.data.featured.entries[1].items[0].images.icon} />
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.featured.entries[1].finalPrice} Vbucks</p>
-                </div>
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.featured.entries[1].items[0].name}</p>
-                </div>
-              </div>}
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.featured.entries[2].items[0].rarity.value}>
-                <img src={fetchedShop.data.featured.entries[2].items[0].images.icon} />
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.featured.entries[2].finalPrice} Vbucks</p>
-                </div>
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.featured.entries[2].items[0].name}</p>
-                </div>
-              </div>}
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.featured.entries[3].items[0].rarity.value}>
-                <img src={fetchedShop.data.featured.entries[3].items[0].images.icon} />
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.featured.entries[3].finalPrice} Vbucks</p>
-                </div>
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.featured.entries[3].items[0].name}</p>
-                </div>
-              </div>}
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.featured.entries[4].items[0].rarity.value}>
-                <img src={fetchedShop.data.featured.entries[4].items[0].images.icon} />
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.featured.entries[4].finalPrice} Vbucks</p>
-                </div>
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.featured.entries[4].items[0].name}</p>
-                </div>
-              </div>}
-
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.featured.entries[5].items[0].rarity.value}>
-                <img src={fetchedShop.data.featured.entries[5].items[0].images.icon} />
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.featured.entries[5].finalPrice} Vbucks</p>
-                </div>
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.featured.entries[5].items[0].name}</p>
-                </div>
-              </div>}
-
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.featured.entries[6].items[0].rarity.value}>
-                <img src={fetchedShop.data.featured.entries[6].items[0].images.icon} />
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.featured.entries[6].finalPrice} Vbucks</p>
-                </div>
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.featured.entries[6].items[0].name}</p>
-                </div>
-              </div>}
-
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.featured.entries[7].items[0].rarity.value}>
-                <img src={fetchedShop.data.featured.entries[7].items[0].images.icon} />
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.featured.entries[7].finalPrice} Vbucks</p>
-                </div>
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.featured.entries[7].items[0].name}</p>
-                </div>
-              </div>}
-
-              
-            </div>
-
-            <h3>Special Featured Shop</h3>
-            <div className="heroesCards">
-            {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.specialFeatured.entries[0].items[0].rarity.value}>
-                <img src={fetchedShop.data.specialFeatured.entries[0].items[0].images.icon} />
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.specialFeatured.entries[0].finalPrice} Vbucks</p>
-                </div>
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.specialFeatured.entries[0].items[0].name}</p>
-                </div>
-              </div>}
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.specialFeatured.entries[1].items[0].rarity.value}>
-                <img src={fetchedShop.data.specialFeatured.entries[1].items[0].images.icon} />
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.specialFeatured.entries[1].finalPrice} Vbucks</p>
-                </div>
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.specialFeatured.entries[1].items[0].name}</p>
-                </div>
-              </div>}
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.specialFeatured.entries[2].items[0].rarity.value}>
-                <img src={fetchedShop.data.specialFeatured.entries[2].items[0].images.icon} />
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.specialFeatured.entries[2].finalPrice} Vbucks</p>
-                </div>
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.specialFeatured.entries[2].items[0].name}</p>
-                </div>
-              </div>}
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.specialFeatured.entries[3].items[0].rarity.value}>
-                <img src={fetchedShop.data.specialFeatured.entries[3].items[0].images.icon} />
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.specialFeatured.entries[3].finalPrice} Vbucks</p>
-                </div>
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.specialFeatured.entries[3].items[0].name}</p>
-                </div>
-              </div>}
-
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.specialFeatured.entries[4].items[0].rarity.value}>
-                <img src={fetchedShop.data.specialFeatured.entries[4].items[0].images.icon} />
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.specialFeatured.entries[4].finalPrice} Vbucks</p>
-                </div>
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.specialFeatured.entries[4].items[0].name}</p>
-                </div>
-              </div>}
-
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.specialFeatured.entries[5].items[0].rarity.value}>
-                <img src={fetchedShop.data.specialFeatured.entries[5].items[0].images.icon} />
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.specialFeatured.entries[5].finalPrice} Vbucks</p>
-                </div>
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.specialFeatured.entries[5].items[0].name}</p>
-                </div>
-              </div>}
-
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.specialFeatured.entries[5].items[0].rarity.value}>
-                <img src={fetchedShop.data.specialFeatured.entries[6].items[0].images.icon} />
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.specialFeatured.entries[6].finalPrice} Vbucks</p>
-                </div>
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.specialFeatured.entries[6].items[0].name}</p>
-                </div>
-              </div>}
-
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.specialFeatured.entries[7].items[0].rarity.value}>
-                <img src={fetchedShop.data.specialFeatured.entries[7].items[0].images.icon} />
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.specialFeatured.entries[7].finalPrice} Vbucks</p>
-                </div>
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.specialFeatured.entries[7].items[0].name}</p>
-                </div>
-              </div>}
-
-              {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.specialFeatured.entries[8].items[0].rarity.value}>
-                <img src={fetchedShop.data.specialFeatured.entries[8].items[0].images.icon} />
-              
-                <div className="heroCard__overlay">
-                  <p>{fetchedShop.data.specialFeatured.entries[8].finalPrice} Vbucks</p>
-                </div>
-                <div className="heroCard__bottom">
-                  <p>{fetchedShop.data.specialFeatured.entries[8].items[0].name}</p>
-                </div>
-              </div>}
-            </div> */}
+                        <div className="heroCard__bottom">
+                          <p>{entry.regularPrice}</p>
+                        </div>
+                      </div>
+                    );
+                  })
+                }
+              </div>
+            </div>}
+            
+            {/* <img src={fetchedShop.data.daily.entries[0].items[0].images.icon} 
+                 alt={fetchedShop.data.daily.entries[0].items[0].name}
+            />
           
+            <p>{fetchedShop.data.daily.entries[0].items[0].name}</p>
+            <p>{fetchedShop.data.daily.entries[0].items[0].type.value}</p>
+          
+            <p>{fetchedShop.data.daily.entries[0].finalPrice}</p> */}
+               
+
             <div className="xxx">
                 <h3>My squad</h3>
                 <ul>
                   {/* <li><Link to="/fortnite/save-the-world/">Save the World</Link></li> */}
                   <li>
-                    <a class="link skidip" href="https://skidip.team" rel="noopener noreferrer" target="_blank">skidip.team</a>
+                    <a className="link skidip" href="https://skidip.team" rel="noopener noreferrer" target="_blank">skidip.team</a>
                   </li>
                 </ul>
             </div>
