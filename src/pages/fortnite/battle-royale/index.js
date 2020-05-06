@@ -42,7 +42,7 @@ const BattleRoyalePage = class extends React.Component {
 
   render() {
 
-    const {loading, fetchedShop} = this.state
+    const {fetchedShop} = this.state
     console.log(fetchedShop)
 
     return (
@@ -61,7 +61,7 @@ const BattleRoyalePage = class extends React.Component {
             <div className="heroesCards">
             {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.daily.entries[0].items[0].rarity.value}>
                 <div>
-                  <img src={fetchedShop.data.daily.entries[0].items[0].images.icon} />
+                  <img src={fetchedShop.data.daily.entries[0].items[0].images.icon} alt={fetchedShop.data.daily.entries[0].items[0].name}/>
                 </div>
 
                 <div className="heroCard__overlay">
@@ -75,7 +75,7 @@ const BattleRoyalePage = class extends React.Component {
               </div>}
 
               {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.daily.entries[1].items[0].rarity.value}>
-                <img src={fetchedShop.data.daily.entries[1].items[0].images.icon} />
+                <img src={fetchedShop.data.daily.entries[1].items[0].images.icon} alt={fetchedShop.data.daily.entries[1].items[0].name}/>
               
                 <div className="heroCard__overlay">
                   <p>{fetchedShop.data.daily.entries[1].finalPrice} Vbucks</p>
@@ -87,7 +87,7 @@ const BattleRoyalePage = class extends React.Component {
               </div>}
 
               {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.daily.entries[2].items[0].rarity.value}>
-                <img src={fetchedShop.data.daily.entries[2].items[0].images.icon} />
+                <img src={fetchedShop.data.daily.entries[2].items[0].images.icon} alt={fetchedShop.data.daily.entries[2].items[0].name}/>
               
                 <div className="heroCard__overlay">
                   <p>{fetchedShop.data.daily.entries[2].finalPrice} Vbucks</p>
@@ -99,7 +99,7 @@ const BattleRoyalePage = class extends React.Component {
               </div>}
 
               {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.daily.entries[3].items[0].rarity.value}>
-                <img src={fetchedShop.data.daily.entries[3].items[0].images.icon} />
+                <img src={fetchedShop.data.daily.entries[3].items[0].images.icon} alt={fetchedShop.data.daily.entries[3].items[0].name}/>
               
                 <div className="heroCard__overlay">
                   <p>{fetchedShop.data.daily.entries[3].finalPrice} Vbucks</p>
@@ -111,7 +111,7 @@ const BattleRoyalePage = class extends React.Component {
               </div>}
 
               {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.daily.entries[4].items[0].rarity.value}>
-                <img src={fetchedShop.data.daily.entries[4].items[0].images.icon} />
+                <img src={fetchedShop.data.daily.entries[4].items[0].images.icon} alt={fetchedShop.data.daily.entries[4].items[0].name}/>
               
                 <div className="heroCard__overlay">
                   <p>{fetchedShop.data.daily.entries[4].finalPrice} Vbucks</p>
@@ -123,7 +123,7 @@ const BattleRoyalePage = class extends React.Component {
               </div>}
 
               {fetchedShop && <div className="heroCard" data-rarity={fetchedShop.data.daily.entries[5].items[0].rarity.value}>
-                <img src={fetchedShop.data.daily.entries[5].items[0].images.icon} />
+                <img src={fetchedShop.data.daily.entries[5].items[0].images.icon} alt={fetchedShop.data.daily.entries[5].items[0].name}/>
               
                 <div className="heroCard__overlay">
                   <p>{fetchedShop.data.daily.entries[5].finalPrice} Vbucks</p>

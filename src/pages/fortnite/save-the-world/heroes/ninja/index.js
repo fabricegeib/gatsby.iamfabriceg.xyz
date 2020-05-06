@@ -43,7 +43,7 @@ const NinjaPage = () => {
         <SEO title="Fortnite Save The World - Heroes : Ninja" />
         <div className="fortnite">
             <div className="container">
-                <p>
+                <p className="breadcrumb">
                     <Link to="/fortnite/">Fortnite</Link> > <Link to="/fortnite/save-the-world/">Save The World</Link >
                 </p>
                 <h3>Ninja ({data.allHeroesJson.totalCount})</h3>
