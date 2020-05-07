@@ -52,9 +52,6 @@
 heroes (missing) :
 - constructor (verify on soldier)
     
-
-
-
 ---
 
 color bg : 091837 / 0d2143 / 0a2c5f
