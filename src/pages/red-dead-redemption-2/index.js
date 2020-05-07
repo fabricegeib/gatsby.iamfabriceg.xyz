@@ -63,7 +63,7 @@ const RedDeadRedemption2Page = class extends React.Component {
               
               {/* {fetchedData && <p>{fetchedData.data.name}</p>} */}
 
-              <p><a href="https://madamnazar.io/" target="_blank" rel="noopener noreferrer">data from madamnazar.io</a></p>
+              <p>data from <a href="https://madamnazar.io/" target="_blank" rel="noopener noreferrer">madamnazar.io</a></p>
             </div>
             {/* <Link to="/">Go back to the homepage</Link> */}
         </div>

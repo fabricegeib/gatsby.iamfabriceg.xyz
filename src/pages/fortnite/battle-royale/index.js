@@ -80,7 +80,7 @@ const BattleRoyalePage = class extends React.Component {
             {/* fetchedShop.data.daily.entries - (c'est lui qui a plusieurs entrées) */}
 
             {fetchedShop && <div className="fortnite_battle-royale_shop-daily">
-              <h3>Daily Shop</h3>
+              <h3 className="fnFont">Daily Shop</h3>
             
               <div className="heroesCards">
                 {
@@ -122,7 +122,7 @@ const BattleRoyalePage = class extends React.Component {
             </div>}
 
             {fetchedShop && <div className="fortnite_battle-royale_shop-daily">
-              <h3>Featured Shop</h3>
+              <h3 className="fnFont">Featured Shop</h3>
             
               <div className="heroesCards">
                 {
@@ -162,6 +162,8 @@ const BattleRoyalePage = class extends React.Component {
                 }
               </div>
             </div>}
+
+            <p>data from <a href="https://fortnite-api.com/" target="_blank" rel="noopener noreferrer">fortnite-api.com</a></p>
             
             {/* <img src={fetchedShop.data.daily.entries[0].items[0].images.icon} 
                  alt={fetchedShop.data.daily.entries[0].items[0].name}
@@ -175,12 +177,19 @@ const BattleRoyalePage = class extends React.Component {
 
             <div className="xxx">
                 <h3>My squad</h3>
-                <ul>
-                  {/* <li><Link to="/fortnite/save-the-world/">Save the World</Link></li> */}
+                <div className="cards">
+                  <a href="https://skidip.team" rel="noopener noreferrer" target="_blank">
+                    <div className="card creative">
+                      <h3>SKIDIP</h3>
+                    </div>
+                  </a>
+                </div>
+                {/* <ul>
+                  <li><Link to="/fortnite/save-the-world/">Save the World</Link></li>
                   <li>
                     <a className="link skidip" href="https://skidip.team" rel="noopener noreferrer" target="_blank">skidip.team</a>
                   </li>
-                </ul>
+                </ul> */}
             </div>
 
           </div>
