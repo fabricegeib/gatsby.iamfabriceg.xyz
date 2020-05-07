@@ -119,12 +119,21 @@ ul {
     }
 }
 
+.fnFont {
+    font-family: $font-burbank-bold;
+}
+
 .fortnite {
     background-color: #0a2c5f;
     color: $white-color;
     // color: $black-color;
     a {
         // color: $black-color;
+    }
+    .backArrow {
+        a {
+            color: $white-color;
+        }
     }
     ul {
         &.links {
@@ -145,6 +154,12 @@ ul {
         // background-color: #0a2c5f;
         img {
             margin-bottom: 0;
+        }
+        &_shop {
+            // margin-bottom: 24px;
+            &-daily {
+                margin-bottom: 24px;
+            }
         }
         .heroCard {
             p {
