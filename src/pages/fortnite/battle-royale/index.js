@@ -33,11 +33,11 @@ const BattleRoyalePage = class extends React.Component {
       .then(response => {
         // console.log(response);
         return response.json()
-      }).then(data => {
+      }).then(json => {
          // Work with JSON data here
-        console.log(data)
+        console.log(json)
         this.setState({
-          fetchedShop: data,
+          fetchedShop: json,
           loading: false
         })
       })
@@ -45,7 +45,6 @@ const BattleRoyalePage = class extends React.Component {
         // Do something for an error here
       })
 
-    
     // fetch('https://fortnite-api.com/v2/shop/br')
     //   .then(response => {
     //     // console.log(response);
@@ -78,6 +77,49 @@ const BattleRoyalePage = class extends React.Component {
           <div className="fortnite_battle-royale_shop">
 
             {/* fetchedShop.data.daily.entries - (c'est lui qui a plusieurs entrées) */}
+
+            {fetchedShop && <div className="fortnite_battle-royale_shop-daily">
+              <h3 className="fnFont">Special featured Shop</h3>
+            
+              <div className="heroesCards">
+                {
+                  fetchedShop.data.specialFeatured.entries.map((entry, i) => {
+                    return (
+                      <div className="heroCard" key={i} data-rarity={entry.items[0].rarity.value}>
+                        <div>
+                          
+                          {/* {entry.roles.map(function (role, i) { 
+                            return <div key={i}>
+                              <h5>{role.title}</h5>
+                              <span>{role.startDate}</span>
+                              <span>{role.location}</span>
+                              <p>{role.description}</p>
+                            </div>
+                          })} */}
+
+                          <img src={entry.items[0].images.icon} alt={entry.items[0].name}/>
+                          
+                          {/* <a href={entry.url}>
+                            <img src={entry.logo} alt={entry.companyName} />
+                          </a> */}
+
+                          {/* <a href={entry.url}>{entry.companyName}</a> */}
+                        </div>
+                        
+                        <div className="heroCard__overlay">
+                          <p className="fnFont">{entry.items[0].name}</p>
+                          <p>{entry.items[0].type.displayValue}</p>
+                        </div>
+
+                        <div className="heroCard__bottom">
+                          <p>{entry.regularPrice}</p>
+                        </div>
+                      </div>
+                    );
+                  })
+                }
+              </div>
+            </div>}
 
             {fetchedShop && <div className="fortnite_battle-royale_shop-daily">
               <h3 className="fnFont">Featured Shop</h3>

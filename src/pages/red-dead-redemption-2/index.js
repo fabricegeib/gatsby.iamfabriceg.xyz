@@ -13,7 +13,10 @@ const RedDeadRedemption2Page = class extends React.Component {
   }
 
   componentDidMount() {
-    fetch('https://madam-nazar-location-api-2.herokuapp.com/location/current')
+    // {`${process.env.MADAM_NAZAR_API_URL}/location/current`}
+    // {'${process.env.IMG_URL}'}
+    
+    fetch(`${process.env.MADAM_NAZAR_API_URL}/location/current`)
       .then(response => {
         // console.log(response);
         return response.json()
