@@ -72,12 +72,12 @@ module.exports = {
         // cookieDomain: "iamfabriceg.xyz",
       },
     },
-    // {
-    //   resolve: `gatsby-source-twitch`,
-    //   options: {
-    //     userID: '108366345',
-    //     clientID: '67vt473r3v8co5fv6lnoabcd32d0q0'
-    //   },
-    // },
+    {
+      resolve: `gatsby-source-twitch`,
+      options: {
+        userID: '108366345',
+        clientID: '67vt473r3v8co5fv6lnoabcd32d0q0'
+      },
+    },
   ],
 }

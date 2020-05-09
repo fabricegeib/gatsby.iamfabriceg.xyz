@@ -29,7 +29,7 @@ const BattleRoyalePage = class extends React.Component {
     //     // Do something for an error here
     //   })
 
-    fetch('https://fortnite-api.com/v2/shop/br')
+    fetch(`${process.env.FORTNITE_API_URL}`)
       .then(response => {
         // console.log(response);
         return response.json()
