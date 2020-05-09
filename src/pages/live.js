@@ -1,6 +1,6 @@
 import React from "react"
 // import { Link } from "gatsby"
-// import { graphql, useStaticQuery } from "gatsby"
+import { graphql, useStaticQuery } from "gatsby"
 
 import Layout from "../components/layout"
 // import Image from "../components/image"
@@ -8,24 +8,24 @@ import SEO from "../components/seo"
 
 const LivePage = () => {
 
-  // const dataTwitch = useStaticQuery(graphql`
-  //   {
-  //     twitchuser {
-  //       display_name
-  //       description
-  //       profile_image_url
-  //     }
-  //     allTwitchvideo {
-  //       edges {
-  //         node {
-  //           title
-  //           url
-  //           type
-  //         }
-  //       }
-  //     }
-  //   }
-  // `)
+  const dataTwitch = useStaticQuery(graphql`
+    {
+      twitchuser {
+        display_name
+        description
+        profile_image_url
+      }
+      allTwitchvideo {
+        edges {
+          node {
+            title
+            url
+            type
+          }
+        }
+      }
+    }
+  `)
 
   // console.log(dataTwitch);
   // console.log(dataTwitchVideo);
@@ -54,9 +54,9 @@ const LivePage = () => {
           <p className="xxx">{dataTwitch.twitchuser.profile_image_url}</p>
         </div> */}
 
-      {/* <img src="{dataTwitch.twitchuser.profile_image_url}" /> */}
+        {/* <img src={dataTwitch.twitchuser.profile_image_url} /> */}
 
-        {/* <div className="allTwitchVideos">
+        <div className="allTwitchVideos">
           {dataTwitch.allTwitchvideo.edges.map(({ node }, index) => (
           <div className="twitchVideo" key={index}>
 
@@ -66,7 +66,7 @@ const LivePage = () => {
 
           </div>
           ))}
-        </div> */}
+        </div>
 
        {/* https://player.twitch.tv/?autoplay=false&video=v423873880 */}
       </div>
