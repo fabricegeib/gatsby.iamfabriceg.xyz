@@ -1,15 +1,16 @@
-// import React from "react"     
+import React from "react"    
 
-// function CoolComponent({ adjective = 'Cool' }) {
-//   return <p>Youpi So {adjective} !</p>
+function CoolComponent({ adjective = 'Cool' }) {
+  return <p>Youpi So {adjective} !</p>
+}
+
+export default () => (
+  <div style={{ color: `purple`, fontSize: `18px` }}>
+    <CoolComponent adjective="awesome" />
+    <CoolComponent />
+  </div>
+)
+
+// export default function Home() {
+//   return <div>Hello Gatsby!</div>
 // }
-
-// const TestPage = () => (
-//   <div>
-//     <CoolComponent adjective="awesome" />
-//     <CoolComponent />
-//   </div>,
-//   document.getElementById('root')
-// )
-
-// export default TestPage

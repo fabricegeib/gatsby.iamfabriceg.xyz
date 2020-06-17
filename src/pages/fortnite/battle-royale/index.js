@@ -78,7 +78,7 @@ const BattleRoyalePage = class extends React.Component {
 
             {/* fetchedShop.data.daily.entries - (c'est lui qui a plusieurs entrées) */}
 
-            {fetchedShop && <div className="fortnite_battle-royale_shop-daily">
+            {fetchedShop.data.specialFeatured.entries.length > 0 && <div className="fortnite_battle-royale_shop-daily">
               <h3 className="fnFont">Special featured Shop</h3>
             
               <div className="heroesCards">
@@ -121,7 +121,7 @@ const BattleRoyalePage = class extends React.Component {
               </div>
             </div>}
 
-            {fetchedShop && <div className="fortnite_battle-royale_shop-daily">
+            {fetchedShop.length > 0 && <div className="fortnite_battle-royale_shop-daily">
               <h3 className="fnFont">Featured Shop</h3>
             
               <div className="heroesCards">
@@ -164,7 +164,7 @@ const BattleRoyalePage = class extends React.Component {
               </div>
             </div>}
 
-            {fetchedShop && <div className="fortnite_battle-royale_shop-daily">
+            {fetchedShop.length > 0 && <div className="fortnite_battle-royale_shop-daily">
               <h3 className="fnFont">Daily Shop</h3>
             
               <div className="heroesCards">
