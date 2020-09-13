@@ -2600,8 +2600,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Stonefoot Crash",
+        "rarity":"rare",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-008-R-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2624,8 +2626,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Stonefoot Crash",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-008-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2648,8 +2652,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Stonefoot Crash",
+        "rarity":"epic",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-008-VR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2672,8 +2678,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Snuggle Specialist Sarah",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-009-F-Valentine-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2696,8 +2704,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Skirmisher Edge",
+        "rarity":"rare",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-009-R-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2720,8 +2730,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Skirmisher Edge",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-009-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2744,8 +2756,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Skirmisher Edge",
+        "rarity":"epic",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-009-VR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2768,8 +2782,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Deadly Blade Crash",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-010-F-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2792,8 +2808,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Deadly Blade Crash",
+        "rarity":"epic",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-010-F-VR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2816,8 +2834,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Deadly Star Scorpion",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-010-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2826,10 +2846,10 @@
         "teamPerkUnlock":"Supercharged Traps",
         "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
         "perk": {
-            "standard":"Software",
-            "standardText":"Increases Hardware heavy attack efficiency by 65%",
-            "commander":"Software +",
-            "commanderText":"Increases Hardware heavy attack efficiency by 200%"
+            "standard":"Corrosive Stars",
+            "standardText":"Throwing Stars apply energy affliction dealing 3 base energy damage per second for 6 seconds. Stacks to a maximum of 3",
+            "commander":"Corrosive Stars +",
+            "commanderText":"Throwing Stars apply energy affliction dealing 9 base energy damage per second for 6 seconds. Stacks to a maximum of 3"
         },
         "abilities": [
             { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
@@ -2840,8 +2860,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Deadly Star Scorpion",
+        "rarity":"epic",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-010-VR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2850,10 +2872,10 @@
         "teamPerkUnlock":"Supercharged Traps",
         "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
         "perk": {
-            "standard":"Software",
-            "standardText":"Increases Hardware heavy attack efficiency by 65%",
-            "commander":"Software +",
-            "commanderText":"Increases Hardware heavy attack efficiency by 200%"
+            "standard":"Corrosive Stars",
+            "standardText":"Throwing Stars apply energy affliction dealing 3 base energy damage per second for 6 seconds. Stacks to a maximum of 3",
+            "commander":"Corrosive Stars +",
+            "commanderText":"Throwing Stars apply energy affliction dealing 9 base energy damage per second for 6 seconds. Stacks to a maximum of 3"
         },
         "abilities": [
             { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
@@ -2864,8 +2886,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Energy Thief Mari",
+        "rarity":"rare",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-011-R-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2888,8 +2912,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Energy Thief Mari",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-011-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2912,8 +2938,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Energy Thief Mari",
+        "rarity":"epic",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-011-VR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2936,8 +2964,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Alchemist Sarah Rare",
+        "rarity":"rare",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-013-R-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2960,8 +2990,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Alchemist Sarah Legendary",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-013-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -2984,8 +3016,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Alchemist Sarah Epic",
+        "rarity":"epic",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-013-VR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3008,8 +3042,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Thunderstrike Mari Legendary",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-014-F-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3032,8 +3068,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Scorch",
+        "rarity":"rare",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-014-R-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3056,8 +3094,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Scorch",
+        "rarity":"rare",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-014-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3080,8 +3120,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Scorch",
+        "rarity":"uncommon",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-014-UC-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3104,8 +3146,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Scorch",
+        "rarity":"epic",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-014-VR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3128,8 +3172,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Harvester Sarah",
+        "rarity":"rare",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-015-F-V1-R-T02-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3152,8 +3198,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Harvester Sarah Legendary",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-015-F-V1-SR-T02-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3176,8 +3224,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Harvester Sarah Uncommon",
+        "rarity":"uncommon",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-015-F-V1-UC-T02-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3200,8 +3250,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Harvester Sarah Epic",
+        "rarity":"epic",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-015-F-V1-VR-T02-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3224,8 +3276,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Deadly Lotus Luna",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-016-F-V1-SR-T02-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3248,8 +3302,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Piercing Lotus Edge",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-016-M-V1-VR-T02-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3272,8 +3328,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Infiltrator Ken",
+        "rarity":"rare",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-017-M-V1-R-T02-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3296,8 +3354,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Infiltrator Ken",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-017-M-V1-SR-T02-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3320,8 +3380,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Infiltrator Ken",
+        "rarity":"epic",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-017-M-V1-VR-T02-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3344,15 +3406,17 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Dire",
+        "rarity":"mythic",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-019-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
             {"title":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
         ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
+        "teamPerkUnlock":"HUNTER'S INSTINCT",
+        "teamPerkUnlockText":"FOR EACH: Hero of Epic or higher rarity with at least 4 stars Eliminations during evening or night grant 0.24% damage and 0.08% Melee Life Leech, up to 40 Stacks. These bonuses last until night ends.",
         "perk": {
             "standard":"Software",
             "standardText":"Increases Hardware heavy attack efficiency by 65%",
@@ -3368,8 +3432,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Lynx Kassandra",
+        "rarity":"mythic",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-023-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3392,8 +3458,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Anti Cuddle Sarah",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-024-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3416,8 +3484,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Swashbuckler Keelhaul",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-025-PirateNinja-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3426,22 +3496,24 @@
         "teamPerkUnlock":"Supercharged Traps",
         "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
         "perk": {
-            "standard":"Software",
-            "standardText":"Increases Hardware heavy attack efficiency by 65%",
-            "commander":"Software +",
-            "commanderText":"Increases Hardware heavy attack efficiency by 200%"
+            "standard":"SWASH",
+            "standardText":"Dealing Pistol Damage Increases Sword Damage by 22% for 6 seconds",
+            "commander":"SWASH +",
+            "commanderText":"Dealing Pistol Damage Increases Sword Damage by 65% for 6 seconds"
         },
         "abilities": [
             { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
             { "title":"Ford", "text":"c" },
             { "title":"Ford", "text":"c" }
         ],
-        "citation":"Only the biggest of BASEs.",
+        "citation":"Walk the Plank!",
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Dashing Hare Ken",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-027-BunnyNinja-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3464,8 +3536,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Paleo Luna",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-029-DinoNinja-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3488,8 +3562,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Intergalactic Ken",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-030-RetroSciFiNinja-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3512,8 +3588,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Varsity Hiro",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-031-RadNinja-SR-T01.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3536,8 +3614,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"The Cloaked Star",
+        "rarity":"mythic",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-Myth02-SR-T02-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3560,8 +3640,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Lotus Assassin Sarah",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreath-Founders-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3584,7 +3666,7 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Scorch",
         "class":"ninja",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreath-R-T01-L.png",
         "classPerks" : [
@@ -3608,7 +3690,7 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Scorch",
         "class":"ninja",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreath-SR-T01-L.png",
         "classPerks" : [
@@ -3632,7 +3714,7 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Scorch",
         "class":"ninja",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreath-VR-T01-L.png",
         "classPerks" : [
@@ -3656,8 +3738,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Sarah Hotep",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-SlashBreathHW-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3680,8 +3764,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Bluestreak Ken",
+        "rarity":"rare",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-SlashTail-R-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3704,8 +3790,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Fleetfoot Ken",
+        "rarity":"rare",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-SlashTail-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3728,8 +3816,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Fleetfoot Ken",
+        "rarity":"xxx",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-SlashTail-UC-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3752,8 +3842,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Fleetfoot Ken",
+        "rarity":"xxx",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-SlashTail-VR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3776,8 +3868,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Mari",
+        "rarity":"rare",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-SmokeDimMak-R-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3800,8 +3894,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Mari",
+        "rarity":"xxx",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-SmokeDimMak-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3824,8 +3920,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Mari",
+        "rarity":"xxx",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-SmokeDimMak-VR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3848,8 +3946,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Ken",
+        "rarity":"xxx",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-Sony-R-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3872,8 +3972,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Lotus Assassin Ken",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-Founders-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3896,8 +3998,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Assassin Sarah",
+        "rarity":"xxx",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-R-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3920,8 +4024,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Assassin Sarah",
+        "rarity":"xxx",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3944,8 +4050,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Assassin Sarah",
+        "rarity":"xxx",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-UC-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3968,8 +4076,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Assassin Sarah",
+        "rarity":"xxx",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-StarsAssassin-VR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -3992,8 +4102,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Shuriken Master Sarah",
+        "rarity":"xxx",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-StarsRain-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -4040,8 +4152,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Swift Shuriken Llamurai",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-StarsRainHW-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -4064,8 +4178,10 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Swordmaster Ken",
+        "rarity":"mythic",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-Swordmaster-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
@@ -4088,32 +4204,36 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena Commando M Cyberpunk-L",
+        "name":"Jade Assassin Sarah",
+        "rarity":"rare",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Ninja-HID-Ninja-XBOX-R-T01-L.png",
         "classPerks" : [
-            {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
-            {"title":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+            {"title":"Mantis Leap", "text":"Jump an additional time while airborne. Ninjas don't take fall damage."}, 
+            {"title":"Shadow Stance", "text":"After eliminating 1 enemy with melee weapons enter Shadow Stance for 4 seconds. Shadow Stance increases Armor by 60 and Movement Speed by 15%."}
         ],
         "teamPerkUnlock":"Supercharged Traps",
         "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
         "perk": {
-            "standard":"Software",
-            "standardText":"Increases Hardware heavy attack efficiency by 65%",
-            "commander":"Software +",
-            "commanderText":"Increases Hardware heavy attack efficiency by 200%"
+            "standard":"Assassination",
+            "standardText":"Dealing Melee Weapon Damage grants 1 stack of Assassination (up to 5 stacks). Assassination lasts 5 seconds and increases Melee Weapon Damage by 4.5%.",
+            "commander":"Assassination +",
+            "commanderText":"Dealing Melee Weapon Damage grants 1 stack of Assassination (up to 5 stacks). Assassination lasts 5 seconds and increases Melee Weapon Damage by 18%."
         },
         "abilities": [
-            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
-            { "title":"Ford", "text":"c" },
-            { "title":"Ford", "text":"c" }
+            { "title":"Dragon Slash", "text":"Dash forward, slashing enemies for 115 damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Smoke Bomb", "text":"Drop a smoke bomb which slows enemies and deals 52 damage per second." },
+            { "title":"Throwing Stars", "text":"Unleash a volley of throwing stars, which deal 87 damage." }
         ],
         "citation":"Only the biggest of BASEs.",
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
 {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Hybrid",
+        "rarity":"legendary",
         "class":"ninja",
+        "type":"heroes",
         "image":"./images/heroes/ninja/T-Variant-DragonNinja-V1-Green-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
