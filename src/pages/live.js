@@ -8,24 +8,24 @@ import SEO from "../components/seo"
 
 const LivePage = () => {
 
-  const dataTwitch = useStaticQuery(graphql`
-    {
-      twitchuser {
-        display_name
-        description
-        profile_image_url
-      }
-      allTwitchvideo {
-        edges {
-          node {
-            title
-            url
-            type
-          }
-        }
-      }
-    }
-  `)
+  // const dataTwitch = useStaticQuery(graphql`
+  //   {
+  //     twitchuser {
+  //       display_name
+  //       description
+  //       profile_image_url
+  //     }
+  //     allTwitchvideo {
+  //       edges {
+  //         node {
+  //           title
+  //           url
+  //           type
+  //         }
+  //       }
+  //     }
+  //   }
+  // `)
 
   // console.log(dataTwitch);
   // console.log(dataTwitchVideo);
@@ -56,7 +56,7 @@ const LivePage = () => {
 
         {/* <img src={dataTwitch.twitchuser.profile_image_url} /> */}
 
-        <div className="allTwitchVideos">
+        {/* <div className="allTwitchVideos">
           {dataTwitch.allTwitchvideo.edges.map(({ node }, index) => (
           <div className="twitchVideo" key={index}>
 
@@ -66,7 +66,7 @@ const LivePage = () => {
 
           </div>
           ))}
-        </div>
+        </div> */}
 
        {/* https://player.twitch.tv/?autoplay=false&video=v423873880 */}
       </div>
