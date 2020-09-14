@@ -7145,8 +7145,16 @@
         "citationFr":"Les grosses bases, y a que ça de vrai. "
     },
     {
-        "name":"Athena-Commando-M-IceKing-L",
+        "name":"Master Grenadier Ramirez",
+        "rarity":"mythic",
         "class":"soldier",
+        "collectionBook": {
+            "group":"heroes",
+            "subgroup":"soldiers",
+            "bloc":"Master Grenadier Ramirez",
+            "own":"2",
+            "collect":"1" 
+        },
         "image":"./images/heroes/soldier/T-Soldier-HID-Commando-GrenadeMaster-SR-T01-L.png",
         "classPerks" : [
             {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
