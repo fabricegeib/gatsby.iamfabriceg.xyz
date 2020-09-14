@@ -4782,18 +4782,30 @@
         },
         "skills": ["1", "2", "3"]
     }, {
-        "name":"Athena-Commando-M-Cyberpunk-L",
+        "name":"Ragnarok",
         "rarity":"mythic",
         "class":"outlander",
         "type":"heroes",
         "image":"./images/heroes/outlander/T-Outlander-HID-Outlander-Myth02-SR-T05-L.png",
+        "classPerks" : [
+            {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"title":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
         "perk": {
             "standard":"Software",
             "standardText":"Increases Hardware heavy attack efficiency by 65%",
             "commander":"Software +",
             "commanderText":"Increases Hardware heavy attack efficiency by 200%"
         },
-        "skills": ["1", "2", "3"]
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     }, {
         "name":"Athena-Commando-M-Cyberpunk-L",
         "nom":"xxx",
@@ -4932,13 +4944,25 @@
         "class":"outlander",
         "type":"heroes",
         "image":"./images/heroes/outlander/T-Outlander-HID-Outlander-ZoneFragment-SR-T01-L.png",
+        "classPerks" : [
+            {"title":"Kinetic Overload", "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."}, 
+            {"title":"B.A.S.E", "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."}
+        ],
+        "teamPerkUnlock":"Supercharged Traps",
+        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
         "perk": {
             "standard":"Software",
             "standardText":"Increases Hardware heavy attack efficiency by 65%",
             "commander":"Software +",
             "commanderText":"Increases Hardware heavy attack efficiency by 200%"
         },
-        "skills": ["1", "2", "3"]
+        "abilities": [
+            { "title":"Plasma Pulse", "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.", "cost":"40 energy", "cooldown":"45 seconds" },
+            { "title":"Ford", "text":"c" },
+            { "title":"Ford", "text":"c" }
+        ],
+        "citation":"Only the biggest of BASEs.",
+        "citationFr":"Les grosses bases, y a que ça de vrai. "
     }, {
         "name":"Athena-Commando-M-Cyberpunk-L",
         "nom":"xxx",
