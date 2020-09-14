@@ -24,6 +24,13 @@ export const query = graphql`
                 title
                 text
             }
+            collectionBook {
+                bloc
+                collect
+                group
+                own
+                subgroup
+            }
             abilities {
                 img
                 title
@@ -98,6 +105,14 @@ const CardTemplate = (props) => {
                                 <div className="heroCard__bottom">
                                     {/* <p className="hero__title">{props.data.heroesJson.name}</p> */}
                                 </div>
+                            </div>
+
+                            <div className="collection">
+                                <p>own : {props.data.heroesJson.collectionBook.own}</p>
+                                <p>collect : {props.data.heroesJson.collectionBook.collect}</p>
+                                {/* collectionBook.group
+                                collectionBook.subgroup
+                                collectionBook.bloc */}
                             </div>
                         </div>
 
