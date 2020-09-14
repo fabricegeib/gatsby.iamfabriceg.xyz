@@ -198,6 +198,10 @@ ul {
                     margin-bottom: 6px;
                 }
             }
+            h3 {
+                text-transform: uppercase;
+                font-size: 0.875rem;
+            }
         }
     }
 }
@@ -284,6 +288,14 @@ ul {
     background-size: 100%;
     background-position: center;
 }
+[data-perk='Bigger is better'], [data-perk='Bigger is better +'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/perks/soldier/Icon-Soldier-BiggerIsBetter-128.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
 .constructor, [data-class='constructor'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/class/T-Icon-Hero-Constructor-CARD.png);
@@ -292,7 +304,7 @@ ul {
     background-size: 100%;
     background-position: center;
 }
-[data-perk='Grease The Wheels'] {
+[data-perk='Grease The Wheels'], [data-perk='Grease The Wheels +'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/perks/constructor/Icon-Constructor-GreaseTheWheels-128_2.png);
     width: 36px;
@@ -359,6 +371,14 @@ ul {
 .ninja, [data-class='ninja'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/class/T-Icon-Hero-Ninja-CARD.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+[data-perk='Cascade'], [data-perk='Cascade +'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/perks/ninja/Icon-Ninja-Cascade-128.png);
     width: 36px;
     height: 36px;
     background-size: 100%;
