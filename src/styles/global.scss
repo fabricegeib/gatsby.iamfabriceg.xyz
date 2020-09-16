@@ -320,6 +320,14 @@ ul {
     background-size: 100%;
     background-position: center;
 }
+[data-perk='Swab The Deck'], [data-perk='Swab The Deck +'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/perks/constructor/Icon-Constructor-SwabTheDeck-128.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
 [data-class='B.A.S.E.'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/classPerks/Icon-Constructor-BASE-128.png);

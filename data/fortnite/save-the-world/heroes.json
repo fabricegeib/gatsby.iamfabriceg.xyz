@@ -3305,6 +3305,16 @@
         "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-024-PirateConstructor-SR-T01-L.png",
         "teamPerkUnlock":"xxx",
         "teamPerkUnlockText":"xxx",
+        "perk":{
+            "standard":"Swab The Deck",
+            "standardText":"xxx",
+            "standardFr":"xxx",
+            "standardTextFr":"xxx",
+            "commander":"Swab The Deck +",
+            "commanderText":"xxx",
+            "commanderFr":"xxx",
+            "commanderTextFr":"xxx"
+        },
         "classPerks":[
             {
                 "title":"xxx",
@@ -3319,16 +3329,6 @@
                 "textFr":"xxx"
             }
         ],
-        "perk":{
-            "standard":"Swab The Deck",
-            "standardText":"xxx",
-            "standardFr":"xxx",
-            "standardTextFr":"xxx",
-            "commander":"Swab The Deck +",
-            "commanderText":"xxx",
-            "commanderFr":"xxx",
-            "commanderTextFr":"xxx"
-        },
         "abilities":[
             {
                 "title":"xxx",
