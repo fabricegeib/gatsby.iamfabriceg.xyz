@@ -2084,46 +2084,61 @@
             "group":"heroes",
             "subgroup":"constructor",
             "bloc":"xxx",
-            "own":"x",
+            "own":"1",
             "collect":"x"
         },
         "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-032-ToyConstructor-VR-T01-L.png",
+        "teamPerkUnlock":"xxx",
+        "teamPerkUnlockText":"xxx",
         "classPerks":[
             {
                 "title":"Kinetic Overload",
-                "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."
+                "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds, up to 5 stacks.",
+                "titleFr":"xxx",
+                "textFr":"xxx"
             },
             {
-                "title":"B.A.S.E",
-                "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."
+                "title":"B.A.S.E.",
+                "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel.",
+                "titleFr":"xxx",
+                "textFr":"xxx"
             }
         ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
         "perk":{
-            "standard":"Software",
-            "standardText":"Increases Hardware heavy attack efficiency by 65%",
-            "commander":"Software +",
-            "commanderText":"Increases Hardware heavy attack efficiency by 200%"
+            "standard":"Bouncy Shield",
+            "standardText":"Up to 5 attacks blocked by Goin' Constructor create a sonic wave, dealing 64 base damage to enemies within 0.5 tiles.",
+            "standardFr":"xxx",
+            "standardTextFr":"xxx",
+            "commander":"Bouncy Shield +",
+            "commanderText":"Up to 8 attacks blocked by Goin' Constructor create a sonic wave, dealing 128 base damage to enemies within 0.5 tiles.",
+            "commanderFr":"xxx",
+            "commanderTextFr":"xxx"
         },
         "abilities":[
             {
+                "title":"Goin' Constructor",
+                "text":"Equip a hammer which deals 314 base physical damage per hit and a shield that reduces 95% damage from the front. Lasts 16 seconds.",
+                "img":"xxx",
+                "cost":"xxx",
+                "cooldown":"xxx"
+            },
+            {
+                "title":"Bull Rush",
+                "text":"Charge forward 3 tiles, dealing 104 base physical damage to enemies and pushing them away with your shield.",
+                "img":"xxx",
+                "cost":"xxx",
+                "cooldown":"xxx"
+            },
+            {
                 "title":"Plasma Pulse",
-                "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.",
-                "cost":"40 energy",
-                "cooldown":"45 seconds"
-            },
-            {
-                "title":"Ford",
-                "text":"c"
-            },
-            {
-                "title":"Ford",
-                "text":"c"
+                "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 base energy damage.",
+                "img":"xxx",
+                "cost":"xxx",
+                "cooldown":"xxx"
             }
         ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. "
+        "citation":"I put the 'action' in 'action figure'!",
+        "citationFr":"xxx"
     },
     {
         "name":"The Ice King",
@@ -3288,42 +3303,57 @@
             "collect":"x"
         },
         "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-024-PirateConstructor-SR-T01-L.png",
+        "teamPerkUnlock":"xxx",
+        "teamPerkUnlockText":"xxx",
         "classPerks":[
             {
-                "title":"Kinetic Overload",
-                "text":"Melee knockbacks and staggers trigger Kinetic Overload, dealing 25 base Energy Damage to nearby enemies. After melee critical hits, increases Melee Impact Damage by 10% for 5 seconds up to 5 stacks."
+                "title":"xxx",
+                "text":"xxx",
+                "titleFr":"xxx",
+                "textFr":"xxx"
             },
             {
-                "title":"B.A.S.E",
-                "text":"Place B.A.S.E. to reinforce attached structures with 60 Armor. Extends 4 segments from placement. Placed from trap wheel."
+                "title":"xxx",
+                "text":"xxxx",
+                "titleFr":"xxx",
+                "textFr":"xxx"
             }
         ],
-        "teamPerkUnlock":"Supercharged Traps",
-        "teamPerkUnlockText":"For Each: Constructor Increases Damage of traps affected by B.A.S.E. by 8.5%.",
         "perk":{
-            "standard":"Software",
-            "standardText":"Increases Hardware heavy attack efficiency by 65%",
-            "commander":"Software +",
-            "commanderText":"Increases Hardware heavy attack efficiency by 200%"
+            "standard":"Swab The Deck",
+            "standardText":"xxx",
+            "standardFr":"xxx",
+            "standardTextFr":"xxx",
+            "commander":"Swab The Deck +",
+            "commanderText":"xxx",
+            "commanderFr":"xxx",
+            "commanderTextFr":"xxx"
         },
         "abilities":[
             {
-                "title":"Plasma Pulse",
-                "text":"Deploy a device which spews plasma mines for 6 seconds. Each mine deals 46 energy damage.",
-                "cost":"40 energy",
-                "cooldown":"45 seconds"
+                "title":"xxx",
+                "text":"xxx",
+                "img":"xxx",
+                "cost":"xxx",
+                "cooldown":"xxx"
             },
             {
-                "title":"Ford",
-                "text":"c"
+                "title":"xxx",
+                "text":"xxx",
+                "img":"xxx",
+                "cost":"xxx",
+                "cooldown":"xxx"
             },
             {
-                "title":"Ford",
-                "text":"c"
+               "title":"xxx",
+                "text":"xxx",
+                "img":"xxx",
+                "cost":"xxx",
+                "cooldown":"xxx"
             }
         ],
-        "citation":"Only the biggest of BASEs.",
-        "citationFr":"Les grosses bases, y a que ça de vrai. "
+        "citation":"xxx",
+        "citationFr":"xxx"
     },
     {
         "name":"Privateer Hype legendary",

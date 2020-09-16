@@ -176,7 +176,7 @@ const CardTemplate = (props) => {
                             <div className="hero-informations__block">
                                 <h3 className="hero__ability">Abilities</h3> {/* Compétences */}
                                 <div className="hero-informations__subblock">
-                                    <div data-ability={props.data.heroesJson.abilities[0].img}></div>
+                                    <div data-ability={props.data.heroesJson.abilities[0].title}></div>
 
                                     <div>
                                         {props.data && <h4>{props.data.heroesJson.abilities[0].title}</h4>}
@@ -187,7 +187,7 @@ const CardTemplate = (props) => {
                                 </div>
 
                                 <div className="hero-informations__subblock">
-                                    <div data-ability={props.data.heroesJson.abilities[1].img}></div>
+                                    <div data-ability={props.data.heroesJson.abilities[1].title}></div>
 
                                     <div>
                                         {props.data && <h4>{props.data.heroesJson.abilities[1].title}</h4>}
@@ -198,7 +198,7 @@ const CardTemplate = (props) => {
                                 </div>
                                 
                                 <div className="hero-informations__subblock">
-                                    <div data-ability={props.data.heroesJson.abilities[2].img}></div>
+                                    <div data-ability={props.data.heroesJson.abilities[2].title}></div>
 
                                     <div>
                                         {props.data && <h4>{props.data.heroesJson.abilities[2].title}</h4>}

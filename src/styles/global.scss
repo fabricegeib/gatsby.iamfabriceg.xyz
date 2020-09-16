@@ -312,23 +312,31 @@ ul {
     background-size: 100%;
     background-position: center;
 }
+[data-perk='Bouncy Shield'], [data-perk='Bouncy Shield +'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/perks/constructor/Icon-Constructor-BouncyShield-128.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+[data-class='B.A.S.E.'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/classPerks/Icon-Constructor-BASE-128.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
 [data-class='Kinetic Overload'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
-    background-image: url(../../data/fortnite/save-the-world/images/classPerks/Icon-Constructor-KineticOverload-128.webp);
+    background-image: url(../../data/fortnite/save-the-world/images/classPerks/Icon-Constructor-KineticOverload-128.png);
     width: 36px;
     height: 36px;
     background-size: 100%;
     background-position: center;
 }
-[data-class='B.A.S.E'] {
-    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
-    background-image: url(../../data/fortnite/save-the-world/images/classPerks/Icon-Constructor-BASE-128.webp);
-    width: 36px;
-    height: 36px;
-    background-size: 100%;
-    background-position: center;
-}
-[data-ability='bull-rush'] {
+[data-ability='bull-rush'], [data-ability='Bull Rush'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/abilities/constructor/bull-rush.png);
     width: 36px;
@@ -344,7 +352,7 @@ ul {
     background-size: 100%;
     background-position: center;
 }
-[data-ability='goin-constructor'] {
+[data-ability='goin-constructor'], [data-ability='Goin\' Constructor'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/abilities/constructor/goin-constructor.png);
     width: 36px;
@@ -352,7 +360,7 @@ ul {
     background-size: 100%;
     background-position: center;
 }
-[data-ability='plasma-pulse'] {
+[data-ability='plasma-pulse'], [data-ability='Plasma Pulse'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/abilities/constructor/plasma-pulse.png);
     width: 36px;
@@ -360,7 +368,7 @@ ul {
     background-size: 100%;
     background-position: center;
 }
-[data-ability='rosie'] {
+[data-ability='rosie'], [data-ability='R.O.S.I.E.'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/abilities/constructor/rosie.png);
     width: 36px;

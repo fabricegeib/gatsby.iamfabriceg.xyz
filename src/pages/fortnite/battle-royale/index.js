@@ -79,7 +79,7 @@ const BattleRoyalePage = class extends React.Component {
             {/* fetchedShop.data.daily.entries - (c'est lui qui a plusieurs entrées) */}
 
             {fetchedShop && <div className="fortnite_battle-royale_shop-daily">
-              <h3 className="fnFont">Special featured Shop</h3>
+              <h3 className="fnFont">Special featured Shop - {fetchedShop.data.date}</h3>
             
               <div className="heroesCards">
                 {

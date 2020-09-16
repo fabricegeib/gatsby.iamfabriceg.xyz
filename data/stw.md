@@ -104,24 +104,24 @@ color bg : 091837 / 0d2143 / 0a2c5f
         "abilities":[
             {
                 "title":"xxx",
+                "text":"xxx",
                 "img":"xxx",
                 "cost":"xxx",
-                "cooldown":"xxx",
-                "text":"xxx"
+                "cooldown":"xxx"
             },
             {
                 "title":"xxx",
+                "text":"xxx",
                 "img":"xxx",
                 "cost":"xxx",
-                "cooldown":"xxx",
-                "text":"xxx"
+                "cooldown":"xxx"
             },
             {
-                "title":"xxx",
+               "title":"xxx",
+                "text":"xxx",
                 "img":"xxx",
                 "cost":"xxx",
-                "cooldown":"xxx",
-                "text":"xxx"
+                "cooldown":"xxx"
             }
         ],
         "citation":"xxx",
