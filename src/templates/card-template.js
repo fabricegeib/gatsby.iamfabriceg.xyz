@@ -11,19 +11,8 @@ export const query = graphql`
             id
             type
             name
-            nameFr
             rarity
             class
-            perk {
-                commander
-                commanderText
-                standard
-                standardText
-            }
-            classPerks {
-                title
-                text
-            }
             collectionBook {
                 bloc
                 collect
@@ -31,16 +20,25 @@ export const query = graphql`
                 own
                 subgroup
             }
+            teamPerkUnlock
+            teamPerkUnlockText
+            perk {
+                commander
+                commanderText
+                standard
+                standardText
+            }
             abilities {
-                img
                 title
                 text
                 cost
                 cooldown
             }
+            classPerks {
+                title
+                text
+            }
             citation
-            teamPerkUnlock
-            teamPerkUnlockText
             fields {
                 cardSlug
             }
@@ -92,7 +90,7 @@ const CardTemplate = (props) => {
 
                                 {/* <div data-class={props.data.heroesJson.class}></div> */}
                                 <Link to={`/fortnite/save-the-world/heroes/${props.data.heroesJson.class}/`}>
-                                    <p className="">{props.data.heroesJson.class}</p>
+                                    {props.data.heroesJson.class}
                                 </Link>
                             </div>
 

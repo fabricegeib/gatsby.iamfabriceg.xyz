@@ -63,6 +63,41 @@ heroes (missing) :
     
 ---
 
+abilitie
+    constructor
+        Bull Rush
+        DECOY
+        Goin' Constructor
+        Plasma Pulse
+        R.O.S.I.E.
+    soldier
+        Frag Grenade
+        Shockwave
+        War Cry
+    outlander
+    ninja
+
+classPerks
+    constructor
+        Kinetic Overload
+        B.A.S.E.
+    soldier
+        Suppressive Fire
+        Stay Frosty
+    outlander
+    ninja
+
+perk
+    constructor
+        Grease The Wheels
+        Knight's Impact
+        Mega BASE
+    soldier
+        Explosive Rounds
+    outlander
+    ninja
+---
+
 color bg : 091837 / 0d2143 / 0a2c5f
 
 ---
@@ -73,7 +108,7 @@ color bg : 091837 / 0d2143 / 0a2c5f
         "name":"xxx",
         "nameFr":"xxx",
         "slug":"xxx",
-        "rarity":"xx",
+        "rarity":"xxx",
         "class":"xxx",
         "type":"xxx",
         "collectionBook":{
@@ -96,20 +131,6 @@ color bg : 091837 / 0d2143 / 0a2c5f
             "commanderFr":"xxx",
             "commanderTextFr":"xxx"
         },
-        "classPerks":[
-            {
-                "title":"xxx",
-                "text":"xxx",
-                "titleFr":"xxx",
-                "textFr":"xxx"
-            },
-            {
-                "title":"xxx",
-                "text":"xxxx",
-                "titleFr":"xxx",
-                "textFr":"xxx"
-            }
-        ],
         "abilities":[
             {
                 "title":"xxx",
@@ -131,6 +152,20 @@ color bg : 091837 / 0d2143 / 0a2c5f
                 "img":"xxx",
                 "cost":"xxx",
                 "cooldown":"xxx"
+            }
+        ],
+        "classPerks":[
+            {
+                "title":"xxx",
+                "text":"xxx",
+                "titleFr":"xxx",
+                "textFr":"xxx"
+            },
+            {
+                "title":"xxx",
+                "text":"xxxx",
+                "titleFr":"xxx",
+                "textFr":"xxx"
             }
         ],
         "citation":"xxx",

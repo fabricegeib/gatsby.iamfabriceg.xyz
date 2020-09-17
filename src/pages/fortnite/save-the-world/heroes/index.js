@@ -11,7 +11,6 @@ export const query = graphql `
       edges {
         node {
           name
-          nameFr
           rarity
           id
           class
