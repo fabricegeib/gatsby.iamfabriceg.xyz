@@ -45,10 +45,10 @@ const SoldierPage = () => {
             <div className="container">
 
                 <p className="breadcrumb">
-                    <Link to="/fortnite/">Fortnite</Link> > <Link to="/fortnite/save-the-world/">Save The World</Link >
+                    <Link to="/fortnite/">Fortnite</Link> > <Link to="/fortnite/save-the-world/">Save The World</Link> > <Link to="/fortnite/save-the-world/heroes">Heroes</Link> > Soldier ({data.allHeroesJson.totalCount})
                 </p>
 
-                <h3>Soldier ({data.allHeroesJson.totalCount})</h3>
+                {/* <h3>Soldier ({data.allHeroesJson.totalCount})</h3> */}
             
                 <ul className="links">
                     <li>

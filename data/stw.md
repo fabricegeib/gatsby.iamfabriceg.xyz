@@ -51,6 +51,15 @@
 
 heroes (missing) :
 - constructor (verify on soldier)
+- Wukong
+- Azalea Clark
+- Buccaneer Ramirez
+- Director Riggs
+- Sleuth / Noir
+- Jurassic Ken
+- Razor
+- Dennis
+- Kurohomura
     
 ---
 
@@ -77,6 +86,16 @@ color bg : 091837 / 0d2143 / 0a2c5f
         "image":"./images/heroes/constructor/T-Constructor-HID-Constructor-007-UC-T01-L.png",
         "teamPerkUnlock":"xxx",
         "teamPerkUnlockText":"xxx",
+        "perk":{
+            "standard":"xxx",
+            "standardText":"xxx",
+            "standardFr":"xxx",
+            "standardTextFr":"xxx",
+            "commander":"xxx",
+            "commanderText":"xxx",
+            "commanderFr":"xxx",
+            "commanderTextFr":"xxx"
+        },
         "classPerks":[
             {
                 "title":"xxx",
@@ -91,16 +110,6 @@ color bg : 091837 / 0d2143 / 0a2c5f
                 "textFr":"xxx"
             }
         ],
-        "perk":{
-            "standard":"xxx",
-            "standardText":"xxx",
-            "standardFr":"xxx",
-            "standardTextFr":"xxx",
-            "commander":"xxx",
-            "commanderText":"xxx",
-            "commanderFr":"xxx",
-            "commanderTextFr":"xxx"
-        },
         "abilities":[
             {
                 "title":"xxx",

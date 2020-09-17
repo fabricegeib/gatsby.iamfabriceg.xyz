@@ -88,10 +88,12 @@ const CardTemplate = (props) => {
                                 <h3>{props.data.heroesJson.rarity} | <span className="hero__class">{props.data.heroesJson.type}</span></h3>
 
                                 <h3 className="hero__title">{props.data.heroesJson.name}</h3>
-                                <h3 className="hero__title">{props.data.heroesJson.nameFr}</h3>
+                                {/* <h3 className="hero__title">{props.data.heroesJson.nameFr}</h3> */}
 
                                 {/* <div data-class={props.data.heroesJson.class}></div> */}
-                                <p className="">{props.data.heroesJson.class}</p>
+                                <Link to={`/fortnite/save-the-world/heroes/${props.data.heroesJson.class}/`}>
+                                    <p className="">{props.data.heroesJson.class}</p>
+                                </Link>
                             </div>
 
                             <div className="heroCard" data-rarity={props.data.heroesJson.rarity}>
