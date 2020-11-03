@@ -198,6 +198,10 @@ ul {
                     margin-bottom: 6px;
                 }
             }
+            h3 {
+                text-transform: uppercase;
+                font-size: 0.875rem;
+            }
         }
     }
 }
@@ -284,6 +288,54 @@ ul {
     background-size: 100%;
     background-position: center;
 }
+[data-perk='Bigger is better'], [data-perk='Bigger is better +'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/perks/soldier/Icon-Soldier-BiggerIsBetter-128.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+[data-ability='Frag Grenade'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/abilities/soldier/13.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+[data-ability='Goin\' Commando!!!'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/abilities/soldier/14.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+[data-ability='Lefty and Righty'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/abilities/soldier/15.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+[data-ability='Shockwave'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/abilities/soldier/16.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+[data-ability='War Cry'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/abilities/soldier/17.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
 .constructor, [data-class='constructor'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/class/T-Icon-Hero-Constructor-CARD.png);
@@ -292,7 +344,7 @@ ul {
     background-size: 100%;
     background-position: center;
 }
-[data-perk='Grease The Wheels'] {
+[data-perk='Grease The Wheels'], [data-perk='Grease The Wheels +'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/perks/constructor/Icon-Constructor-GreaseTheWheels-128_2.png);
     width: 36px;
@@ -300,31 +352,47 @@ ul {
     background-size: 100%;
     background-position: center;
 }
+[data-perk='Bouncy Shield'], [data-perk='Bouncy Shield +'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/perks/constructor/Icon-Constructor-BouncyShield-128.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+[data-perk='Swab The Deck'], [data-perk='Swab The Deck +'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/perks/constructor/Icon-Constructor-SwabTheDeck-128.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+[data-class='B.A.S.E.'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/classPerks/constructor/Icon-Constructor-BASE-128.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
 [data-class='Kinetic Overload'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
-    background-image: url(../../data/fortnite/save-the-world/images/classPerks/Icon-Constructor-KineticOverload-128.webp);
+    background-image: url(../../data/fortnite/save-the-world/images/classPerks/constructor/Icon-Constructor-KineticOverload-128.png);
     width: 36px;
     height: 36px;
     background-size: 100%;
     background-position: center;
 }
-[data-class='B.A.S.E'] {
+[data-ability='bull-rush'], [data-ability='Bull Rush'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
-    background-image: url(../../data/fortnite/save-the-world/images/classPerks/Icon-Constructor-BASE-128.webp);
+    background-image: url(../../data/fortnite/save-the-world/images/abilities/constructor/Icon-Constructor-BullRush-128.png);
     width: 36px;
     height: 36px;
     background-size: 100%;
     background-position: center;
 }
-[data-ability='bull-rush'] {
-    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
-    background-image: url(../../data/fortnite/save-the-world/images/abilities/constructor/bull-rush.png);
-    width: 36px;
-    height: 36px;
-    background-size: 100%;
-    background-position: center;
-}
-[data-ability='decoy'] {
+[data-ability='decoy'], [data-ability='DECOY'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/abilities/constructor/decoy.png);
     width: 36px;
@@ -332,7 +400,7 @@ ul {
     background-size: 100%;
     background-position: center;
 }
-[data-ability='goin-constructor'] {
+[data-ability='goin-constructor'], [data-ability='Goin\' Constructor'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/abilities/constructor/goin-constructor.png);
     width: 36px;
@@ -340,7 +408,7 @@ ul {
     background-size: 100%;
     background-position: center;
 }
-[data-ability='plasma-pulse'] {
+[data-ability='plasma-pulse'], [data-ability='Plasma Pulse'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/abilities/constructor/plasma-pulse.png);
     width: 36px;
@@ -348,7 +416,7 @@ ul {
     background-size: 100%;
     background-position: center;
 }
-[data-ability='rosie'] {
+[data-ability='rosie'], [data-ability='R.O.S.I.E.'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/abilities/constructor/rosie.png);
     width: 36px;
@@ -359,6 +427,14 @@ ul {
 .ninja, [data-class='ninja'] {
     // background-image: url(./images/#{$folder}/#{$img}.#{$type});
     background-image: url(../../data/fortnite/save-the-world/images/class/T-Icon-Hero-Ninja-CARD.png);
+    width: 36px;
+    height: 36px;
+    background-size: 100%;
+    background-position: center;
+}
+[data-perk='Cascade'], [data-perk='Cascade +'] {
+    // background-image: url(./images/#{$folder}/#{$img}.#{$type});
+    background-image: url(../../data/fortnite/save-the-world/images/perks/ninja/Icon-Ninja-Cascade-128.png);
     width: 36px;
     height: 36px;
     background-size: 100%;
@@ -524,6 +600,13 @@ ul {
         display: grid;
         grid-template-columns: 33.333% 66.666%;
         grid-template-rows: 1fr;
+        .hero {
+            &-left {
+                a {
+                    color: $white-color;
+                }
+            }
+        }
         @media only screen and (max-width: 619px) {
             grid-template-columns: none;
             .hero {

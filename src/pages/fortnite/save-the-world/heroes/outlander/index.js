@@ -43,11 +43,12 @@ const OutlanderPage = () => {
         <SEO title="Fortnite Save The World - Heroes : Outlander" />
         <div className="fortnite">
             <div className="container">
+                {/* <span className="backArrow"><Link to="/fortnite/save-the-world/heroes">&#8592;</Link></span> */}
                 <p className="breadcrumb">
-                    <Link to="/fortnite/">Fortnite</Link> > <Link to="/fortnite/save-the-world/">Save The World</Link >
+                    <Link to="/fortnite/">Fortnite</Link> > <Link to="/fortnite/save-the-world/">Save The World</Link> > <Link to="/fortnite/save-the-world/heroes">Heroes</Link> > Outlander ({data.allHeroesJson.totalCount})
                 </p>
 
-                <h3>Outlander ({data.allHeroesJson.totalCount})</h3>
+                {/* <h3>Outlander ({data.allHeroesJson.totalCount})</h3> */}
             
                 <ul className="links">
                     <li>

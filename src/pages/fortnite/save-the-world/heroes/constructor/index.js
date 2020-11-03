@@ -43,13 +43,13 @@ const ConstructorPage = () => {
         <SEO title="Fortnite Save The World - Heroes : Constructor" />
         <div className="fortnite">
             <div className="container">
-                <h3><span className="backArrow"><Link to="/fortnite/save-the-world/">&#8592;</Link></span>Fortnite</h3>
+                {/* <h3><span className="backArrow"><Link to="/fortnite/save-the-world/">&#8592;</Link></span>Fortnite</h3> */}
 
-                {/* <p className="breadcrumb">
-                    <Link to="/fortnite/">Fortnite</Link> > <Link to="/fortnite/save-the-world/">Save The World</Link >
-                </p> */}
+                <p className="breadcrumb">
+                    <Link to="/fortnite/">Fortnite</Link> > <Link to="/fortnite/save-the-world/">Save The World</Link> > <Link to="/fortnite/save-the-world/heroes">Heroes</Link> > Constructor ({data.allHeroesJson.totalCount})
+                </p>
 
-                <h3>Constructor ({data.allHeroesJson.totalCount})</h3>
+                {/* <h3>Constructor ({data.allHeroesJson.totalCount})</h3> */}
                 
                 <ul className="links">
                     <li>

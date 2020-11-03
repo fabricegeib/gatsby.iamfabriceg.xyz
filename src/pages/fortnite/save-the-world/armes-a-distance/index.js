@@ -7,7 +7,10 @@ class ArmesADistancePage extends React.Component {
     const dataFusilsAPompe = this.props.data.allCollectionArmesADistanceFusilsAPompeCsv.edges
     return (
       <div className="container--full">
-        <p><Link to="/fortnite/save-the-world">Go back to Save The World</Link></p>
+        {/* <p><Link to="/fortnite/save-the-world">Go back to Save The World</Link></p> */}
+        <p className="breadcrumb">
+          <Link to="/fortnite/">Fortnite</Link> > <Link to="/fortnite/save-the-world/">Save The World</Link> > Armes à distance
+        </p>
         <div className="oT">
           <table>
             <thead>

@@ -11,29 +11,34 @@ export const query = graphql`
             id
             type
             name
-            nameFr
             rarity
             class
+            collectionBook {
+                bloc
+                collect
+                group
+                own
+                subgroup
+            }
+            teamPerkUnlock
+            teamPerkUnlockText
             perk {
                 commander
                 commanderText
                 standard
                 standardText
             }
-            classPerks {
-                title
-                text
-            }
             abilities {
-                img
                 title
                 text
                 cost
                 cooldown
             }
+            classPerks {
+                title
+                text
+            }
             citation
-            teamPerkUnlock
-            teamPerkUnlockText
             fields {
                 cardSlug
             }
@@ -81,9 +86,12 @@ const CardTemplate = (props) => {
                                 <h3>{props.data.heroesJson.rarity} | <span className="hero__class">{props.data.heroesJson.type}</span></h3>
 
                                 <h3 className="hero__title">{props.data.heroesJson.name}</h3>
-                                <h3 className="">{props.data.heroesJson.nameFr}</h3>
+                                {/* <h3 className="hero__title">{props.data.heroesJson.nameFr}</h3> */}
 
-                                <p className="">{props.data.heroesJson.class}</p>
+                                {/* <div data-class={props.data.heroesJson.class}></div> */}
+                                <Link to={`/fortnite/save-the-world/heroes/${props.data.heroesJson.class}/`}>
+                                    {props.data.heroesJson.class}
+                                </Link>
                             </div>
 
                             <div className="heroCard" data-rarity={props.data.heroesJson.rarity}>
@@ -99,6 +107,14 @@ const CardTemplate = (props) => {
                                     {/* <p className="hero__title">{props.data.heroesJson.name}</p> */}
                                 </div>
                             </div>
+
+                            <div className="collection">
+                                {props.data.heroesJson.collectionBook && <p>own : {props.data.heroesJson.collectionBook.own}</p>}
+                                {props.data.heroesJson.collectionBook && <p>collect : {props.data.heroesJson.collectionBook.collect}</p>}
+                                {/* collectionBook.group
+                                collectionBook.subgroup
+                                collectionBook.bloc */}
+                            </div>
                         </div>
 
                         <div className="hero-informations">
@@ -113,6 +129,8 @@ const CardTemplate = (props) => {
                                     <div>
                                         <h4 className="hero-informations__block__title">{props.data.heroesJson.perk.standard}</h4>
                                         <p>{props.data.heroesJson.perk.standardText}</p>
+                                        
+                                        <i>Passive bonus granted if this hero is slotted in a Hero Loadout</i>
                                     </div>
                                 </div>
                             </div>
@@ -121,8 +139,16 @@ const CardTemplate = (props) => {
                                 <h3 className="hero__ability">Commander Perk</h3>
                                 {/* <h4 className="hero__ability">Avantage de Commandant</h4> */}
 
-                                <h4 className="hero-informations__block__title">{props.data.heroesJson.perk.commander}</h4>
-                                <p>{props.data.heroesJson.perk.commanderText}</p>
+                                <div className="hero-informations__subblock">
+                                    <div data-perk={props.data.heroesJson.perk.commander}></div>
+
+                                    <div>
+                                        <h4 className="hero-informations__block__title">{props.data.heroesJson.perk.commander}</h4>
+                                        <p>{props.data.heroesJson.perk.commanderText}</p>
+
+                                        <i>Replace the Standard Perk if this hero is slotted as the Commander.</i>
+                                    </div>
+                                </div>
                             </div>
 
                             <div className="hero-informations__block">
@@ -131,47 +157,54 @@ const CardTemplate = (props) => {
 
                                 <div className="hero-informations__subblock">
                                     <div data-class={props.data.heroesJson.classPerks[0].title}></div>
-                                    <p>{props.data.heroesJson.classPerks[0].text}</p>   
+
+                                    <div>
+                                        <h4>{props.data.heroesJson.classPerks[0].title}</h4>
+                                        <p>{props.data.heroesJson.classPerks[0].text}</p>  
+                                    </div> 
                                 </div>
 
                                 <div className="hero-informations__subblock">
                                     <div data-class={props.data.heroesJson.classPerks[1].title}></div>
-                                    <p>{props.data.heroesJson.classPerks[1].text}</p>   
+                                    <div>
+                                        <h4>{props.data.heroesJson.classPerks[1].title}</h4>
+                                        <p>{props.data.heroesJson.classPerks[1].text}</p> 
+                                    </div>  
                                 </div>
                             </div>
 
                             <div className="hero-informations__block">
-                                <h3 className="hero__ability">Compétences</h3>
+                                <h3 className="hero__ability">Abilities</h3> {/* Compétences */}
                                 <div className="hero-informations__subblock">
-                                    <div data-ability={props.data.heroesJson.abilities[0].img}></div>
+                                    <div data-ability={props.data.heroesJson.abilities[0].title}></div>
 
                                     <div>
                                         {props.data && <h4>{props.data.heroesJson.abilities[0].title}</h4>}
-                                        {props.data && <p>{props.data.heroesJson.abilities[0].cost}</p>}
-                                        {props.data && <p>{props.data.heroesJson.abilities[0].cooldown}</p>}
                                         {props.data && <p>{props.data.heroesJson.abilities[0].text}</p>}
+                                        {props.data && <p>{props.data.heroesJson.abilities[0].cost} energy</p>}
+                                        {props.data && <p>{props.data.heroesJson.abilities[0].cooldown} seconds</p>}
                                     </div>
                                 </div>
 
                                 <div className="hero-informations__subblock">
-                                    <div data-ability={props.data.heroesJson.abilities[1].img}></div>
+                                    <div data-ability={props.data.heroesJson.abilities[1].title}></div>
 
                                     <div>
                                         {props.data && <h4>{props.data.heroesJson.abilities[1].title}</h4>}
-                                        {props.data && <p>{props.data.heroesJson.abilities[1].cost}</p>}
-                                        {props.data && <p>{props.data.heroesJson.abilities[1].cooldown}</p>}
                                         {props.data && <p>{props.data.heroesJson.abilities[1].text}</p>}
+                                        {props.data && <p>{props.data.heroesJson.abilities[1].cost} energy</p>}
+                                        {props.data && <p>{props.data.heroesJson.abilities[1].cooldown} seconds</p>}
                                     </div>
                                 </div>
                                 
                                 <div className="hero-informations__subblock">
-                                    <div data-ability={props.data.heroesJson.abilities[2].img}></div>
+                                    <div data-ability={props.data.heroesJson.abilities[2].title}></div>
 
                                     <div>
                                         {props.data && <h4>{props.data.heroesJson.abilities[2].title}</h4>}
-                                        {props.data && <p>{props.data.heroesJson.abilities[2].cost}</p>}
-                                        {props.data && <p>{props.data.heroesJson.abilities[2].cooldown}</p>}
                                         {props.data && <p>{props.data.heroesJson.abilities[2].text}</p>}
+                                        {props.data && <p>{props.data.heroesJson.abilities[2].cost} energy</p>}
+                                        {props.data && <p>{props.data.heroesJson.abilities[2].cooldown} seconds</p>}
                                     </div>
                                 </div>
                             </div>

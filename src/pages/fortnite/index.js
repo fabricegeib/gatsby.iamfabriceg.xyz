@@ -10,7 +10,10 @@ const FortnitePage = () => (
   <Layout>
     <SEO title="Fortnite" />
     <div className="container">
-      <h3><span className="backArrow"><Link to="/">&#8592;</Link></span>Fortnite</h3>
+      {/* <h3><span className="backArrow"><Link to="/">&#8592;</Link></span>Fortnite</h3> */}
+      <p className="breadcrumb">
+        Fortnite
+      </p>
       <p>Build. Fight. Create.</p>
 
       <div className="cards">

@@ -11,7 +11,6 @@ export const query = graphql `
       edges {
         node {
           name
-          nameFr
           rarity
           id
           class
@@ -45,14 +44,18 @@ const HeroesPage = ({ data }) => {
       <SEO title="Fortnite Save The World - Heroes" />
       <div className="fortnite">
         <div className="container">
-          <h3><span className="backArrow"><Link to="/fortnite/save-the-world/">&#8592;</Link></span>Fortnite - Save The World</h3>
+          {/* <h3><span className="backArrow"><Link to="/fortnite/save-the-world/">&#8592;</Link></span>Fortnite - Save The World</h3> */}
+
+          <p className="breadcrumb">
+            <Link to="/fortnite/">Fortnite</Link> > <Link to="/fortnite/save-the-world/">Save The World</Link> > Heroes ({heroes.totalCount})
+          </p>
           
           {/* <div data-type={data.allHeroesJson.totalCount}></div> */}
           {/* <p className="breadcrumb">
               <Link to="/fortnite/">Fortnite</Link> > <Link to="/fortnite/save-the-world/">Save The World</Link>
           </p> */}
 
-          <h3 className="page_title">Heroes ({heroes.totalCount})</h3>
+          {/* <h3 className="page_title">Heroes ({heroes.totalCount})</h3> */}
 
           <ul className="links">
               <li>

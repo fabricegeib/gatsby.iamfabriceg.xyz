@@ -6,7 +6,10 @@ class FusilDAssautComponent extends React.Component {
     const data = this.props.data.allCollectionArmesADistanceFusilsDAssautCsv.edges
     return (
       <div className="container--full">
-        <p><Link to="/fortnite/save-the-world">Go back to Save The World</Link></p>
+        {/* <p><Link to="/fortnite/save-the-world">Go back to Save The World</Link></p> */}
+        <p className="breadcrumb">
+          <Link to="/fortnite/">Fortnite</Link> > <Link to="/fortnite/save-the-world/">Save The World</Link> > Fusil d'assault
+        </p>
         <table>
           <thead>
             <tr>
