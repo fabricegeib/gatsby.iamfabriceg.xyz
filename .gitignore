@@ -78,3 +78,5 @@ dploy.yaml
 
 #github
 .github
+env.development
+env.production
