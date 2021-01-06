@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Fabrice Geib <fabricegeib@gmail.com>",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "eslint-plugin-react-hooks": "^4.2.0",
     "gatsby": "^2.24.57",
