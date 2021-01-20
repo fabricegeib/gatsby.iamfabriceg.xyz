@@ -12,7 +12,8 @@ const BattleRoyalePage = () => {
   const [fetchedData, setFetchData] = useState([])
 
   useEffect(() => {
-    fetch(`${process.env.FORTNITE_API_URL}`)
+    // fetch(`${process.env.FORTNITE_API_URL}`)
+    fetch("https://fortnite-api.com/v2/shop/br?language=fr")
       .then(response => {
         // console.log(response);
         return response.json()
