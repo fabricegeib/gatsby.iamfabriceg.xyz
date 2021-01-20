@@ -99,3 +99,7 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 <!-- https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default -->
 
 <!-- AUTO-GENERATED-CONTENT:END -->
+
+https://pedantic-clarke-873963.netlify.app/
+https://www.aboutmonica.com/blog/create-gatsby-blog-search-tutorial
+https://www.digitalocean.com/community/tutorials/gatsbyjs-gatsby-link
