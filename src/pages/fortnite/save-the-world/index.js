@@ -9,35 +9,36 @@ const SaveTheWorldPage = () => (
   <Layout>
     <SEO title="Save The World" />
     <div className="container">
-    {/* <span className="backArrow">&#8592;</span> */}
-    <p>
-      <Link to="/fortnite/">Fortnite</Link> > Save the World
+      {/* <span className="backArrow">&#8592;</span> */}
+      <p>
+        <Link to="/fortnite/">Fortnite</Link> > Save the World
     </p>
 
-    {/* <h3>Save the World</h3> */}
+      {/* <h3>Save the World</h3> */}
 
-    <p>Joueur contre l'environnement (PvE)</p>
+      <p>Joueur contre l'environnement (PvE)</p>
 
-    <div className="xxx">
+      <div className="xxx">
         <ul className="xxx">
-            <li><Link to="/fortnite/save-the-world/heroes/">Heroes</Link></li>
-            <ul>
-                <li><Link to="/fortnite/save-the-world/heroes/constructor">Constructor</Link></li>
-                <li><Link to="/fortnite/save-the-world/heroes/ninja">Ninja</Link></li>
-                <li><Link to="/fortnite/save-the-world/heroes/outlander">Outlander</Link></li>
-                <li><Link to="/fortnite/save-the-world/heroes/soldier">Soldier</Link></li>
-            </ul>
-            
-            <li><Link to="/fortnite/save-the-world/armes-a-distance/">Armes à distance</Link></li>
-            <ul>
-                <li><Link to="/fortnite/save-the-world/armes-a-distance/fusils-d-assaut/">Fusils d'assaut</Link></li>
-                <li><Link to="/fortnite/save-the-world/armes-a-distance/fusils-a-pompe/">Fusils à pompe</Link></li>
-            </ul>
-            {/* <li><Link to="/fortnite/save-the-world/images">Images</Link></li> */}
+          <li><Link to="/fortnite/save-the-world/heroes/">Heroes</Link></li>
+          <ul>
+            <li><Link to="/fortnite/save-the-world/heroes/constructor">Constructor</Link></li>
+            <li><Link to="/fortnite/save-the-world/heroes/ninja">Ninja</Link></li>
+            <li><Link to="/fortnite/save-the-world/heroes/outlander">Outlander</Link></li>
+            <li><Link to="/fortnite/save-the-world/heroes/soldier">Soldier</Link></li>
+            <li><Link to="/fortnite/save-the-world/heroes/loadouts">Loadouts</Link></li>
+          </ul>
+
+          <li><Link to="/fortnite/save-the-world/armes-a-distance/">Armes à distance</Link></li>
+          <ul>
+            <li><Link to="/fortnite/save-the-world/armes-a-distance/fusils-d-assaut/">Fusils d'assaut</Link></li>
+            <li><Link to="/fortnite/save-the-world/armes-a-distance/fusils-a-pompe/">Fusils à pompe</Link></li>
+          </ul>
+          {/* <li><Link to="/fortnite/save-the-world/images">Images</Link></li> */}
         </ul>
+      </div>
     </div>
-    </div>
-  </Layout>
+  </Layout >
 )
 
 export default SaveTheWorldPage
