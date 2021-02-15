@@ -526,6 +526,14 @@ ul {
         background-color: $quaternary-color;
         background: radial-gradient(#e8c86f, #d3a83e, #be9626);
     }
+    &[data-rarity=icon] {
+        // border: 4px solid #2ab8c1;
+        // background-color: #2ab8c1;
+        // background: radial-gradient(#08bfcc,#2ab8c1,#13718c);
+        border: 4px solid #57eaed;
+        background-color: #57eaed;
+        background: radial-gradient(#57eaed,#2ab8c1,#13718c);
+    }
     &[data-rarity='mythic'] {
         border: 4px solid $mythic-color;
         background-color: $quaternary-color;
