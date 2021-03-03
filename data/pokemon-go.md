@@ -1,7 +1,9 @@
 # Etudes spéciales
 
-## Let's GO, Meltan (4/9)
-- ~~Gagne 5 Bonbons en marchant avec ton copain (3/5)~~
+## Let's GO, Meltan (5/9)
+- Fais évoluer un Tadmorv
+- Attrape 5 Ligmagma ou Gloupti
+- Fais 20 Superbes lancers
 
 ## Une découverte fabuleuse (6/8)
 - Combats dans 10 Raids (4/10)
