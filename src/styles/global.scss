@@ -575,6 +575,18 @@ ul {
         line-height: 1rem;
         font-family: $font-burbank-bold;
     }
+    &__bottom {
+        position: relative;
+        max-height: 58px;
+    }
+    &__collectionBook-collect {
+        position: absolute;
+        right: 3px;
+        bottom: 3px;
+        font-size: 0.875rem;
+
+
+    }
     &__class {
         font-family: $font-burbank-bold;
     }

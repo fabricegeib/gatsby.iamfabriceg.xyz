@@ -76,7 +76,7 @@
       "group": "xxx",
       "subgroup": "xxx",
       "bloc": "xxx",
-      "own": "x",
+      "own": "",
       "collect": "x"
     },
     "image": "./images/heroes/constructor/T-Constructor-HID-Constructor-007-R-T01-L.png",
@@ -7798,13 +7798,6 @@
     "rarity": "rare",
     "class": "outlander",
     "type": "heroes",
-    "collectionBook": {
-      "group": "xxx",
-      "subgroup": "xxx",
-      "bloc": "xxx",
-      "own": "x",
-      "collect": "x"
-    },
     "image": "./images/heroes/outlander/T-Outlander-HID-Outlander-007-R-T01-L.png",
     "classPerks": [
       {

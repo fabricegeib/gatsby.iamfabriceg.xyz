@@ -3,7 +3,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
+    <img alt="Gatsby" src="https://www.gatsbyjs.org/Gatsby-Monogram.svg" width="60" />
   </a>
 </p>
 <h1 align="center">
@@ -100,6 +100,17 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 <!-- AUTO-GENERATED-CONTENT:END -->
 
-https://pedantic-clarke-873963.netlify.app/
-https://www.aboutmonica.com/blog/create-gatsby-blog-search-tutorial
-https://www.digitalocean.com/community/tutorials/gatsbyjs-gatsby-link
+## PM2
+
+```
+pm2 start index.js --name my-app --watch
+pm2 start index.js --name api.iamfabriceg.xyz --watch
+pm2 start index.js --name discord-bot --watch
+pm2 start index.js --name twitch-bot --watch
+```
+
+## Ressources
+
+- https://pedantic-clarke-873963.netlify.app/
+- https://www.aboutmonica.com/blog/create-gatsby-blog-search-tutorial
+- https://www.digitalocean.com/community/tutorials/gatsbyjs-gatsby-link
