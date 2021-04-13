@@ -50,7 +50,7 @@ const HeroesPage = ({ data }) => {
           {/* <h3><span className="backArrow"><Link to="/fortnite/save-the-world/">&#8592;</Link></span>Fortnite - Save The World</h3> */}
 
           <p className="breadcrumb">
-            <Link to="/fortnite/">Fortnite</Link> > <Link to="/fortnite/save-the-world/">Save The World</Link> > Heroes ({heroes.totalCount})
+            <Link to="/fortnite/">Fortnite</Link> &gt; <Link to="/fortnite/save-the-world/">Save The World</Link> &gt; Heroes ({heroes.totalCount})
           </p>
 
           {/* <div data-type={data.allHeroesJson.totalCount}></div> */}

@@ -30,7 +30,15 @@ const HeroesLoadoutsPage = ({ data }) => {
 
     return (
         <Layout>
-            <h1>Loadouts</h1>
+            <div className="container">
+                <h1>Loadouts</h1>
+
+                <p>loadout 1</p>
+                <p>loadout 2</p>
+                <p>loadout 3</p>
+                <p>loadout 1</p>
+                <p>loadout 5</p>
+            </div>
         </Layout>
     )
 }

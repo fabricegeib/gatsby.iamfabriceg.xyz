@@ -74,7 +74,7 @@ const CardTemplate = (props) => {
             <div className="fortnite">
                 <div className="container">
                     <p className="breadcrumb">
-                        <Link to="/fortnite">Fortnite</Link> > <Link to="/fortnite/save-the-world">Save The World</Link> > <Link to="/fortnite/save-the-world/heroes">Heroes</Link>
+                        <Link to="/fortnite">Fortnite</Link> &gt; <Link to="/fortnite/save-the-world">Save The World</Link> &gt; <Link to="/fortnite/save-the-world/heroes">Heroes</Link>
                     </p>
 
                     <div className="hero_page">
