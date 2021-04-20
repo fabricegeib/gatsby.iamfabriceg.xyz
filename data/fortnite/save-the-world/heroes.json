@@ -121,6 +121,7 @@
   },
   {
     "name": "Controller Harper Epic",
+    "nameFr": "Harper, contrôleuse",
     "rarity": "epic",
     "class": "constructor",
     "type": "heroes",
@@ -226,6 +227,7 @@
   },
   {
     "name": "Power B.A.S.E. Knox Rare",
+    "nameFr": "Harper, contrôleuse",
     "rarity": "rare",
     "class": "constructor",
     "type": "heroes",
@@ -276,6 +278,7 @@
   },
   {
     "name": "Power B.A.S.E. Knox Epic",
+    "nameFr": "Harper, contrôleuse",
     "rarity": "epic",
     "class": "constructor",
     "type": "heroes",
@@ -326,6 +329,7 @@
   },
   {
     "name": "Power B.A.S.E. Knox Legendary",
+    "nameFr": "Harper, contrôleuse",
     "rarity": "legendary",
     "class": "constructor",
     "type": "heroes",
@@ -376,6 +380,7 @@
   },
   {
     "name": "Sentinel Hype Rare",
+    "nameFr": "Harper, contrôleuse",
     "rarity": "rare",
     "class": "constructor",
     "type": "heroes",
@@ -426,6 +431,7 @@
   },
   {
     "name": "Sentinel Hype Epic",
+    "nameFr": "Harper, contrôleuse",
     "rarity": "epic",
     "class": "constructor",
     "type": "heroes",
@@ -476,6 +482,7 @@
   },
   {
     "name": "Sentinel Hype Legendary",
+    "nameFr": "Harper, contrôleuse",
     "rarity": "legendary",
     "class": "constructor",
     "type": "heroes",
@@ -526,6 +533,7 @@
   },
   {
     "name": "Guardian Bull Epic",
+    "nameFr": "Harper, contrôleuse",
     "rarity": "epic",
     "class": "constructor",
     "type": "heroes",
@@ -576,6 +584,7 @@
   },
   {
     "name": "Guardian Bull Legendary",
+    "nameFr": "Harper, contrôleuse",
     "rarity": "legendary",
     "class": "constructor",
     "type": "heroes",
@@ -7720,7 +7729,7 @@
   },
   {
     "name": "Jingle Jess",
-    "nom": "Jess du vent d'hiver",
+    "nameFr": "Jess du vent d'hiver",
     "class": "outlander",
     "rarity": "legendary",
     "collectionBook": {
@@ -7770,7 +7779,7 @@
   },
   {
     "name": "Enforcer Grizzly",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "rarity": "uncommon",
     "collectionBook": {
@@ -7845,7 +7854,7 @@
   },
   {
     "name": "Enforcer Grizzly",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "rarity": "epic",
     "collectionBook": {
@@ -7870,7 +7879,7 @@
   },
   {
     "name": "Enforcer Grizzly",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "rarity": "legendary",
     "collectionBook": {
@@ -7895,7 +7904,7 @@
   },
   {
     "name": "Recon Scout A.C.",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "rarity": "legendary",
     "collectionBook": {
@@ -7920,7 +7929,7 @@
   },
   {
     "name": "Recon Scout Eagle Eye",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "rarity": "rare",
     "collectionBook": {
@@ -7945,7 +7954,7 @@
   },
   {
     "name": "Recon Scout Eagle Eye",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "rarity": "epic",
     "class": "outlander",
     "collectionBook": {
@@ -7970,7 +7979,7 @@
   },
   {
     "name": "Recon Scout Eagle Eye",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "rarity": "legendary",
     "collectionBook": {
@@ -7994,9 +8003,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Recon Scout Jess",
+    "nameFR": "xxx",
     "class": "outlander",
+    "rarity": "legendary",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8018,9 +8028,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Vanguard Southie",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "legendary",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8042,9 +8053,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Vanguard Southie",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "legendary",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8066,9 +8078,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Vanguard Southie",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "legendary",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8090,9 +8103,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Old Glory A.C.",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "legendary",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8114,9 +8128,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Trailblaster A.C.",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "legendary",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8138,9 +8153,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Trailblaster A.C.",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "epic",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8162,9 +8178,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Shockblaster Buzz",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "legendary",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8186,9 +8203,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Shockblaster Buzz",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "epic",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8210,9 +8228,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Gunblazer Southie",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "legendary",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8234,9 +8253,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Gunblazer Southie",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "epic",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8258,9 +8278,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Fragment Flurry Jess",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "legendary",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8282,9 +8303,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Staredown Southie",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "legendary",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8306,9 +8328,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Fragment FLurry Jess",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "epic",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8330,9 +8353,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Flash A.C.",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "legendary",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8354,9 +8378,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Fireflower Eagle Eye",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "epic",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8378,9 +8403,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Fireflower Eagle Eye",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "legendary",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8402,9 +8428,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Fireflower Eagle Eye",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "epic",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8426,9 +8453,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "T.E.D.D. Shot Jess",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "epic",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8450,9 +8478,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "T.E.D.D. Shot Jess",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "legendary",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8474,9 +8503,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "T.E.D.D. Shot Jess",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "epic",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8498,9 +8528,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Ambush Buzz",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "epic",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8522,9 +8553,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Shockgunner Grizzly",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "epic",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8546,9 +8578,10 @@
     ]
   },
   {
-    "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "name": "Wild Fragment Deadeye",
+    "nameFr": "xxx",
     "class": "outlander",
+    "rarity": "legendary",
     "collectionBook": {
       "group": "xxx",
       "subgroup": "xxx",
@@ -8571,7 +8604,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -8595,7 +8628,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -8619,7 +8652,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -8643,7 +8676,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -8667,7 +8700,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -8691,7 +8724,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -8715,7 +8748,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -8739,7 +8772,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -8813,7 +8846,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -8837,7 +8870,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -8861,7 +8894,7 @@
   },
   {
     "name": "T-Outlander-HID-Outlander-PunchPhase-R-T01-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -8885,7 +8918,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -8909,7 +8942,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -8933,7 +8966,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -8957,7 +8990,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -8981,7 +9014,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -9005,7 +9038,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -9029,7 +9062,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -9053,7 +9086,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -9127,7 +9160,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -9151,7 +9184,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -9175,7 +9208,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -9199,7 +9232,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -9223,7 +9256,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -9247,7 +9280,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -9271,7 +9304,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -9295,7 +9328,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -9319,7 +9352,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
@@ -9343,7 +9376,7 @@
   },
   {
     "name": "Athena-Commando-M-Cyberpunk-L",
-    "nom": "xxx",
+    "nameFr": "xxx",
     "class": "outlander",
     "collectionBook": {
       "group": "xxx",
