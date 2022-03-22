@@ -1,3 +1,7 @@
+# Informations
+
+Netlify preview : https://netlify.iamfabriceg.xyz/
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9be00329-fa41-49e1-bfa9-90109353be41/deploy-status)](https://app.netlify.com/sites/iamfabriceg/deploys)
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
