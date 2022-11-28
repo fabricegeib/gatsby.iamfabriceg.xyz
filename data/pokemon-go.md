@@ -1,47 +1,66 @@
+# Évoluer
+
+- Aspicot
+
+- Minidraco
+- Magicarpe
+
+- 3 Pokémons Plante
+
+- Barpau
+- Tadmorv
+
+# Purifier
+
+- 3 Pokémons Obscurs (Feu, Eau, Plante)
+- Malosse
+- Gobou
+- Mysther
+
 # Etudes spéciales
 
-## Une découverte fabuleuse (6/8)
-- Utilise 50 baies pour attraper
-
-## Une disctraction chromatique (2/4)
-- Bats 4 Sbires de la Team GO Rocket
-- Fais éclore 3 Oeufs
-
-## Saison des légends (2/5)
-- Attrape 10 Pokémon de type Vol
-- Attrape 5 Pokémon boostés par la météo
-- Prends une phoyo
-
-## Etude spéciale de lancement (6/6)
-- Nouvel ami
-- Gagne un raid
-- Fais évoluer un Draco
-
-## A se brûler les ailes... (2/6)
-
-## Ondulation du temps (4/8)
-- Marche avec Evoli comme copain
-- Fais évoluer Evoli en Mentali pendant la journée
-
-
-## Une méga-découverte (3/4)
-- Combat dans un Méga-Raid
-
 ## Let's GO, Meltan (5/9)
+
 - Fais évoluer un Tadmorv
 - Attrape 5 Ligmagma ou Gloupti
+- Fais 20 Superbes lancers
+
+## Une découverte fabuleuse (6/8)
+
+- Combats dans 10 Raids (4/10)
+- Fais évoluer un Magicarpe
+
+## A la découverte d'une mystérieuse énergie (3/6)
+
+- ~~Gagne 3 Bonbons en marchant avec ton copain~~
+- Recharge un Pokémon 3 fois
+
+## Une situation troublante (3/4)
+
+- Purifie 3 Pokémons Obscurs
+- Purifie un Pokémon Obscur de type Feu, Eau ou Plante
+
+## Une disctraction chromatique
+
+- Fais évoluer 3 Pokémons de type Plante
+
+## Ondulation du temps (2/8)
+
+- Fais évoluer un Pokémon de type Plante
 
 ## Un message effrayant : les masque tomber (2/4)
-- Attrape (6/10) Pokémon de type Ténèbres
+
+- Attrape 10 Pokémon de type Ténèbres
+
+## Une méga-découverte (2/4)
+
+- Fais évoluer 1 Aspicot
 
 ## Un sommeil millénaire (2/7)
+
 - Fais évoluer un Barpau
 - Gagne une médaille d'or de Hoenn
 
----
+## Etude spéciale de lancement (2/6)
 
-## Une situation troublante (4/4)
-Terminée
-
-## A la découverte d'une mystérieuse énergie (6/6)
-Terminée
+- Fais évoluer un Minidraco
