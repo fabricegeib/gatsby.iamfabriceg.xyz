@@ -155,7 +155,8 @@ ul {
     &_battle-royale {
         // background-color: #0a2c5f;
         img {
-            margin-bottom: 0;
+            // margin-bottom: 0;
+            margin-bottom: -6px;
         }
         &_shop {
             // margin-bottom: 24px;
@@ -605,7 +606,7 @@ ul {
         // margin: -12px 0;
         // position: relative;
         // z-index: 10;
-        padding: 6px;
+        padding: 0 6px;
     }
     & .mythic {
         border: 4px solid #fbe9a7;

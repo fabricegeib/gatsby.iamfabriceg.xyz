@@ -67,10 +67,10 @@ const BattleRoyalePage = () => {
 
                             <div className="heroCard__overlay">
                               <p className="fnFont">{entry.items[0].name}</p>
-                              <p>{entry.items[0].type.displayValue}</p>
                             </div>
 
                             <div className="heroCard__bottom">
+                              <p>{entry.items[0].type.displayValue}</p>
                               <p>{entry.regularPrice}</p>
                             </div>
                           </div>
